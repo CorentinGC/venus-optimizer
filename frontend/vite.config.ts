@@ -289,13 +289,11 @@ async function enrichMarketsWithHistoricalAverages(data: any, outDir: string): P
     const enriched = await Promise.all(
       markets.map(async (m: any) => {
         const sym = String(m?.assetSymbol || m?.symbol || m?.asset || 'UNKNOWN').toLowerCase();
-        const legacyFile = path.resolve(outDir, `${sym}.json`);
-        const legacyOldFile = path.resolve(outDir, 'old', `${sym}.json`);
-        const arrLegacy = await readJsonArraySafe(legacyFile);
-        const arrLegacyOld = await readJsonArraySafe(legacyOldFile);
-        const merged = [...arrLegacyOld, ...arrLegacy];
-        const { avg1m, avg3m, avg6m, avg1y } = calculateApyAveragesFromPoints(merged, 'supply');
-        const { avg1m: b1, avg3m: b3, avg6m: b6, avg1y: bY } = calculateApyAveragesFromPoints(merged, 'borrow');
+        // Only fresh data from pools/<symbol>.json
+        const freshFile = path.resolve(outDir, 'pools', `${sym}.json`);
+        const arrFresh = await readJsonArraySafe(freshFile);
+        const { avg1m, avg3m, avg6m, avg1y } = calculateApyAveragesFromPoints(arrFresh, 'supply');
+        const { avg1m: b1, avg3m: b3, avg6m: b6, avg1y: bY } = calculateApyAveragesFromPoints(arrFresh, 'borrow');
         return {
           ...m,
           avgSupplyApy1m: typeof avg1m === 'number' ? avg1m : m.avgSupplyApy1m,
