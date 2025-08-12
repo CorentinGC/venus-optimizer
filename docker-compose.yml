@@ -1,0 +1,44 @@
+version: "3.9"
+
+services:
+  server:
+    build:
+      context: .
+      dockerfile: Dockerfile.server
+    container_name: venus-switch-bot-server
+    env_file:
+      - .env
+    volumes:
+      - ./logs:/app/logs
+      - ./data:/app/data
+    command: ["npm", "run", "simulate", "-w", "server", "--", "--continuous", "--amount", "100000", "--asset", "USDC", "--interval", "60"]
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    container_name: venus-switch-bot-frontend
+    ports:
+      - "5173:5173"
+    environment:
+      - DATA_MARKETS=/app/data/pools.json
+    volumes:
+      - ./logs:/app/logs:ro
+      - ./data:/app/data:ro
+    depends_on:
+      - server
+    restart: unless-stopped
+
+  pools-cron:
+    build:
+      context: .
+      dockerfile: Dockerfile.server
+    container_name: venus-switch-bot-pools-cron
+    working_dir: /app
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+    command: ["sh", "-c", "echo '0 2 * * * npm run pools-snapshot -w server -- --out data/pools.json >> /proc/1/fd/1 2>&1' > /etc/crontabs/root && crond -f -l 8"]
+    restart: unless-stopped

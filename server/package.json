@@ -1,0 +1,41 @@
+{
+  "name": "venus-optimizer-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "author": "Eden Solutions <ask@eden-solutions.pro> (https://eden-solutions.pro)",
+  "homepage": "https://eden-solutions.pro",
+  "bugs": {
+    "email": "ask@eden-solutions.pro",
+    "url": "https://eden-solutions.pro"
+  },
+  
+  "bin": {
+    "venus-switch-bot": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json && tsc-alias -p tsconfig.json",
+    "start": "node --enable-source-maps dist/index.js check",
+    "check": "node --enable-source-maps dist/index.js check",
+    "dry-run": "node --enable-source-maps dist/index.js dry-run",
+    "simulate": "node --enable-source-maps dist/index.js simulate --amount 100000 --asset USDC --hours 24 --interval 60",
+    "quote-swap": "node --enable-source-maps dist/index.js quote-swap",
+    "pools-snapshot": "node --enable-source-maps dist/index.js pools-snapshot",
+    "clean-data": "node --enable-source-maps dist/index.js clean-data",
+    "collect-apy": "echo 'collect-apy command removed'"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cli-table3": "^0.6.5",
+    "commander": "^14.0.0",
+    "dotenv": "^17.2.1",
+    "ethers": "^6.15.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "tsc-alias": "^1.8.10",
+    "typescript": "^5.9.2"
+  }
+}
+
+

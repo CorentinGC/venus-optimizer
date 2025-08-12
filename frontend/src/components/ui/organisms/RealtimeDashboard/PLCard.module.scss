@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.percent {
+  margin-left: 6px;
+  color: #666;
+}
+
+.positive {
+  color: #107c10;
+  font-weight: 600;
+}
+
+.negative {
+  color: #b00020;
+  font-weight: 600;
+}
+
+

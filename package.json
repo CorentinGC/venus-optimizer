@@ -1,0 +1,33 @@
+{
+  "name": "venus-optimizer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "author": "Eden Solutions <ask@eden-solutions.pro> (https://eden-solutions.pro)",
+  "homepage": "https://eden-solutions.pro",
+  "bugs": {
+    "email": "ask@eden-solutions.pro",
+    "url": "https://eden-solutions.pro"
+  },
+  "workspaces": [
+    "frontend",
+    "server"
+  ],
+  "description": "CLI bot to switch deposits across Venus core pools based on APY and fees (BSC)",
+  "bin": {
+    "venus-switch-bot": "server/dist/index.js"
+  },
+  "scripts": {
+    "build": "npm run build -w server",
+    "start": "npm run start -w server",
+    "check": "npm run check -w server",
+    "dry-run": "npm run dry-run -w server",
+    "simulate": "npm run simulate -w server",
+    "pools-snapshot": "npm run pools-snapshot -w server",
+    "clean-data": "npm run clean-data -w server",
+    "quote-swap": "npm run quote-swap -w server --",
+    "dev": "npm run build -w server --silent && npm run start -w server",
+    "ui": "npm run dev -w frontend"
+  },
+  "devDependencies": {}
+}

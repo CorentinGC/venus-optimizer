@@ -1,0 +1,7562 @@
+[
+  {
+    "timestamp": "2023-07-18T23:02:09.048Z",
+    "totalSupplyUsd": 597905,
+    "totalBorrowUsd": 138802,
+    "debtCeilingUsd": null,
+    "apyBase": 0.95451,
+    "apyReward": 1.7093,
+    "apyBaseBorrow": 5.48221,
+    "apyRewardBorrow": 7.36301
+  },
+  {
+    "timestamp": "2023-07-19T23:02:29.400Z",
+    "totalSupplyUsd": 600835,
+    "totalBorrowUsd": 139406,
+    "debtCeilingUsd": null,
+    "apyBase": 0.95366,
+    "apyReward": 1.60225,
+    "apyBaseBorrow": 5.48032,
+    "apyRewardBorrow": 6.90562
+  },
+  {
+    "timestamp": "2023-07-20T23:02:11.437Z",
+    "totalSupplyUsd": 603883,
+    "totalBorrowUsd": 137491,
+    "debtCeilingUsd": null,
+    "apyBase": 0.92469,
+    "apyReward": 1.68105,
+    "apyBaseBorrow": 5.41518,
+    "apyRewardBorrow": 7.38341
+  },
+  {
+    "timestamp": "2023-07-21T23:02:25.854Z",
+    "totalSupplyUsd": 605366,
+    "totalBorrowUsd": 151981,
+    "debtCeilingUsd": null,
+    "apyBase": 1.08567,
+    "apyReward": 1.6807,
+    "apyBaseBorrow": 5.76585,
+    "apyRewardBorrow": 6.6945
+  },
+  {
+    "timestamp": "2023-07-22T23:02:33.024Z",
+    "totalSupplyUsd": 628584,
+    "totalBorrowUsd": 219449,
+    "debtCeilingUsd": null,
+    "apyBase": 1.89484,
+    "apyReward": 1.63313,
+    "apyBaseBorrow": 7.23674,
+    "apyRewardBorrow": 4.67792
+  },
+  {
+    "timestamp": "2023-07-23T23:02:15.763Z",
+    "totalSupplyUsd": 615767,
+    "totalBorrowUsd": 219997,
+    "debtCeilingUsd": null,
+    "apyBase": 1.9719,
+    "apyReward": 1.6412,
+    "apyBaseBorrow": 7.35909,
+    "apyRewardBorrow": 4.59368
+  },
+  {
+    "timestamp": "2023-07-24T23:02:14.401Z",
+    "totalSupplyUsd": 602218,
+    "totalBorrowUsd": 217506,
+    "debtCeilingUsd": null,
+    "apyBase": 2.00929,
+    "apyReward": 1.63266,
+    "apyBaseBorrow": 7.41762,
+    "apyRewardBorrow": 4.52043
+  },
+  {
+    "timestamp": "2023-07-25T23:02:07.064Z",
+    "totalSupplyUsd": 592811,
+    "totalBorrowUsd": 236520,
+    "debtCeilingUsd": null,
+    "apyBase": 2.38931,
+    "apyReward": 1.65857,
+    "apyBaseBorrow": 7.98471,
+    "apyRewardBorrow": 4.15702
+  },
+  {
+    "timestamp": "2023-07-26T23:02:08.730Z",
+    "totalSupplyUsd": 597238,
+    "totalBorrowUsd": 238292,
+    "debtCeilingUsd": null,
+    "apyBase": 2.3894,
+    "apyReward": 1.6501,
+    "apyBaseBorrow": 7.98485,
+    "apyRewardBorrow": 4.13568
+  },
+  {
+    "timestamp": "2023-07-27T23:02:29.783Z",
+    "totalSupplyUsd": 598236,
+    "totalBorrowUsd": 238847,
+    "debtCeilingUsd": null,
+    "apyBase": 2.39216,
+    "apyReward": 1.66641,
+    "apyBaseBorrow": 7.98879,
+    "apyRewardBorrow": 4.17383
+  },
+  {
+    "timestamp": "2023-07-28T23:02:17.751Z",
+    "totalSupplyUsd": 617365,
+    "totalBorrowUsd": 244008,
+    "debtCeilingUsd": null,
+    "apyBase": 2.35028,
+    "apyReward": 1.6702,
+    "apyBaseBorrow": 7.92861,
+    "apyRewardBorrow": 4.22579
+  },
+  {
+    "timestamp": "2023-07-29T23:02:32.211Z",
+    "totalSupplyUsd": 603962,
+    "totalBorrowUsd": 241177,
+    "debtCeilingUsd": null,
+    "apyBase": 2.39291,
+    "apyReward": 1.68461,
+    "apyBaseBorrow": 7.98987,
+    "apyRewardBorrow": 4.21864
+  },
+  {
+    "timestamp": "2023-07-30T23:09:37.714Z",
+    "totalSupplyUsd": 576374,
+    "totalBorrowUsd": 126375,
+    "debtCeilingUsd": null,
+    "apyBase": 0.86972,
+    "apyReward": 1.75336,
+    "apyBaseBorrow": 5.28887,
+    "apyRewardBorrow": 7.99679
+  },
+  {
+    "timestamp": "2023-07-31T23:02:19.335Z",
+    "totalSupplyUsd": 540761,
+    "totalBorrowUsd": 184118,
+    "debtCeilingUsd": null,
+    "apyBase": 1.81489,
+    "apyReward": 1.83509,
+    "apyBaseBorrow": 7.10719,
+    "apyRewardBorrow": 5.38971
+  },
+  {
+    "timestamp": "2023-08-01T23:02:16.113Z",
+    "totalSupplyUsd": 538410,
+    "totalBorrowUsd": 153704,
+    "debtCeilingUsd": null,
+    "apyBase": 1.34506,
+    "apyReward": 1.86428,
+    "apyBaseBorrow": 6.28216,
+    "apyRewardBorrow": 6.53041
+  },
+  {
+    "timestamp": "2023-08-02T23:02:34.123Z",
+    "totalSupplyUsd": 527900,
+    "totalBorrowUsd": 196018,
+    "debtCeilingUsd": null,
+    "apyBase": 2.10808,
+    "apyReward": 1.88412,
+    "apyBaseBorrow": 7.56975,
+    "apyRewardBorrow": 5.07415
+  },
+  {
+    "timestamp": "2023-08-03T23:02:31.629Z",
+    "totalSupplyUsd": 531979,
+    "totalBorrowUsd": 218161,
+    "debtCeilingUsd": null,
+    "apyBase": 2.50713,
+    "apyReward": 1.89111,
+    "apyBaseBorrow": 8.15141,
+    "apyRewardBorrow": 4.61141
+  },
+  {
+    "timestamp": "2023-08-04T23:02:01.655Z",
+    "totalSupplyUsd": 532296,
+    "totalBorrowUsd": 250107,
+    "debtCeilingUsd": null,
+    "apyBase": 3.1885,
+    "apyReward": 1.90284,
+    "apyBaseBorrow": 9.04798,
+    "apyRewardBorrow": 4.04976
+  },
+  {
+    "timestamp": "2023-08-05T23:02:02.488Z",
+    "totalSupplyUsd": 526010,
+    "totalBorrowUsd": 261969,
+    "debtCeilingUsd": null,
+    "apyBase": 3.53743,
+    "apyReward": 1.91691,
+    "apyBaseBorrow": 9.47045,
+    "apyRewardBorrow": 3.84898
+  },
+  {
+    "timestamp": "2023-08-06T23:02:26.164Z",
+    "totalSupplyUsd": 522051,
+    "totalBorrowUsd": 260028,
+    "debtCeilingUsd": null,
+    "apyBase": 3.53818,
+    "apyReward": 1.90959,
+    "apyBaseBorrow": 9.47134,
+    "apyRewardBorrow": 3.83384
+  },
+  {
+    "timestamp": "2023-08-07T23:02:19.977Z",
+    "totalSupplyUsd": 521678,
+    "totalBorrowUsd": 258641,
+    "debtCeilingUsd": null,
+    "apyBase": 3.50899,
+    "apyReward": 1.8891,
+    "apyBaseBorrow": 9.43681,
+    "apyRewardBorrow": 3.8103
+  },
+  {
+    "timestamp": "2023-08-08T23:02:11.555Z",
+    "totalSupplyUsd": 522934,
+    "totalBorrowUsd": 231835,
+    "debtCeilingUsd": null,
+    "apyBase": 2.87614,
+    "apyReward": 1.93255,
+    "apyBaseBorrow": 8.65002,
+    "apyRewardBorrow": 4.35911
+  },
+  {
+    "timestamp": "2023-08-09T23:02:17.824Z",
+    "totalSupplyUsd": 465282,
+    "totalBorrowUsd": 230069,
+    "debtCeilingUsd": null,
+    "apyBase": 3.49237,
+    "apyReward": 2.15729,
+    "apyBaseBorrow": 9.41709,
+    "apyRewardBorrow": 4.36282
+  },
+  {
+    "timestamp": "2023-08-10T23:02:15.381Z",
+    "totalSupplyUsd": 459367,
+    "totalBorrowUsd": 232989,
+    "debtCeilingUsd": null,
+    "apyBase": 3.65484,
+    "apyReward": 2.17017,
+    "apyBaseBorrow": 9.60795,
+    "apyRewardBorrow": 4.27877
+  },
+  {
+    "timestamp": "2023-08-11T23:02:32.048Z",
+    "totalSupplyUsd": 458712,
+    "totalBorrowUsd": 232560,
+    "debtCeilingUsd": null,
+    "apyBase": 3.65211,
+    "apyReward": 2.17327,
+    "apyBaseBorrow": 9.60478,
+    "apyRewardBorrow": 4.28666
+  },
+  {
+    "timestamp": "2023-08-12T23:02:27.783Z",
+    "totalSupplyUsd": 459976,
+    "totalBorrowUsd": 241283,
+    "debtCeilingUsd": null,
+    "apyBase": 3.88235,
+    "apyReward": 2.13258,
+    "apyBaseBorrow": 9.86831,
+    "apyRewardBorrow": 4.06551
+  },
+  {
+    "timestamp": "2023-08-13T23:02:54.196Z",
+    "totalSupplyUsd": 449499,
+    "totalBorrowUsd": 225470,
+    "debtCeilingUsd": null,
+    "apyBase": 3.58297,
+    "apyReward": 2.17721,
+    "apyBaseBorrow": 9.52405,
+    "apyRewardBorrow": 4.34051
+  },
+  {
+    "timestamp": "2023-08-14T23:02:20.946Z",
+    "totalSupplyUsd": 610879,
+    "totalBorrowUsd": 139732,
+    "debtCeilingUsd": null,
+    "apyBase": 0.93173,
+    "apyReward": 1.63566,
+    "apyBaseBorrow": 5.43109,
+    "apyRewardBorrow": 7.15074
+  },
+  {
+    "timestamp": "2023-08-15T23:02:34.930Z",
+    "totalSupplyUsd": 603182,
+    "totalBorrowUsd": 156733,
+    "debtCeilingUsd": null,
+    "apyBase": 1.14935,
+    "apyReward": 1.63762,
+    "apyBaseBorrow": 5.89765,
+    "apyRewardBorrow": 6.30232
+  },
+  {
+    "timestamp": "2023-08-16T23:02:21.053Z",
+    "totalSupplyUsd": 588898,
+    "totalBorrowUsd": 242271,
+    "debtCeilingUsd": null,
+    "apyBase": 2.52113,
+    "apyReward": 1.53401,
+    "apyBaseBorrow": 8.17096,
+    "apyRewardBorrow": 3.72877
+  },
+  {
+    "timestamp": "2023-08-17T23:02:17.308Z",
+    "totalSupplyUsd": 573257,
+    "totalBorrowUsd": 236399,
+    "debtCeilingUsd": null,
+    "apyBase": 2.5317,
+    "apyReward": 1.44454,
+    "apyBaseBorrow": 8.18568,
+    "apyRewardBorrow": 3.50295
+  },
+  {
+    "timestamp": "2023-08-18T23:02:29.339Z",
+    "totalSupplyUsd": 576428,
+    "totalBorrowUsd": 280836,
+    "debtCeilingUsd": null,
+    "apyBase": 3.40115,
+    "apyReward": 1.47617,
+    "apyBaseBorrow": 9.30801,
+    "apyRewardBorrow": 3.0299
+  },
+  {
+    "timestamp": "2023-08-19T23:02:34.698Z",
+    "totalSupplyUsd": 584532,
+    "totalBorrowUsd": 285536,
+    "debtCeilingUsd": null,
+    "apyBase": 3.4172,
+    "apyReward": 1.48302,
+    "apyBaseBorrow": 9.3273,
+    "apyRewardBorrow": 3.03595
+  },
+  {
+    "timestamp": "2023-08-20T23:03:08.540Z",
+    "totalSupplyUsd": 598553,
+    "totalBorrowUsd": 292696,
+    "debtCeilingUsd": null,
+    "apyBase": 3.42367,
+    "apyReward": 1.44447,
+    "apyBaseBorrow": 9.33507,
+    "apyRewardBorrow": 2.9539
+  },
+  {
+    "timestamp": "2023-08-21T23:02:28.685Z",
+    "totalSupplyUsd": 654547,
+    "totalBorrowUsd": 319944,
+    "debtCeilingUsd": null,
+    "apyBase": 3.42113,
+    "apyReward": 1.29999,
+    "apyBaseBorrow": 9.33202,
+    "apyRewardBorrow": 2.65955
+  },
+  {
+    "timestamp": "2023-08-22T23:02:32.042Z",
+    "totalSupplyUsd": 645918,
+    "totalBorrowUsd": 315721,
+    "debtCeilingUsd": null,
+    "apyBase": 3.42103,
+    "apyReward": 1.2891,
+    "apyBaseBorrow": 9.3319,
+    "apyRewardBorrow": 2.63732
+  },
+  {
+    "timestamp": "2023-08-23T23:02:32.103Z",
+    "totalSupplyUsd": 648185,
+    "totalBorrowUsd": 291207,
+    "debtCeilingUsd": null,
+    "apyBase": 2.94458,
+    "apyReward": 1.31979,
+    "apyBaseBorrow": 8.73896,
+    "apyRewardBorrow": 2.93767
+  },
+  {
+    "timestamp": "2023-08-24T23:02:29.995Z",
+    "totalSupplyUsd": 645432,
+    "totalBorrowUsd": 224585,
+    "debtCeilingUsd": null,
+    "apyBase": 1.88406,
+    "apyReward": 1.29714,
+    "apyBaseBorrow": 7.21942,
+    "apyRewardBorrow": 3.72784
+  },
+  {
+    "timestamp": "2023-08-25T23:02:38.648Z",
+    "totalSupplyUsd": 647729,
+    "totalBorrowUsd": 225583,
+    "debtCeilingUsd": null,
+    "apyBase": 1.88692,
+    "apyReward": 1.29607,
+    "apyBaseBorrow": 7.22402,
+    "apyRewardBorrow": 3.72146
+  },
+  {
+    "timestamp": "2023-08-26T23:02:19.560Z",
+    "totalSupplyUsd": 648658,
+    "totalBorrowUsd": 224679,
+    "debtCeilingUsd": null,
+    "apyBase": 1.8693,
+    "apyReward": 1.28014,
+    "apyBaseBorrow": 7.19564,
+    "apyRewardBorrow": 3.69582
+  },
+  {
+    "timestamp": "2023-08-27T23:02:23.230Z",
+    "totalSupplyUsd": 656635,
+    "totalBorrowUsd": 227443,
+    "debtCeilingUsd": null,
+    "apyBase": 1.8693,
+    "apyReward": 1.25417,
+    "apyBaseBorrow": 7.19564,
+    "apyRewardBorrow": 3.62083
+  },
+  {
+    "timestamp": "2023-08-28T23:02:11.402Z",
+    "totalSupplyUsd": 652307,
+    "totalBorrowUsd": 225034,
+    "debtCeilingUsd": null,
+    "apyBase": 1.85636,
+    "apyReward": 1.20654,
+    "apyBaseBorrow": 7.17472,
+    "apyRewardBorrow": 3.49739
+  },
+  {
+    "timestamp": "2023-08-29T23:02:25.719Z",
+    "totalSupplyUsd": 658064,
+    "totalBorrowUsd": 225465,
+    "debtCeilingUsd": null,
+    "apyBase": 1.83454,
+    "apyReward": 1.30691,
+    "apyBaseBorrow": 7.13928,
+    "apyRewardBorrow": 3.81448
+  },
+  {
+    "timestamp": "2023-08-30T23:02:20.906Z",
+    "totalSupplyUsd": 660417,
+    "totalBorrowUsd": 226302,
+    "debtCeilingUsd": null,
+    "apyBase": 1.83497,
+    "apyReward": 1.28844,
+    "apyBaseBorrow": 7.13998,
+    "apyRewardBorrow": 3.76004
+  },
+  {
+    "timestamp": "2023-08-31T23:02:35.556Z",
+    "totalSupplyUsd": 662008,
+    "totalBorrowUsd": 226102,
+    "debtCeilingUsd": null,
+    "apyBase": 1.82461,
+    "apyReward": 1.25088,
+    "apyBaseBorrow": 7.12309,
+    "apyRewardBorrow": 3.66248
+  },
+  {
+    "timestamp": "2023-09-01T23:02:26.071Z",
+    "totalSupplyUsd": 650495,
+    "totalBorrowUsd": 230574,
+    "debtCeilingUsd": null,
+    "apyBase": 1.94516,
+    "apyReward": 1.27302,
+    "apyBaseBorrow": 7.3169,
+    "apyRewardBorrow": 3.59144
+  },
+  {
+    "timestamp": "2023-09-02T23:02:14.034Z",
+    "totalSupplyUsd": 663705,
+    "totalBorrowUsd": 271987,
+    "debtCeilingUsd": null,
+    "apyBase": 2.50399,
+    "apyReward": 1.22362,
+    "apyBaseBorrow": 8.14701,
+    "apyRewardBorrow": 2.9859
+  },
+  {
+    "timestamp": "2023-09-03T23:02:21.912Z",
+    "totalSupplyUsd": 662969,
+    "totalBorrowUsd": 271592,
+    "debtCeilingUsd": null,
+    "apyBase": 2.50249,
+    "apyReward": 1.2353,
+    "apyBaseBorrow": 8.14491,
+    "apyRewardBorrow": 3.01543
+  },
+  {
+    "timestamp": "2023-09-04T23:02:50.844Z",
+    "totalSupplyUsd": 661288,
+    "totalBorrowUsd": 270940,
+    "debtCeilingUsd": null,
+    "apyBase": 2.50308,
+    "apyReward": 1.2143,
+    "apyBaseBorrow": 8.14574,
+    "apyRewardBorrow": 2.96375
+  },
+  {
+    "timestamp": "2023-09-05T23:02:21.413Z",
+    "totalSupplyUsd": 671914,
+    "totalBorrowUsd": 275102,
+    "debtCeilingUsd": null,
+    "apyBase": 2.50001,
+    "apyReward": 1.22904,
+    "apyBaseBorrow": 8.14144,
+    "apyRewardBorrow": 3.00184
+  },
+  {
+    "timestamp": "2023-09-06T23:02:41.097Z",
+    "totalSupplyUsd": 636331,
+    "totalBorrowUsd": 261834,
+    "debtCeilingUsd": null,
+    "apyBase": 2.52195,
+    "apyReward": 1.32287,
+    "apyBaseBorrow": 8.1721,
+    "apyRewardBorrow": 3.21495
+  },
+  {
+    "timestamp": "2023-09-07T23:02:24.534Z",
+    "totalSupplyUsd": 659106,
+    "totalBorrowUsd": 271831,
+    "debtCeilingUsd": null,
+    "apyBase": 2.53218,
+    "apyReward": 1.83786,
+    "apyBaseBorrow": 8.18634,
+    "apyRewardBorrow": 4.45625
+  },
+  {
+    "timestamp": "2023-09-08T23:02:31.454Z",
+    "totalSupplyUsd": 650679,
+    "totalBorrowUsd": 188019,
+    "debtCeilingUsd": null,
+    "apyBase": 1.37278,
+    "apyReward": 1.57768,
+    "apyBaseBorrow": 6.33439,
+    "apyRewardBorrow": 5.45987
+  },
+  {
+    "timestamp": "2023-09-09T23:02:10.298Z",
+    "totalSupplyUsd": 655618,
+    "totalBorrowUsd": 189411,
+    "debtCeilingUsd": null,
+    "apyBase": 1.37235,
+    "apyReward": 1.53448,
+    "apyBaseBorrow": 6.33357,
+    "apyRewardBorrow": 5.31136
+  },
+  {
+    "timestamp": "2023-09-10T23:02:24.992Z",
+    "totalSupplyUsd": 653301,
+    "totalBorrowUsd": 188771,
+    "debtCeilingUsd": null,
+    "apyBase": 1.37271,
+    "apyReward": 1.49802,
+    "apyBaseBorrow": 6.33425,
+    "apyRewardBorrow": 5.18435
+  },
+  {
+    "timestamp": "2023-09-11T23:02:18.401Z",
+    "totalSupplyUsd": 648967,
+    "totalBorrowUsd": 211848,
+    "debtCeilingUsd": null,
+    "apyBase": 1.68848,
+    "apyReward": 1.53263,
+    "apyBaseBorrow": 6.89658,
+    "apyRewardBorrow": 4.69499
+  },
+  {
+    "timestamp": "2023-09-12T23:02:37.826Z",
+    "totalSupplyUsd": 661961,
+    "totalBorrowUsd": 209521,
+    "debtCeilingUsd": null,
+    "apyBase": 1.60182,
+    "apyReward": 1.47842,
+    "apyBaseBorrow": 6.74773,
+    "apyRewardBorrow": 4.67092
+  },
+  {
+    "timestamp": "2023-09-13T23:02:23.051Z",
+    "totalSupplyUsd": 658756,
+    "totalBorrowUsd": 212550,
+    "debtCeilingUsd": null,
+    "apyBase": 1.65517,
+    "apyReward": 1.50639,
+    "apyBaseBorrow": 6.8398,
+    "apyRewardBorrow": 4.66875
+  },
+  {
+    "timestamp": "2023-09-14T23:02:20.727Z",
+    "totalSupplyUsd": 673205,
+    "totalBorrowUsd": 220187,
+    "debtCeilingUsd": null,
+    "apyBase": 1.6941,
+    "apyReward": 1.50456,
+    "apyBaseBorrow": 6.90609,
+    "apyRewardBorrow": 4.60006
+  },
+  {
+    "timestamp": "2023-09-15T23:02:37.380Z",
+    "totalSupplyUsd": 685963,
+    "totalBorrowUsd": 233521,
+    "debtCeilingUsd": null,
+    "apyBase": 1.81441,
+    "apyReward": 1.48988,
+    "apyBaseBorrow": 7.10641,
+    "apyRewardBorrow": 4.37648
+  },
+  {
+    "timestamp": "2023-09-16T23:02:32.637Z",
+    "totalSupplyUsd": 682576,
+    "totalBorrowUsd": 233120,
+    "debtCeilingUsd": null,
+    "apyBase": 1.82453,
+    "apyReward": 1.52066,
+    "apyBaseBorrow": 7.12295,
+    "apyRewardBorrow": 4.4525
+  },
+  {
+    "timestamp": "2023-09-17T23:02:18.849Z",
+    "totalSupplyUsd": 685804,
+    "totalBorrowUsd": 220540,
+    "debtCeilingUsd": null,
+    "apyBase": 1.64576,
+    "apyReward": 1.50353,
+    "apyBaseBorrow": 6.82368,
+    "apyRewardBorrow": 4.67545
+  },
+  {
+    "timestamp": "2023-09-18T23:02:28.900Z",
+    "totalSupplyUsd": 676603,
+    "totalBorrowUsd": 217609,
+    "debtCeilingUsd": null,
+    "apyBase": 1.64613,
+    "apyReward": 0.38015,
+    "apyBaseBorrow": 6.82431,
+    "apyRewardBorrow": 1.18198
+  },
+  {
+    "timestamp": "2023-09-19T23:02:25.110Z",
+    "totalSupplyUsd": 679957,
+    "totalBorrowUsd": 219661,
+    "debtCeilingUsd": null,
+    "apyBase": 1.65866,
+    "apyReward": 0.38666,
+    "apyBaseBorrow": 6.84578,
+    "apyRewardBorrow": 1.19691
+  },
+  {
+    "timestamp": "2023-09-20T23:02:18.221Z",
+    "totalSupplyUsd": 678704,
+    "totalBorrowUsd": 216795,
+    "debtCeilingUsd": null,
+    "apyBase": 1.62701,
+    "apyReward": 0.39326,
+    "apyBaseBorrow": 6.79139,
+    "apyRewardBorrow": 1.23114
+  },
+  {
+    "timestamp": "2023-09-21T23:02:49.138Z",
+    "totalSupplyUsd": 673368,
+    "totalBorrowUsd": 223422,
+    "debtCeilingUsd": null,
+    "apyBase": 1.7362,
+    "apyReward": 0.4023,
+    "apyBaseBorrow": 6.97696,
+    "apyRewardBorrow": 1.2125
+  },
+  {
+    "timestamp": "2023-09-22T23:02:32.063Z",
+    "totalSupplyUsd": 661655,
+    "totalBorrowUsd": 226371,
+    "debtCeilingUsd": null,
+    "apyBase": 1.83003,
+    "apyReward": 0.41546,
+    "apyBaseBorrow": 7.13193,
+    "apyRewardBorrow": 1.21434
+  },
+  {
+    "timestamp": "2023-09-23T23:02:31.858Z",
+    "totalSupplyUsd": 713408,
+    "totalBorrowUsd": 244077,
+    "debtCeilingUsd": null,
+    "apyBase": 1.83003,
+    "apyReward": 0.37733,
+    "apyBaseBorrow": 7.13193,
+    "apyRewardBorrow": 1.10288
+  },
+  {
+    "timestamp": "2023-09-24T23:02:30.768Z",
+    "totalSupplyUsd": 713432,
+    "totalBorrowUsd": 244085,
+    "debtCeilingUsd": null,
+    "apyBase": 1.83003,
+    "apyReward": 0.36932,
+    "apyBaseBorrow": 7.13193,
+    "apyRewardBorrow": 1.07948
+  },
+  {
+    "timestamp": "2023-09-25T23:02:41.760Z",
+    "totalSupplyUsd": 690021,
+    "totalBorrowUsd": 236088,
+    "debtCeilingUsd": null,
+    "apyBase": 1.8302,
+    "apyReward": 0.37689,
+    "apyBaseBorrow": 7.1322,
+    "apyRewardBorrow": 1.10155
+  },
+  {
+    "timestamp": "2023-09-26T23:02:28.018Z",
+    "totalSupplyUsd": 682145,
+    "totalBorrowUsd": 232809,
+    "debtCeilingUsd": null,
+    "apyBase": 1.82232,
+    "apyReward": 0.3779,
+    "apyBaseBorrow": 7.11934,
+    "apyRewardBorrow": 1.10727
+  },
+  {
+    "timestamp": "2023-09-27T23:02:29.817Z",
+    "totalSupplyUsd": 673726,
+    "totalBorrowUsd": 230682,
+    "debtCeilingUsd": null,
+    "apyBase": 1.8325,
+    "apyReward": 0.38262,
+    "apyBaseBorrow": 7.13596,
+    "apyRewardBorrow": 1.11747
+  },
+  {
+    "timestamp": "2023-09-28T23:02:38.157Z",
+    "totalSupplyUsd": 677973,
+    "totalBorrowUsd": 232266,
+    "debtCeilingUsd": null,
+    "apyBase": 1.83427,
+    "apyReward": 0.38191,
+    "apyBaseBorrow": 7.13884,
+    "apyRewardBorrow": 1.11476
+  },
+  {
+    "timestamp": "2023-09-29T23:02:35.139Z",
+    "totalSupplyUsd": 700043,
+    "totalBorrowUsd": 140688,
+    "debtCeilingUsd": null,
+    "apyBase": 0.75583,
+    "apyReward": 0.39675,
+    "apyBaseBorrow": 5.01455,
+    "apyRewardBorrow": 1.97418
+  },
+  {
+    "timestamp": "2023-09-30T23:02:30.755Z",
+    "totalSupplyUsd": 698268,
+    "totalBorrowUsd": 140286,
+    "debtCeilingUsd": null,
+    "apyBase": 0.75544,
+    "apyReward": 0.38714,
+    "apyBaseBorrow": 5.01359,
+    "apyRewardBorrow": 1.92698
+  },
+  {
+    "timestamp": "2023-10-01T23:06:42.430Z",
+    "totalSupplyUsd": 704480,
+    "totalBorrowUsd": 141558,
+    "debtCeilingUsd": null,
+    "apyBase": 0.75565,
+    "apyReward": 0.40235,
+    "apyBaseBorrow": 5.0141,
+    "apyRewardBorrow": 2.00232
+  },
+  {
+    "timestamp": "2023-10-02T23:02:27.123Z",
+    "totalSupplyUsd": 671849,
+    "totalBorrowUsd": 185183,
+    "debtCeilingUsd": null,
+    "apyBase": 1.26814,
+    "apyReward": 0.44141,
+    "apyBaseBorrow": 6.13448,
+    "apyRewardBorrow": 1.60146
+  },
+  {
+    "timestamp": "2023-10-03T23:02:27.384Z",
+    "totalSupplyUsd": 671243,
+    "totalBorrowUsd": 201999,
+    "debtCeilingUsd": null,
+    "apyBase": 1.4702,
+    "apyReward": 0.43077,
+    "apyBaseBorrow": 6.51399,
+    "apyRewardBorrow": 1.43144
+  },
+  {
+    "timestamp": "2023-10-04T23:02:11.749Z",
+    "totalSupplyUsd": 666484,
+    "totalBorrowUsd": 215239,
+    "debtCeilingUsd": null,
+    "apyBase": 1.65773,
+    "apyReward": 0.46807,
+    "apyBaseBorrow": 6.8442,
+    "apyRewardBorrow": 1.44937
+  },
+  {
+    "timestamp": "2023-10-05T23:02:28.536Z",
+    "totalSupplyUsd": 651808,
+    "totalBorrowUsd": 215501,
+    "debtCeilingUsd": null,
+    "apyBase": 1.72567,
+    "apyReward": 0.44711,
+    "apyBaseBorrow": 6.95931,
+    "apyRewardBorrow": 1.35234
+  },
+  {
+    "timestamp": "2023-10-06T23:02:11.525Z",
+    "totalSupplyUsd": 627976,
+    "totalBorrowUsd": 215497,
+    "debtCeilingUsd": null,
+    "apyBase": 1.83953,
+    "apyReward": 0.46862,
+    "apyBaseBorrow": 7.14741,
+    "apyRewardBorrow": 1.3656
+  },
+  {
+    "timestamp": "2023-10-07T23:02:25.758Z",
+    "totalSupplyUsd": 630521,
+    "totalBorrowUsd": 206238,
+    "debtCeilingUsd": null,
+    "apyBase": 1.69427,
+    "apyReward": 0.46763,
+    "apyBaseBorrow": 6.90638,
+    "apyRewardBorrow": 1.42966
+  },
+  {
+    "timestamp": "2023-10-08T23:02:29.085Z",
+    "totalSupplyUsd": 625233,
+    "totalBorrowUsd": 195717,
+    "debtCeilingUsd": null,
+    "apyBase": 1.57192,
+    "apyReward": 0.46338,
+    "apyBaseBorrow": 6.69546,
+    "apyRewardBorrow": 1.48029
+  },
+  {
+    "timestamp": "2023-10-09T23:02:12.305Z",
+    "totalSupplyUsd": 611215,
+    "totalBorrowUsd": 234497,
+    "debtCeilingUsd": null,
+    "apyBase": 2.23141,
+    "apyReward": 0.48054,
+    "apyBaseBorrow": 7.75487,
+    "apyRewardBorrow": 1.25251
+  },
+  {
+    "timestamp": "2023-10-10T23:02:19.187Z",
+    "totalSupplyUsd": 616980,
+    "totalBorrowUsd": 236716,
+    "debtCeilingUsd": null,
+    "apyBase": 2.23153,
+    "apyReward": 0.43722,
+    "apyBaseBorrow": 7.75504,
+    "apyRewardBorrow": 1.13958
+  },
+  {
+    "timestamp": "2023-10-11T23:02:26.438Z",
+    "totalSupplyUsd": 609897,
+    "totalBorrowUsd": 277025,
+    "debtCeilingUsd": null,
+    "apyBase": 3.00234,
+    "apyReward": 0.41986,
+    "apyBaseBorrow": 8.81324,
+    "apyRewardBorrow": 0.92436
+  },
+  {
+    "timestamp": "2023-10-12T23:02:41.528Z",
+    "totalSupplyUsd": 606378,
+    "totalBorrowUsd": 258195,
+    "debtCeilingUsd": null,
+    "apyBase": 2.67838,
+    "apyReward": 0.42135,
+    "apyBaseBorrow": 8.38699,
+    "apyRewardBorrow": 0.98956
+  },
+  {
+    "timestamp": "2023-10-13T23:01:55.119Z",
+    "totalSupplyUsd": 611643,
+    "totalBorrowUsd": 256514,
+    "debtCeilingUsd": null,
+    "apyBase": 2.60777,
+    "apyReward": 0.42239,
+    "apyBaseBorrow": 8.29078,
+    "apyRewardBorrow": 1.00716
+  },
+  {
+    "timestamp": "2023-10-14T23:02:13.457Z",
+    "totalSupplyUsd": 612693,
+    "totalBorrowUsd": 256976,
+    "debtCeilingUsd": null,
+    "apyBase": 2.60815,
+    "apyReward": 0.43377,
+    "apyBaseBorrow": 8.2913,
+    "apyRewardBorrow": 1.03421
+  },
+  {
+    "timestamp": "2023-10-15T23:02:35.529Z",
+    "totalSupplyUsd": 621209,
+    "totalBorrowUsd": 260548,
+    "debtCeilingUsd": null,
+    "apyBase": 2.60815,
+    "apyReward": 0.4572,
+    "apyBaseBorrow": 8.2913,
+    "apyRewardBorrow": 1.09007
+  },
+  {
+    "timestamp": "2023-10-16T23:02:21.352Z",
+    "totalSupplyUsd": 636053,
+    "totalBorrowUsd": 266811,
+    "debtCeilingUsd": null,
+    "apyBase": 2.6088,
+    "apyReward": 0.44294,
+    "apyBaseBorrow": 8.29219,
+    "apyRewardBorrow": 1.05593
+  },
+  {
+    "timestamp": "2023-10-17T23:02:21.476Z",
+    "totalSupplyUsd": 636098,
+    "totalBorrowUsd": 262464,
+    "debtCeilingUsd": null,
+    "apyBase": 2.53425,
+    "apyReward": 0.42498,
+    "apyBaseBorrow": 8.18923,
+    "apyRewardBorrow": 1.02996
+  },
+  {
+    "timestamp": "2023-10-18T23:02:25.307Z",
+    "totalSupplyUsd": 642597,
+    "totalBorrowUsd": 265167,
+    "debtCeilingUsd": null,
+    "apyBase": 2.53462,
+    "apyReward": 0.40293,
+    "apyBaseBorrow": 8.18974,
+    "apyRewardBorrow": 0.97645
+  },
+  {
+    "timestamp": "2023-10-19T23:02:39.558Z",
+    "totalSupplyUsd": 645387,
+    "totalBorrowUsd": 239662,
+    "debtCeilingUsd": null,
+    "apyBase": 2.10837,
+    "apyReward": 0.40914,
+    "apyBaseBorrow": 7.5702,
+    "apyRewardBorrow": 1.10178
+  },
+  {
+    "timestamp": "2023-10-20T23:02:22.821Z",
+    "totalSupplyUsd": 655413,
+    "totalBorrowUsd": 134285,
+    "debtCeilingUsd": null,
+    "apyBase": 0.77958,
+    "apyReward": 0.43769,
+    "apyBaseBorrow": 5.07329,
+    "apyRewardBorrow": 2.13626
+  },
+  {
+    "timestamp": "2023-10-21T23:02:14.624Z",
+    "totalSupplyUsd": 663136,
+    "totalBorrowUsd": 135709,
+    "debtCeilingUsd": null,
+    "apyBase": 0.77812,
+    "apyReward": 0.41969,
+    "apyBaseBorrow": 5.0697,
+    "apyRewardBorrow": 2.05081
+  },
+  {
+    "timestamp": "2023-10-22T23:02:35.285Z",
+    "totalSupplyUsd": 656426,
+    "totalBorrowUsd": 168129,
+    "debtCeilingUsd": null,
+    "apyBase": 1.12221,
+    "apyReward": 0.4179,
+    "apyBaseBorrow": 5.84192,
+    "apyRewardBorrow": 1.6316
+  },
+  {
+    "timestamp": "2023-10-23T23:02:37.496Z",
+    "totalSupplyUsd": 672914,
+    "totalBorrowUsd": 256194,
+    "debtCeilingUsd": null,
+    "apyBase": 2.20178,
+    "apyReward": 0.41359,
+    "apyBaseBorrow": 7.71085,
+    "apyRewardBorrow": 1.08633
+  },
+  {
+    "timestamp": "2023-10-24T23:02:34.463Z",
+    "totalSupplyUsd": 672171,
+    "totalBorrowUsd": 165250,
+    "debtCeilingUsd": null,
+    "apyBase": 1.04872,
+    "apyReward": 0.45138,
+    "apyBaseBorrow": 5.68768,
+    "apyRewardBorrow": 1.83604
+  },
+  {
+    "timestamp": "2023-10-25T23:01:31.998Z",
+    "totalSupplyUsd": 672844,
+    "totalBorrowUsd": 165700,
+    "debtCeilingUsd": null,
+    "apyBase": 1.0517,
+    "apyReward": 0.44924,
+    "apyBaseBorrow": 5.69403,
+    "apyRewardBorrow": 1.82417
+  },
+  {
+    "timestamp": "2023-10-26T23:01:30.861Z",
+    "totalSupplyUsd": 672914,
+    "totalBorrowUsd": 165727,
+    "debtCeilingUsd": null,
+    "apyBase": 1.0518,
+    "apyReward": 0.47038,
+    "apyBaseBorrow": 5.69424,
+    "apyRewardBorrow": 1.90991
+  },
+  {
+    "timestamp": "2023-10-27T23:01:28.732Z",
+    "totalSupplyUsd": 674839,
+    "totalBorrowUsd": 166348,
+    "debtCeilingUsd": null,
+    "apyBase": 1.05332,
+    "apyReward": 0.46481,
+    "apyBaseBorrow": 5.6975,
+    "apyRewardBorrow": 1.88564
+  },
+  {
+    "timestamp": "2023-10-28T23:01:39.425Z",
+    "totalSupplyUsd": 705028,
+    "totalBorrowUsd": 167071,
+    "debtCeilingUsd": null,
+    "apyBase": 0.9872,
+    "apyReward": 0.45057,
+    "apyBaseBorrow": 5.55456,
+    "apyRewardBorrow": 1.90137
+  },
+  {
+    "timestamp": "2023-10-29T23:01:33.027Z",
+    "totalSupplyUsd": 714138,
+    "totalBorrowUsd": 169315,
+    "debtCeilingUsd": null,
+    "apyBase": 0.98801,
+    "apyReward": 0.44961,
+    "apyBaseBorrow": 5.55634,
+    "apyRewardBorrow": 1.89639
+  },
+  {
+    "timestamp": "2023-10-30T23:01:35.962Z",
+    "totalSupplyUsd": 713406,
+    "totalBorrowUsd": 169202,
+    "debtCeilingUsd": null,
+    "apyBase": 0.98859,
+    "apyReward": 0.43808,
+    "apyBaseBorrow": 5.55762,
+    "apyRewardBorrow": 1.84709
+  },
+  {
+    "timestamp": "2023-10-31T23:01:27.135Z",
+    "totalSupplyUsd": 722358,
+    "totalBorrowUsd": 171505,
+    "debtCeilingUsd": null,
+    "apyBase": 0.9903,
+    "apyReward": 0.4145,
+    "apyBaseBorrow": 5.56136,
+    "apyRewardBorrow": 1.7458
+  },
+  {
+    "timestamp": "2023-11-01T23:01:36.375Z",
+    "totalSupplyUsd": 748620,
+    "totalBorrowUsd": 279929,
+    "debtCeilingUsd": null,
+    "apyBase": 2.13388,
+    "apyReward": 0.40986,
+    "apyBaseBorrow": 7.6089,
+    "apyRewardBorrow": 1.09609
+  },
+  {
+    "timestamp": "2023-11-02T23:01:45.066Z",
+    "totalSupplyUsd": 739291,
+    "totalBorrowUsd": 183488,
+    "debtCeilingUsd": null,
+    "apyBase": 1.0653,
+    "apyReward": 0.41734,
+    "apyBaseBorrow": 5.72291,
+    "apyRewardBorrow": 1.68152
+  },
+  {
+    "timestamp": "2023-11-03T23:01:40.474Z",
+    "totalSupplyUsd": 730867,
+    "totalBorrowUsd": 181405,
+    "debtCeilingUsd": null,
+    "apyBase": 1.06537,
+    "apyReward": 0.4323,
+    "apyBaseBorrow": 5.72308,
+    "apyRewardBorrow": 1.7417
+  },
+  {
+    "timestamp": "2023-11-04T23:01:30.512Z",
+    "totalSupplyUsd": 736173,
+    "totalBorrowUsd": 229948,
+    "debtCeilingUsd": null,
+    "apyBase": 1.56615,
+    "apyReward": 0.44855,
+    "apyBaseBorrow": 6.68533,
+    "apyRewardBorrow": 1.43603
+  },
+  {
+    "timestamp": "2023-11-05T23:01:30.877Z",
+    "totalSupplyUsd": 737328,
+    "totalBorrowUsd": 228773,
+    "debtCeilingUsd": null,
+    "apyBase": 1.54844,
+    "apyReward": 0.57083,
+    "apyBaseBorrow": 6.65409,
+    "apyRewardBorrow": 1.83978
+  },
+  {
+    "timestamp": "2023-11-06T23:01:47.986Z",
+    "totalSupplyUsd": 737811,
+    "totalBorrowUsd": 248324,
+    "debtCeilingUsd": null,
+    "apyBase": 1.77923,
+    "apyReward": 0.65781,
+    "apyBaseBorrow": 7.04852,
+    "apyRewardBorrow": 1.95445
+  },
+  {
+    "timestamp": "2023-11-07T23:02:58.282Z",
+    "totalSupplyUsd": 722225,
+    "totalBorrowUsd": 281373,
+    "debtCeilingUsd": null,
+    "apyBase": 2.29193,
+    "apyReward": 0.57566,
+    "apyBaseBorrow": 7.84388,
+    "apyRewardBorrow": 1.4776
+  },
+  {
+    "timestamp": "2023-11-08T23:01:38.504Z",
+    "totalSupplyUsd": 732018,
+    "totalBorrowUsd": 394128,
+    "debtCeilingUsd": null,
+    "apyBase": 4.06887,
+    "apyReward": 0.54381,
+    "apyBaseBorrow": 10.0762,
+    "apyRewardBorrow": 1.01002
+  },
+  {
+    "timestamp": "2023-11-09T23:01:35.816Z",
+    "totalSupplyUsd": 767939,
+    "totalBorrowUsd": 372488,
+    "debtCeilingUsd": null,
+    "apyBase": 3.3744,
+    "apyReward": 0.50798,
+    "apyBaseBorrow": 9.27574,
+    "apyRewardBorrow": 1.04726
+  },
+  {
+    "timestamp": "2023-11-10T23:01:40.587Z",
+    "totalSupplyUsd": 825988,
+    "totalBorrowUsd": 497888,
+    "debtCeilingUsd": null,
+    "apyBase": 5.34985,
+    "apyReward": 0.47435,
+    "apyBaseBorrow": 11.83375,
+    "apyRewardBorrow": 0.78693
+  },
+  {
+    "timestamp": "2023-11-11T23:01:40.442Z",
+    "totalSupplyUsd": 841061,
+    "totalBorrowUsd": 502636,
+    "debtCeilingUsd": null,
+    "apyBase": 4.91437,
+    "apyReward": 0.46991,
+    "apyBaseBorrow": 10.96431,
+    "apyRewardBorrow": 0.78631
+  },
+  {
+    "timestamp": "2023-11-12T23:01:51.382Z",
+    "totalSupplyUsd": 845122,
+    "totalBorrowUsd": 509993,
+    "debtCeilingUsd": null,
+    "apyBase": 5.44768,
+    "apyReward": 0.45618,
+    "apyBaseBorrow": 12.03664,
+    "apyRewardBorrow": 0.75595
+  },
+  {
+    "timestamp": "2023-11-13T23:01:34.027Z",
+    "totalSupplyUsd": 846154,
+    "totalBorrowUsd": 509723,
+    "debtCeilingUsd": null,
+    "apyBase": 5.29504,
+    "apyReward": 0.4253,
+    "apyBaseBorrow": 11.71989,
+    "apyRewardBorrow": 0.70601
+  },
+  {
+    "timestamp": "2023-11-14T23:01:41.526Z",
+    "totalSupplyUsd": 818947,
+    "totalBorrowUsd": 493905,
+    "debtCeilingUsd": null,
+    "apyBase": 5.3959,
+    "apyReward": 0.45475,
+    "apyBaseBorrow": 11.92929,
+    "apyRewardBorrow": 0.75402
+  },
+  {
+    "timestamp": "2023-11-15T23:01:44.656Z",
+    "totalSupplyUsd": 820898,
+    "totalBorrowUsd": 500807,
+    "debtCeilingUsd": null,
+    "apyBase": 6.41563,
+    "apyReward": 0.51967,
+    "apyBaseBorrow": 14.02157,
+    "apyRewardBorrow": 0.85181
+  },
+  {
+    "timestamp": "2023-11-16T23:05:49.601Z",
+    "totalSupplyUsd": 802347,
+    "totalBorrowUsd": 492780,
+    "debtCeilingUsd": null,
+    "apyBase": 7.02555,
+    "apyReward": 0.51107,
+    "apyBaseBorrow": 15.25203,
+    "apyRewardBorrow": 0.83213
+  },
+  {
+    "timestamp": "2023-11-17T23:01:35.252Z",
+    "totalSupplyUsd": 802507,
+    "totalBorrowUsd": 399715,
+    "debtCeilingUsd": null,
+    "apyBase": 3.53809,
+    "apyReward": 0.48183,
+    "apyBaseBorrow": 9.47124,
+    "apyRewardBorrow": 0.96737
+  },
+  {
+    "timestamp": "2023-11-18T23:01:36.419Z",
+    "totalSupplyUsd": 797258,
+    "totalBorrowUsd": 443619,
+    "debtCeilingUsd": null,
+    "apyBase": 4.31782,
+    "apyReward": 0.49073,
+    "apyBaseBorrow": 10.34646,
+    "apyRewardBorrow": 0.88192
+  },
+  {
+    "timestamp": "2023-11-19T23:01:42.447Z",
+    "totalSupplyUsd": 800068,
+    "totalBorrowUsd": 470630,
+    "debtCeilingUsd": null,
+    "apyBase": 4.77512,
+    "apyReward": 0.489,
+    "apyBaseBorrow": 10.82356,
+    "apyRewardBorrow": 0.8313
+  },
+  {
+    "timestamp": "2023-11-20T23:01:29.857Z",
+    "totalSupplyUsd": 797609,
+    "totalBorrowUsd": 468898,
+    "debtCeilingUsd": null,
+    "apyBase": 4.76985,
+    "apyReward": 0.53556,
+    "apyBaseBorrow": 10.8182,
+    "apyRewardBorrow": 0.91099
+  },
+  {
+    "timestamp": "2023-11-21T23:01:37.382Z",
+    "totalSupplyUsd": 757551,
+    "totalBorrowUsd": 445405,
+    "debtCeilingUsd": null,
+    "apyBase": 4.77094,
+    "apyReward": 0.49461,
+    "apyBaseBorrow": 10.81931,
+    "apyRewardBorrow": 0.84125
+  },
+  {
+    "timestamp": "2023-11-22T23:01:47.107Z",
+    "totalSupplyUsd": 791298,
+    "totalBorrowUsd": 508800,
+    "debtCeilingUsd": null,
+    "apyBase": 11.5249,
+    "apyReward": 0.48001,
+    "apyBaseBorrow": 23.89838,
+    "apyRewardBorrow": 0.74652
+  },
+  {
+    "timestamp": "2023-11-23T23:01:38.672Z",
+    "totalSupplyUsd": 792686,
+    "totalBorrowUsd": 476646,
+    "debtCeilingUsd": null,
+    "apyBase": 5.13726,
+    "apyReward": 0.49212,
+    "apyBaseBorrow": 11.39137,
+    "apyRewardBorrow": 0.81841
+  },
+  {
+    "timestamp": "2023-11-24T23:01:32.898Z",
+    "totalSupplyUsd": 810189,
+    "totalBorrowUsd": 487104,
+    "debtCeilingUsd": null,
+    "apyBase": 5.12553,
+    "apyReward": 0.50612,
+    "apyBaseBorrow": 11.3669,
+    "apyRewardBorrow": 0.84182
+  },
+  {
+    "timestamp": "2023-11-25T23:01:33.803Z",
+    "totalSupplyUsd": 846309,
+    "totalBorrowUsd": 509014,
+    "debtCeilingUsd": null,
+    "apyBase": 5.15838,
+    "apyReward": 0.4825,
+    "apyBaseBorrow": 11.43541,
+    "apyRewardBorrow": 0.80223
+  },
+  {
+    "timestamp": "2023-11-26T23:01:35.607Z",
+    "totalSupplyUsd": 853349,
+    "totalBorrowUsd": 426493,
+    "debtCeilingUsd": null,
+    "apyBase": 3.55978,
+    "apyReward": 0.46649,
+    "apyBaseBorrow": 9.4968,
+    "apyRewardBorrow": 0.93338
+  },
+  {
+    "timestamp": "2023-11-27T23:01:24.934Z",
+    "totalSupplyUsd": 807151,
+    "totalBorrowUsd": 388384,
+    "debtCeilingUsd": null,
+    "apyBase": 3.32651,
+    "apyReward": 0.48824,
+    "apyBaseBorrow": 9.21768,
+    "apyRewardBorrow": 1.01468
+  },
+  {
+    "timestamp": "2023-11-28T23:01:33.867Z",
+    "totalSupplyUsd": 791804,
+    "totalBorrowUsd": 388709,
+    "debtCeilingUsd": null,
+    "apyBase": 3.44761,
+    "apyReward": 0.48114,
+    "apyBaseBorrow": 9.36374,
+    "apyRewardBorrow": 0.98009
+  },
+  {
+    "timestamp": "2023-11-29T23:01:49.985Z",
+    "totalSupplyUsd": 791036,
+    "totalBorrowUsd": 402405,
+    "debtCeilingUsd": null,
+    "apyBase": 3.67436,
+    "apyReward": 0.48449,
+    "apyBaseBorrow": 9.6306,
+    "apyRewardBorrow": 0.9524
+  },
+  {
+    "timestamp": "2023-11-30T23:01:53.682Z",
+    "totalSupplyUsd": 795422,
+    "totalBorrowUsd": 403928,
+    "debtCeilingUsd": null,
+    "apyBase": 3.66285,
+    "apyReward": 0.49186,
+    "apyBaseBorrow": 9.61724,
+    "apyRewardBorrow": 0.96857
+  },
+  {
+    "timestamp": "2023-12-01T23:01:39.156Z",
+    "totalSupplyUsd": 790735,
+    "totalBorrowUsd": 402882,
+    "debtCeilingUsd": null,
+    "apyBase": 3.68469,
+    "apyReward": 0.51569,
+    "apyBaseBorrow": 9.64255,
+    "apyRewardBorrow": 1.01214
+  },
+  {
+    "timestamp": "2023-12-02T23:01:35.187Z",
+    "totalSupplyUsd": 790792,
+    "totalBorrowUsd": 402984,
+    "debtCeilingUsd": null,
+    "apyBase": 3.68587,
+    "apyReward": 0.52431,
+    "apyBaseBorrow": 9.64392,
+    "apyRewardBorrow": 1.02887
+  },
+  {
+    "timestamp": "2023-12-03T23:01:40.224Z",
+    "totalSupplyUsd": 791470,
+    "totalBorrowUsd": 405345,
+    "debtCeilingUsd": null,
+    "apyBase": 3.71896,
+    "apyReward": 0.60096,
+    "apyBaseBorrow": 9.68212,
+    "apyRewardBorrow": 1.17342
+  },
+  {
+    "timestamp": "2023-12-04T23:01:35.804Z",
+    "totalSupplyUsd": 787744,
+    "totalBorrowUsd": 374534,
+    "debtCeilingUsd": null,
+    "apyBase": 3.25628,
+    "apyReward": 0.59656,
+    "apyBaseBorrow": 9.13176,
+    "apyRewardBorrow": 1.25473
+  },
+  {
+    "timestamp": "2023-12-05T23:01:38.250Z",
+    "totalSupplyUsd": 787915,
+    "totalBorrowUsd": 339474,
+    "debtCeilingUsd": null,
+    "apyBase": 2.73465,
+    "apyReward": 0.65072,
+    "apyBaseBorrow": 8.46277,
+    "apyRewardBorrow": 1.51031
+  },
+  {
+    "timestamp": "2023-12-06T23:01:38.357Z",
+    "totalSupplyUsd": 817527,
+    "totalBorrowUsd": 176973,
+    "debtCeilingUsd": null,
+    "apyBase": 0.85189,
+    "apyReward": 0.75062,
+    "apyBaseBorrow": 5.24709,
+    "apyRewardBorrow": 3.46752
+  },
+  {
+    "timestamp": "2023-12-07T23:01:31.562Z",
+    "totalSupplyUsd": 809291,
+    "totalBorrowUsd": 175190,
+    "debtCeilingUsd": null,
+    "apyBase": 0.85189,
+    "apyReward": 0.76672,
+    "apyBaseBorrow": 5.24709,
+    "apyRewardBorrow": 3.54188
+  },
+  {
+    "timestamp": "2023-12-08T23:01:49.161Z",
+    "totalSupplyUsd": 812696,
+    "totalBorrowUsd": 353288,
+    "debtCeilingUsd": null,
+    "apyBase": 2.77802,
+    "apyReward": 0.75017,
+    "apyBaseBorrow": 8.52067,
+    "apyRewardBorrow": 1.72569
+  },
+  {
+    "timestamp": "2023-12-09T23:01:32.422Z",
+    "totalSupplyUsd": 819716,
+    "totalBorrowUsd": 331658,
+    "debtCeilingUsd": null,
+    "apyBase": 2.44855,
+    "apyReward": 0.79454,
+    "apyBaseBorrow": 8.06902,
+    "apyRewardBorrow": 1.96376
+  },
+  {
+    "timestamp": "2023-12-10T23:01:40.969Z",
+    "totalSupplyUsd": 819477,
+    "totalBorrowUsd": 250987,
+    "debtCeilingUsd": null,
+    "apyBase": 1.51473,
+    "apyReward": 0.72866,
+    "apyBaseBorrow": 6.59416,
+    "apyRewardBorrow": 2.37908
+  },
+  {
+    "timestamp": "2023-12-11T23:01:36.035Z",
+    "totalSupplyUsd": 773105,
+    "totalBorrowUsd": 339498,
+    "debtCeilingUsd": null,
+    "apyBase": 2.82815,
+    "apyReward": 0.71261,
+    "apyBaseBorrow": 8.58703,
+    "apyRewardBorrow": 1.62276
+  },
+  {
+    "timestamp": "2023-12-12T23:01:35.495Z",
+    "totalSupplyUsd": 768621,
+    "totalBorrowUsd": 375943,
+    "debtCeilingUsd": null,
+    "apyBase": 3.42504,
+    "apyReward": 0.70267,
+    "apyBaseBorrow": 9.33672,
+    "apyRewardBorrow": 1.43661
+  },
+  {
+    "timestamp": "2023-12-13T23:01:36.958Z",
+    "totalSupplyUsd": 765051,
+    "totalBorrowUsd": 420754,
+    "debtCeilingUsd": null,
+    "apyBase": 4.22769,
+    "apyReward": 0.72533,
+    "apyBaseBorrow": 10.24953,
+    "apyRewardBorrow": 1.31886
+  },
+  {
+    "timestamp": "2023-12-14T23:01:42.594Z",
+    "totalSupplyUsd": 793709,
+    "totalBorrowUsd": 445662,
+    "debtCeilingUsd": null,
+    "apyBase": 4.38907,
+    "apyReward": 0.72644,
+    "apyBaseBorrow": 10.42239,
+    "apyRewardBorrow": 1.29377
+  },
+  {
+    "timestamp": "2023-12-15T23:01:34.782Z",
+    "totalSupplyUsd": 786772,
+    "totalBorrowUsd": 452987,
+    "debtCeilingUsd": null,
+    "apyBase": 4.59293,
+    "apyReward": 0.72633,
+    "apyBaseBorrow": 10.63631,
+    "apyRewardBorrow": 1.26152
+  },
+  {
+    "timestamp": "2023-12-16T23:01:41.752Z",
+    "totalSupplyUsd": 858104,
+    "totalBorrowUsd": 499507,
+    "debtCeilingUsd": null,
+    "apyBase": 4.68518,
+    "apyReward": 0.66528,
+    "apyBaseBorrow": 10.73158,
+    "apyRewardBorrow": 1.14289
+  },
+  {
+    "timestamp": "2023-12-17T11:01:35.412Z",
+    "totalSupplyUsd": 858134,
+    "totalBorrowUsd": 499524,
+    "debtCeilingUsd": null,
+    "apyBase": 4.68518,
+    "apyReward": 0.749,
+    "apyBaseBorrow": 10.73158,
+    "apyRewardBorrow": 1.28671
+  },
+  {
+    "timestamp": "2023-12-18T23:01:37.905Z",
+    "totalSupplyUsd": 892876,
+    "totalBorrowUsd": 527561,
+    "debtCeilingUsd": null,
+    "apyBase": 4.81379,
+    "apyReward": 0.65982,
+    "apyBaseBorrow": 10.86285,
+    "apyRewardBorrow": 1.11671
+  },
+  {
+    "timestamp": "2023-12-19T23:01:37.844Z",
+    "totalSupplyUsd": 884066,
+    "totalBorrowUsd": 528194,
+    "debtCeilingUsd": null,
+    "apyBase": 4.91197,
+    "apyReward": 0.6851,
+    "apyBaseBorrow": 10.9619,
+    "apyRewardBorrow": 1.14668
+  },
+  {
+    "timestamp": "2023-12-20T23:02:03.264Z",
+    "totalSupplyUsd": 890829,
+    "totalBorrowUsd": 505162,
+    "debtCeilingUsd": null,
+    "apyBase": 4.46824,
+    "apyReward": 0.67926,
+    "apyBaseBorrow": 10.50604,
+    "apyRewardBorrow": 1.19784
+  },
+  {
+    "timestamp": "2023-12-21T23:01:49.214Z",
+    "totalSupplyUsd": 903704,
+    "totalBorrowUsd": 511788,
+    "debtCeilingUsd": null,
+    "apyBase": 4.4576,
+    "apyReward": 0.71439,
+    "apyBaseBorrow": 10.49484,
+    "apyRewardBorrow": 1.26145
+  },
+  {
+    "timestamp": "2023-12-22T23:01:48.227Z",
+    "totalSupplyUsd": 959077,
+    "totalBorrowUsd": 543094,
+    "debtCeilingUsd": null,
+    "apyBase": 4.45681,
+    "apyReward": 0.63806,
+    "apyBaseBorrow": 10.49401,
+    "apyRewardBorrow": 1.12678
+  },
+  {
+    "timestamp": "2023-12-23T23:01:33.534Z",
+    "totalSupplyUsd": 967899,
+    "totalBorrowUsd": 548199,
+    "debtCeilingUsd": null,
+    "apyBase": 4.45841,
+    "apyReward": 0.64167,
+    "apyBaseBorrow": 10.4957,
+    "apyRewardBorrow": 1.13293
+  },
+  {
+    "timestamp": "2023-12-24T23:01:40.415Z",
+    "totalSupplyUsd": 947883,
+    "totalBorrowUsd": 537135,
+    "debtCeilingUsd": null,
+    "apyBase": 4.46252,
+    "apyReward": 0.68651,
+    "apyBaseBorrow": 10.50002,
+    "apyRewardBorrow": 1.21148
+  },
+  {
+    "timestamp": "2023-12-25T23:01:54.148Z",
+    "totalSupplyUsd": 947044,
+    "totalBorrowUsd": 537283,
+    "debtCeilingUsd": null,
+    "apyBase": 4.47191,
+    "apyReward": 0.75516,
+    "apyBaseBorrow": 10.5099,
+    "apyRewardBorrow": 1.33109
+  },
+  {
+    "timestamp": "2023-12-26T23:10:23.191Z",
+    "totalSupplyUsd": 994267,
+    "totalBorrowUsd": 528203,
+    "debtCeilingUsd": null,
+    "apyBase": 3.97191,
+    "apyReward": 0.75601,
+    "apyBaseBorrow": 9.96873,
+    "apyRewardBorrow": 1.42307
+  },
+  {
+    "timestamp": "2023-12-27T23:01:46.458Z",
+    "totalSupplyUsd": 1087598,
+    "totalBorrowUsd": 562760,
+    "debtCeilingUsd": null,
+    "apyBase": 3.7882,
+    "apyReward": 0.65652,
+    "apyBaseBorrow": 9.7615,
+    "apyRewardBorrow": 1.2688
+  },
+  {
+    "timestamp": "2023-12-28T23:01:35.235Z",
+    "totalSupplyUsd": 1050373,
+    "totalBorrowUsd": 541333,
+    "debtCeilingUsd": null,
+    "apyBase": 3.76115,
+    "apyReward": 0.66024,
+    "apyBaseBorrow": 9.73058,
+    "apyRewardBorrow": 1.2811
+  },
+  {
+    "timestamp": "2023-12-29T23:01:40.324Z",
+    "totalSupplyUsd": 996266,
+    "totalBorrowUsd": 514608,
+    "debtCeilingUsd": null,
+    "apyBase": 3.77642,
+    "apyReward": 0.67893,
+    "apyBaseBorrow": 9.74805,
+    "apyRewardBorrow": 1.31438
+  },
+  {
+    "timestamp": "2023-12-30T23:01:30.828Z",
+    "totalSupplyUsd": 997951,
+    "totalBorrowUsd": 527911,
+    "debtCeilingUsd": null,
+    "apyBase": 3.94165,
+    "apyReward": 0.67492,
+    "apyBaseBorrow": 9.93493,
+    "apyRewardBorrow": 1.27586
+  },
+  {
+    "timestamp": "2023-12-31T23:01:46.649Z",
+    "totalSupplyUsd": 940792,
+    "totalBorrowUsd": 496960,
+    "debtCeilingUsd": null,
+    "apyBase": 3.93148,
+    "apyReward": 0.69532,
+    "apyBaseBorrow": 9.92355,
+    "apyRewardBorrow": 1.3163
+  },
+  {
+    "timestamp": "2024-01-01T23:01:46.286Z",
+    "totalSupplyUsd": 929260,
+    "totalBorrowUsd": 491196,
+    "debtCeilingUsd": null,
+    "apyBase": 3.9362,
+    "apyReward": 0.71622,
+    "apyBaseBorrow": 9.92882,
+    "apyRewardBorrow": 1.35497
+  },
+  {
+    "timestamp": "2024-01-02T23:01:37.622Z",
+    "totalSupplyUsd": 929477,
+    "totalBorrowUsd": 491989,
+    "debtCeilingUsd": null,
+    "apyBase": 3.94598,
+    "apyReward": 0.71728,
+    "apyBaseBorrow": 9.93978,
+    "apyRewardBorrow": 1.3551
+  },
+  {
+    "timestamp": "2024-01-03T23:01:47.418Z",
+    "totalSupplyUsd": 911998,
+    "totalBorrowUsd": 454363,
+    "debtCeilingUsd": null,
+    "apyBase": 3.53966,
+    "apyReward": 0.78043,
+    "apyBaseBorrow": 9.47308,
+    "apyRewardBorrow": 1.56648
+  },
+  {
+    "timestamp": "2024-01-04T23:01:38.423Z",
+    "totalSupplyUsd": 868556,
+    "totalBorrowUsd": 429060,
+    "debtCeilingUsd": null,
+    "apyBase": 3.48631,
+    "apyReward": 0.79189,
+    "apyBaseBorrow": 9.40989,
+    "apyRewardBorrow": 1.60303
+  },
+  {
+    "timestamp": "2024-01-05T23:01:40.196Z",
+    "totalSupplyUsd": 847788,
+    "totalBorrowUsd": 418780,
+    "debtCeilingUsd": null,
+    "apyBase": 3.486,
+    "apyReward": 0.82743,
+    "apyBaseBorrow": 9.40952,
+    "apyRewardBorrow": 1.67507
+  },
+  {
+    "timestamp": "2024-01-06T23:12:37.801Z",
+    "totalSupplyUsd": 831800,
+    "totalBorrowUsd": 410951,
+    "debtCeilingUsd": null,
+    "apyBase": 3.48703,
+    "apyReward": 0.81659,
+    "apyBaseBorrow": 9.41075,
+    "apyRewardBorrow": 1.65286
+  },
+  {
+    "timestamp": "2024-01-07T23:01:39.330Z",
+    "totalSupplyUsd": 838500,
+    "totalBorrowUsd": 414440,
+    "debtCeilingUsd": null,
+    "apyBase": 3.48973,
+    "apyReward": 0.7781,
+    "apyBaseBorrow": 9.41395,
+    "apyRewardBorrow": 1.57426
+  },
+  {
+    "timestamp": "2024-01-08T23:01:38.767Z",
+    "totalSupplyUsd": 843982,
+    "totalBorrowUsd": 419754,
+    "debtCeilingUsd": null,
+    "apyBase": 3.52879,
+    "apyReward": 0.78521,
+    "apyBaseBorrow": 9.46025,
+    "apyRewardBorrow": 1.57879
+  },
+  {
+    "timestamp": "2024-01-09T23:01:36.651Z",
+    "totalSupplyUsd": 836511,
+    "totalBorrowUsd": 415993,
+    "debtCeilingUsd": null,
+    "apyBase": 3.52809,
+    "apyReward": 0.78813,
+    "apyBaseBorrow": 9.45943,
+    "apyRewardBorrow": 1.58484
+  },
+  {
+    "timestamp": "2024-01-10T23:01:49.959Z",
+    "totalSupplyUsd": 853463,
+    "totalBorrowUsd": 413918,
+    "debtCeilingUsd": null,
+    "apyBase": 3.37361,
+    "apyReward": 0.8099,
+    "apyBaseBorrow": 9.2748,
+    "apyRewardBorrow": 1.66994
+  },
+  {
+    "timestamp": "2024-01-11T23:01:48.278Z",
+    "totalSupplyUsd": 845074,
+    "totalBorrowUsd": 398352,
+    "debtCeilingUsd": null,
+    "apyBase": 3.20682,
+    "apyReward": 0.80647,
+    "apyBaseBorrow": 9.07071,
+    "apyRewardBorrow": 1.71086
+  },
+  {
+    "timestamp": "2024-01-12T23:01:49.185Z",
+    "totalSupplyUsd": 847113,
+    "totalBorrowUsd": 399696,
+    "debtCeilingUsd": null,
+    "apyBase": 3.2123,
+    "apyReward": 0.76615,
+    "apyBaseBorrow": 9.0775,
+    "apyRewardBorrow": 1.62377
+  },
+  {
+    "timestamp": "2024-01-13T23:01:42.467Z",
+    "totalSupplyUsd": 923169,
+    "totalBorrowUsd": 431454,
+    "debtCeilingUsd": null,
+    "apyBase": 3.15834,
+    "apyReward": 0.73824,
+    "apyBaseBorrow": 9.01042,
+    "apyRewardBorrow": 1.5796
+  },
+  {
+    "timestamp": "2024-01-14T23:01:30.472Z",
+    "totalSupplyUsd": 909648,
+    "totalBorrowUsd": 425149,
+    "debtCeilingUsd": null,
+    "apyBase": 3.15853,
+    "apyReward": 0.74232,
+    "apyBaseBorrow": 9.01066,
+    "apyRewardBorrow": 1.58827
+  },
+  {
+    "timestamp": "2024-01-15T23:01:41.434Z",
+    "totalSupplyUsd": 911415,
+    "totalBorrowUsd": 431413,
+    "debtCeilingUsd": null,
+    "apyBase": 3.23063,
+    "apyReward": 0.73963,
+    "apyBaseBorrow": 9.10016,
+    "apyRewardBorrow": 1.56256
+  },
+  {
+    "timestamp": "2024-01-16T23:01:31.488Z",
+    "totalSupplyUsd": 854329,
+    "totalBorrowUsd": 411815,
+    "debtCeilingUsd": null,
+    "apyBase": 3.33705,
+    "apyReward": 0.80774,
+    "apyBaseBorrow": 9.23049,
+    "apyRewardBorrow": 1.6757
+  },
+  {
+    "timestamp": "2024-01-17T23:01:51.656Z",
+    "totalSupplyUsd": 855462,
+    "totalBorrowUsd": 411613,
+    "debtCeilingUsd": null,
+    "apyBase": 3.32627,
+    "apyReward": 0.78934,
+    "apyBaseBorrow": 9.21738,
+    "apyRewardBorrow": 1.6405
+  },
+  {
+    "timestamp": "2024-01-18T23:01:39.548Z",
+    "totalSupplyUsd": 853717,
+    "totalBorrowUsd": 411013,
+    "debtCeilingUsd": null,
+    "apyBase": 3.32973,
+    "apyReward": 0.79897,
+    "apyBaseBorrow": 9.2216,
+    "apyRewardBorrow": 1.65954
+  },
+  {
+    "timestamp": "2024-01-19T23:01:41.178Z",
+    "totalSupplyUsd": 866530,
+    "totalBorrowUsd": 417219,
+    "debtCeilingUsd": null,
+    "apyBase": 3.33025,
+    "apyReward": 0.80098,
+    "apyBaseBorrow": 9.22223,
+    "apyRewardBorrow": 1.66356
+  },
+  {
+    "timestamp": "2024-01-20T23:01:33.117Z",
+    "totalSupplyUsd": 874216,
+    "totalBorrowUsd": 416051,
+    "debtCeilingUsd": null,
+    "apyBase": 3.26192,
+    "apyReward": 0.79393,
+    "apyBaseBorrow": 9.1387,
+    "apyRewardBorrow": 1.66824
+  },
+  {
+    "timestamp": "2024-01-21T23:01:42.506Z",
+    "totalSupplyUsd": 914487,
+    "totalBorrowUsd": 400060,
+    "debtCeilingUsd": null,
+    "apyBase": 2.80922,
+    "apyReward": 0.76521,
+    "apyBaseBorrow": 8.56204,
+    "apyRewardBorrow": 1.74917
+  },
+  {
+    "timestamp": "2024-01-22T23:01:41.520Z",
+    "totalSupplyUsd": 904918,
+    "totalBorrowUsd": 344068,
+    "debtCeilingUsd": null,
+    "apyBase": 2.19671,
+    "apyReward": 0.75313,
+    "apyBaseBorrow": 7.7033,
+    "apyRewardBorrow": 1.98078
+  },
+  {
+    "timestamp": "2024-01-23T23:02:05.758Z",
+    "totalSupplyUsd": 871109,
+    "totalBorrowUsd": 343184,
+    "debtCeilingUsd": null,
+    "apyBase": 2.33701,
+    "apyReward": 0.75421,
+    "apyBaseBorrow": 7.90943,
+    "apyRewardBorrow": 1.91443
+  },
+  {
+    "timestamp": "2024-01-24T23:01:41.396Z",
+    "totalSupplyUsd": 833109,
+    "totalBorrowUsd": 346176,
+    "debtCeilingUsd": null,
+    "apyBase": 2.56571,
+    "apyReward": 0.79477,
+    "apyBaseBorrow": 8.23285,
+    "apyRewardBorrow": 1.9127
+  },
+  {
+    "timestamp": "2024-01-25T23:01:54.240Z",
+    "totalSupplyUsd": 862356,
+    "totalBorrowUsd": 358391,
+    "debtCeilingUsd": null,
+    "apyBase": 2.56648,
+    "apyReward": 0.7612,
+    "apyBaseBorrow": 8.23393,
+    "apyRewardBorrow": 1.8316
+  },
+  {
+    "timestamp": "2024-01-26T23:01:37.080Z",
+    "totalSupplyUsd": 887459,
+    "totalBorrowUsd": 426273,
+    "debtCeilingUsd": null,
+    "apyBase": 3.31605,
+    "apyReward": 0.77309,
+    "apyBaseBorrow": 9.20494,
+    "apyRewardBorrow": 1.6095
+  },
+  {
+    "timestamp": "2024-01-27T23:01:56.806Z",
+    "totalSupplyUsd": 876394,
+    "totalBorrowUsd": 426048,
+    "debtCeilingUsd": null,
+    "apyBase": 3.38791,
+    "apyReward": 0.80433,
+    "apyBaseBorrow": 9.29206,
+    "apyRewardBorrow": 1.65452
+  },
+  {
+    "timestamp": "2024-01-28T23:01:44.514Z",
+    "totalSupplyUsd": 874074,
+    "totalBorrowUsd": 425389,
+    "debtCeilingUsd": null,
+    "apyBase": 3.39459,
+    "apyReward": 0.82864,
+    "apyBaseBorrow": 9.30011,
+    "apyRewardBorrow": 1.70267
+  },
+  {
+    "timestamp": "2024-01-29T23:01:39.884Z",
+    "totalSupplyUsd": 873017,
+    "totalBorrowUsd": 425002,
+    "debtCeilingUsd": null,
+    "apyBase": 3.3964,
+    "apyReward": 0.81789,
+    "apyBaseBorrow": 9.30229,
+    "apyRewardBorrow": 1.68007
+  },
+  {
+    "timestamp": "2024-01-30T23:03:45.955Z",
+    "totalSupplyUsd": 863649,
+    "totalBorrowUsd": 464245,
+    "debtCeilingUsd": null,
+    "apyBase": 4.05698,
+    "apyReward": 0.81289,
+    "apyBaseBorrow": 10.06309,
+    "apyRewardBorrow": 1.51225
+  },
+  {
+    "timestamp": "2024-01-31T23:01:51.430Z",
+    "totalSupplyUsd": 860872,
+    "totalBorrowUsd": 458165,
+    "debtCeilingUsd": null,
+    "apyBase": 3.98485,
+    "apyReward": 0.80889,
+    "apyBaseBorrow": 9.98315,
+    "apyRewardBorrow": 1.51987
+  },
+  {
+    "timestamp": "2024-02-01T23:02:10.352Z",
+    "totalSupplyUsd": 888896,
+    "totalBorrowUsd": 535908,
+    "debtCeilingUsd": null,
+    "apyBase": 5.36622,
+    "apyReward": 0.77248,
+    "apyBaseBorrow": 11.86772,
+    "apyRewardBorrow": 1.28129
+  },
+  {
+    "timestamp": "2024-02-02T23:03:21.361Z",
+    "totalSupplyUsd": 897202,
+    "totalBorrowUsd": 540852,
+    "debtCeilingUsd": null,
+    "apyBase": 5.35583,
+    "apyReward": 0.76279,
+    "apyBaseBorrow": 11.84616,
+    "apyRewardBorrow": 1.26537
+  },
+  {
+    "timestamp": "2024-02-03T23:01:40.979Z",
+    "totalSupplyUsd": 896217,
+    "totalBorrowUsd": 540917,
+    "debtCeilingUsd": null,
+    "apyBase": 5.46216,
+    "apyReward": 0.75344,
+    "apyBaseBorrow": 12.06663,
+    "apyRewardBorrow": 1.24834
+  },
+  {
+    "timestamp": "2024-02-04T23:03:19.576Z",
+    "totalSupplyUsd": 905670,
+    "totalBorrowUsd": 546702,
+    "debtCeilingUsd": null,
+    "apyBase": 5.47497,
+    "apyReward": 0.67002,
+    "apyBaseBorrow": 12.09316,
+    "apyRewardBorrow": 1.10995
+  },
+  {
+    "timestamp": "2024-02-05T23:01:48.268Z",
+    "totalSupplyUsd": 913396,
+    "totalBorrowUsd": 551534,
+    "debtCeilingUsd": null,
+    "apyBase": 5.50164,
+    "apyReward": 0.66685,
+    "apyBaseBorrow": 12.14836,
+    "apyRewardBorrow": 1.10436
+  },
+  {
+    "timestamp": "2024-02-06T23:03:41.781Z",
+    "totalSupplyUsd": 941898,
+    "totalBorrowUsd": 454434,
+    "debtCeilingUsd": null,
+    "apyBase": 3.34241,
+    "apyReward": 0.64364,
+    "apyBaseBorrow": 9.237,
+    "apyRewardBorrow": 1.33406
+  },
+  {
+    "timestamp": "2024-02-07T23:02:37.586Z",
+    "totalSupplyUsd": 969626,
+    "totalBorrowUsd": 369175,
+    "debtCeilingUsd": null,
+    "apyBase": 2.20194,
+    "apyReward": 0.63347,
+    "apyBaseBorrow": 7.7111,
+    "apyRewardBorrow": 1.66378
+  },
+  {
+    "timestamp": "2024-02-08T23:02:46.891Z",
+    "totalSupplyUsd": 953526,
+    "totalBorrowUsd": 362955,
+    "debtCeilingUsd": null,
+    "apyBase": 2.20099,
+    "apyReward": 0.64536,
+    "apyBaseBorrow": 7.70967,
+    "apyRewardBorrow": 1.69544
+  },
+  {
+    "timestamp": "2024-02-09T23:01:49.531Z",
+    "totalSupplyUsd": 937947,
+    "totalBorrowUsd": 358272,
+    "debtCeilingUsd": null,
+    "apyBase": 2.21439,
+    "apyReward": 0.66155,
+    "apyBaseBorrow": 7.72962,
+    "apyRewardBorrow": 1.73192
+  },
+  {
+    "timestamp": "2024-02-10T23:02:14.716Z",
+    "totalSupplyUsd": 943883,
+    "totalBorrowUsd": 361392,
+    "debtCeilingUsd": null,
+    "apyBase": 2.22352,
+    "apyReward": 0.66041,
+    "apyBaseBorrow": 7.74318,
+    "apyRewardBorrow": 1.72486
+  },
+  {
+    "timestamp": "2024-02-11T23:02:45.159Z",
+    "totalSupplyUsd": 939513,
+    "totalBorrowUsd": 359704,
+    "debtCeilingUsd": null,
+    "apyBase": 2.22336,
+    "apyReward": 0.6562,
+    "apyBaseBorrow": 7.74293,
+    "apyRewardBorrow": 1.71393
+  },
+  {
+    "timestamp": "2024-02-12T23:01:51.718Z",
+    "totalSupplyUsd": 952535,
+    "totalBorrowUsd": 238689,
+    "debtCeilingUsd": null,
+    "apyBase": 1.08228,
+    "apyReward": 0.65741,
+    "apyBaseBorrow": 5.75874,
+    "apyRewardBorrow": 2.62351
+  },
+  {
+    "timestamp": "2024-02-13T23:02:22.584Z",
+    "totalSupplyUsd": 957157,
+    "totalBorrowUsd": 240057,
+    "debtCeilingUsd": null,
+    "apyBase": 1.08385,
+    "apyReward": 0.6447,
+    "apyBaseBorrow": 5.76203,
+    "apyRewardBorrow": 2.57055
+  },
+  {
+    "timestamp": "2024-02-14T23:02:43.731Z",
+    "totalSupplyUsd": 1026817,
+    "totalBorrowUsd": 243939,
+    "debtCeilingUsd": null,
+    "apyBase": 0.99129,
+    "apyReward": 0.62207,
+    "apyBaseBorrow": 5.56353,
+    "apyRewardBorrow": 2.61848
+  },
+  {
+    "timestamp": "2024-02-15T23:03:00.537Z",
+    "totalSupplyUsd": 1042838,
+    "totalBorrowUsd": 234341,
+    "debtCeilingUsd": null,
+    "apyBase": 0.90516,
+    "apyReward": 0.6229,
+    "apyBaseBorrow": 5.37072,
+    "apyRewardBorrow": 2.77197
+  },
+  {
+    "timestamp": "2024-02-16T23:01:30.352Z",
+    "totalSupplyUsd": 1054358,
+    "totalBorrowUsd": 238270,
+    "debtCeilingUsd": null,
+    "apyBase": 0.91351,
+    "apyReward": 0.62746,
+    "apyBaseBorrow": 5.38978,
+    "apyRewardBorrow": 2.77653
+  },
+  {
+    "timestamp": "2024-02-17T23:03:26.076Z",
+    "totalSupplyUsd": 1076447,
+    "totalBorrowUsd": 237806,
+    "debtCeilingUsd": null,
+    "apyBase": 0.88043,
+    "apyReward": 0.64213,
+    "apyBaseBorrow": 5.31376,
+    "apyRewardBorrow": 2.90665
+  },
+  {
+    "timestamp": "2024-02-18T23:02:40.555Z",
+    "totalSupplyUsd": 1068874,
+    "totalBorrowUsd": 237974,
+    "debtCeilingUsd": null,
+    "apyBase": 0.89161,
+    "apyReward": 0.64775,
+    "apyBaseBorrow": 5.3396,
+    "apyRewardBorrow": 2.90939
+  },
+  {
+    "timestamp": "2024-02-19T23:04:31.598Z",
+    "totalSupplyUsd": 1081622,
+    "totalBorrowUsd": 240758,
+    "debtCeilingUsd": null,
+    "apyBase": 0.89128,
+    "apyReward": 0.64591,
+    "apyBaseBorrow": 5.33884,
+    "apyRewardBorrow": 2.90181
+  },
+  {
+    "timestamp": "2024-02-20T23:03:27.412Z",
+    "totalSupplyUsd": 1103875,
+    "totalBorrowUsd": 245729,
+    "debtCeilingUsd": null,
+    "apyBase": 0.89139,
+    "apyReward": 0.62721,
+    "apyBaseBorrow": 5.33909,
+    "apyRewardBorrow": 2.81757
+  },
+  {
+    "timestamp": "2024-02-21T23:02:41.615Z",
+    "totalSupplyUsd": 1107532,
+    "totalBorrowUsd": 250102,
+    "debtCeilingUsd": null,
+    "apyBase": 0.91241,
+    "apyReward": 0.60814,
+    "apyBaseBorrow": 5.38728,
+    "apyRewardBorrow": 2.69306
+  },
+  {
+    "timestamp": "2024-02-22T23:02:40.456Z",
+    "totalSupplyUsd": 1107391,
+    "totalBorrowUsd": 246614,
+    "debtCeilingUsd": null,
+    "apyBase": 0.89199,
+    "apyReward": 0.62058,
+    "apyBaseBorrow": 5.34048,
+    "apyRewardBorrow": 2.78665
+  },
+  {
+    "timestamp": "2024-02-23T23:02:36.372Z",
+    "totalSupplyUsd": 1088413,
+    "totalBorrowUsd": 245088,
+    "debtCeilingUsd": null,
+    "apyBase": 0.90821,
+    "apyReward": 0.63193,
+    "apyBaseBorrow": 5.37769,
+    "apyRewardBorrow": 2.80633
+  },
+  {
+    "timestamp": "2024-02-24T23:03:19.304Z",
+    "totalSupplyUsd": 1086612,
+    "totalBorrowUsd": 244779,
+    "debtCeilingUsd": null,
+    "apyBase": 0.90879,
+    "apyReward": 0.66394,
+    "apyBaseBorrow": 5.37901,
+    "apyRewardBorrow": 2.94734
+  },
+  {
+    "timestamp": "2024-02-25T23:02:39.846Z",
+    "totalSupplyUsd": 1097233,
+    "totalBorrowUsd": 218206,
+    "debtCeilingUsd": null,
+    "apyBase": 0.74323,
+    "apyReward": 0.64608,
+    "apyBaseBorrow": 4.98305,
+    "apyRewardBorrow": 3.24875
+  },
+  {
+    "timestamp": "2024-02-26T23:02:41.450Z",
+    "totalSupplyUsd": 1130327,
+    "totalBorrowUsd": 224952,
+    "debtCeilingUsd": null,
+    "apyBase": 0.7441,
+    "apyReward": 0.64028,
+    "apyBaseBorrow": 4.98522,
+    "apyRewardBorrow": 3.21726
+  },
+  {
+    "timestamp": "2024-02-27T23:02:16.588Z",
+    "totalSupplyUsd": 1133736,
+    "totalBorrowUsd": 205546,
+    "debtCeilingUsd": null,
+    "apyBase": 0.64173,
+    "apyReward": 0.64389,
+    "apyBaseBorrow": 4.7195,
+    "apyRewardBorrow": 3.55152
+  },
+  {
+    "timestamp": "2024-02-28T23:03:18.743Z",
+    "totalSupplyUsd": 1143750,
+    "totalBorrowUsd": 359265,
+    "debtCeilingUsd": null,
+    "apyBase": 1.58116,
+    "apyReward": 0.62279,
+    "apyBaseBorrow": 6.71167,
+    "apyRewardBorrow": 1.98272
+  },
+  {
+    "timestamp": "2024-02-29T23:01:43.794Z",
+    "totalSupplyUsd": 1058049,
+    "totalBorrowUsd": 614547,
+    "debtCeilingUsd": null,
+    "apyBase": 4.66658,
+    "apyReward": 0.66462,
+    "apyBaseBorrow": 10.71245,
+    "apyRewardBorrow": 1.14425
+  },
+  {
+    "timestamp": "2024-03-01T23:02:43.260Z",
+    "totalSupplyUsd": 1064268,
+    "totalBorrowUsd": 476829,
+    "debtCeilingUsd": null,
+    "apyBase": 2.93032,
+    "apyReward": 0.68967,
+    "apyBaseBorrow": 8.72052,
+    "apyRewardBorrow": 1.53932
+  },
+  {
+    "timestamp": "2024-03-02T23:03:28.319Z",
+    "totalSupplyUsd": 1064364,
+    "totalBorrowUsd": 474947,
+    "debtCeilingUsd": null,
+    "apyBase": 2.90941,
+    "apyReward": 0.69979,
+    "apyBaseBorrow": 8.69339,
+    "apyRewardBorrow": 1.56823
+  },
+  {
+    "timestamp": "2024-03-03T23:03:18.611Z",
+    "totalSupplyUsd": 1056653,
+    "totalBorrowUsd": 191717,
+    "debtCeilingUsd": null,
+    "apyBase": 0.6425,
+    "apyReward": 0.70273,
+    "apyBaseBorrow": 4.72157,
+    "apyRewardBorrow": 3.87314
+  },
+  {
+    "timestamp": "2024-03-04T16:03:22.626Z",
+    "totalSupplyUsd": 1063410,
+    "totalBorrowUsd": 202510,
+    "debtCeilingUsd": null,
+    "apyBase": 0.69364,
+    "apyReward": 0.69291,
+    "apyBaseBorrow": 4.85652,
+    "apyRewardBorrow": 3.63855
+  },
+  {
+    "timestamp": "2024-03-05T23:03:23.401Z",
+    "totalSupplyUsd": 996196,
+    "totalBorrowUsd": 196785,
+    "debtCeilingUsd": null,
+    "apyBase": 0.73528,
+    "apyReward": 0.66581,
+    "apyBaseBorrow": 4.96304,
+    "apyRewardBorrow": 3.37055
+  },
+  {
+    "timestamp": "2024-03-06T23:02:43.356Z",
+    "totalSupplyUsd": 1006114,
+    "totalBorrowUsd": 210179,
+    "debtCeilingUsd": null,
+    "apyBase": 0.8043,
+    "apyReward": 0.70176,
+    "apyBaseBorrow": 5.13353,
+    "apyRewardBorrow": 3.35926
+  },
+  {
+    "timestamp": "2024-03-07T23:04:40.249Z",
+    "totalSupplyUsd": 1017958,
+    "totalBorrowUsd": 210064,
+    "debtCeilingUsd": null,
+    "apyBase": 0.78861,
+    "apyReward": 0.73617,
+    "apyBaseBorrow": 5.09538,
+    "apyRewardBorrow": 3.56744
+  },
+  {
+    "timestamp": "2024-03-08T23:02:40.012Z",
+    "totalSupplyUsd": 1008740,
+    "totalBorrowUsd": 208374,
+    "debtCeilingUsd": null,
+    "apyBase": 0.7899,
+    "apyReward": 0.74572,
+    "apyBaseBorrow": 5.09853,
+    "apyRewardBorrow": 3.61005
+  },
+  {
+    "timestamp": "2024-03-09T23:01:58.753Z",
+    "totalSupplyUsd": 1005609,
+    "totalBorrowUsd": 207724,
+    "debtCeilingUsd": null,
+    "apyBase": 0.78987,
+    "apyReward": 0.75088,
+    "apyBaseBorrow": 5.09847,
+    "apyRewardBorrow": 3.63509
+  },
+  {
+    "timestamp": "2024-03-10T23:02:44.958Z",
+    "totalSupplyUsd": 988340,
+    "totalBorrowUsd": 202805,
+    "debtCeilingUsd": null,
+    "apyBase": 0.78149,
+    "apyReward": 0.75996,
+    "apyBaseBorrow": 5.07797,
+    "apyRewardBorrow": 3.70356
+  },
+  {
+    "timestamp": "2024-03-11T23:02:02.523Z",
+    "totalSupplyUsd": 1005327,
+    "totalBorrowUsd": 336492,
+    "debtCeilingUsd": null,
+    "apyBase": 1.7624,
+    "apyReward": 0.87193,
+    "apyBaseBorrow": 7.02063,
+    "apyRewardBorrow": 2.60503
+  },
+  {
+    "timestamp": "2024-03-12T23:03:23.624Z",
+    "totalSupplyUsd": 979084,
+    "totalBorrowUsd": 332041,
+    "debtCeilingUsd": null,
+    "apyBase": 1.80258,
+    "apyReward": 0.89996,
+    "apyBaseBorrow": 7.08701,
+    "apyRewardBorrow": 2.65369
+  },
+  {
+    "timestamp": "2024-03-13T23:09:22.296Z",
+    "totalSupplyUsd": 999957,
+    "totalBorrowUsd": 388883,
+    "debtCeilingUsd": null,
+    "apyBase": 2.28483,
+    "apyReward": 0.94904,
+    "apyBaseBorrow": 7.83349,
+    "apyRewardBorrow": 2.44032
+  },
+  {
+    "timestamp": "2024-03-14T23:01:42.504Z",
+    "totalSupplyUsd": 951031,
+    "totalBorrowUsd": 372743,
+    "debtCeilingUsd": null,
+    "apyBase": 2.31605,
+    "apyReward": 0.95829,
+    "apyBaseBorrow": 7.87903,
+    "apyRewardBorrow": 2.44501
+  },
+  {
+    "timestamp": "2024-03-15T23:01:46.469Z",
+    "totalSupplyUsd": 881963,
+    "totalBorrowUsd": 380221,
+    "debtCeilingUsd": null,
+    "apyBase": 2.73752,
+    "apyReward": 0.99583,
+    "apyBaseBorrow": 8.46662,
+    "apyRewardBorrow": 2.30992
+  },
+  {
+    "timestamp": "2024-03-16T23:01:41.310Z",
+    "totalSupplyUsd": 928329,
+    "totalBorrowUsd": 364008,
+    "debtCeilingUsd": null,
+    "apyBase": 2.31787,
+    "apyReward": 0.83366,
+    "apyBaseBorrow": 7.88167,
+    "apyRewardBorrow": 2.12609
+  },
+  {
+    "timestamp": "2024-03-17T23:01:26.809Z",
+    "totalSupplyUsd": 938836,
+    "totalBorrowUsd": 363040,
+    "debtCeilingUsd": null,
+    "apyBase": 2.26225,
+    "apyReward": 0.9033,
+    "apyBaseBorrow": 7.80037,
+    "apyRewardBorrow": 2.33598
+  },
+  {
+    "timestamp": "2024-03-18T23:01:37.234Z",
+    "totalSupplyUsd": 917195,
+    "totalBorrowUsd": 367782,
+    "debtCeilingUsd": null,
+    "apyBase": 2.41036,
+    "apyReward": 0.86368,
+    "apyBaseBorrow": 8.01478,
+    "apyRewardBorrow": 2.1539
+  },
+  {
+    "timestamp": "2024-03-19T23:01:32.483Z",
+    "totalSupplyUsd": 842465,
+    "totalBorrowUsd": 363249,
+    "debtCeilingUsd": null,
+    "apyBase": 2.73826,
+    "apyReward": 0.8638,
+    "apyBaseBorrow": 8.46761,
+    "apyRewardBorrow": 2.00336
+  },
+  {
+    "timestamp": "2024-03-20T23:01:33.408Z",
+    "totalSupplyUsd": 897988,
+    "totalBorrowUsd": 472754,
+    "debtCeilingUsd": null,
+    "apyBase": 3.90773,
+    "apyReward": 0.8758,
+    "apyBaseBorrow": 9.89689,
+    "apyRewardBorrow": 1.66357
+  },
+  {
+    "timestamp": "2024-03-21T23:01:40.434Z",
+    "totalSupplyUsd": 872949,
+    "totalBorrowUsd": 425287,
+    "debtCeilingUsd": null,
+    "apyBase": 3.40094,
+    "apyReward": 1.04988,
+    "apyBaseBorrow": 9.30775,
+    "apyRewardBorrow": 2.155
+  },
+  {
+    "timestamp": "2024-03-22T23:01:40.904Z",
+    "totalSupplyUsd": 846027,
+    "totalBorrowUsd": 413947,
+    "debtCeilingUsd": null,
+    "apyBase": 3.42715,
+    "apyReward": 1.00509,
+    "apyBaseBorrow": 9.33925,
+    "apyRewardBorrow": 2.05421
+  },
+  {
+    "timestamp": "2024-03-23T23:01:27.462Z",
+    "totalSupplyUsd": 883958,
+    "totalBorrowUsd": 404896,
+    "debtCeilingUsd": null,
+    "apyBase": 3.04741,
+    "apyReward": 0.95035,
+    "apyBaseBorrow": 8.87072,
+    "apyRewardBorrow": 2.07478
+  },
+  {
+    "timestamp": "2024-03-24T23:01:49.308Z",
+    "totalSupplyUsd": 894325,
+    "totalBorrowUsd": 411031,
+    "debtCeilingUsd": null,
+    "apyBase": 3.06575,
+    "apyReward": 0.97823,
+    "apyBaseBorrow": 8.89399,
+    "apyRewardBorrow": 2.12845
+  },
+  {
+    "timestamp": "2024-03-25T23:17:24.349Z",
+    "totalSupplyUsd": 726685,
+    "totalBorrowUsd": 420770,
+    "debtCeilingUsd": null,
+    "apyBase": 4.64035,
+    "apyReward": 1.28788,
+    "apyBaseBorrow": 10.68541,
+    "apyRewardBorrow": 2.22421
+  },
+  {
+    "timestamp": "2024-03-26T23:01:49.395Z",
+    "totalSupplyUsd": 738828,
+    "totalBorrowUsd": 371265,
+    "debtCeilingUsd": null,
+    "apyBase": 3.59452,
+    "apyReward": 1.3524,
+    "apyBaseBorrow": 9.53759,
+    "apyRewardBorrow": 2.6913
+  },
+  {
+    "timestamp": "2024-03-27T23:01:56.149Z",
+    "totalSupplyUsd": 731320,
+    "totalBorrowUsd": 368955,
+    "debtCeilingUsd": null,
+    "apyBase": 3.62017,
+    "apyReward": 1.28752,
+    "apyBaseBorrow": 9.56758,
+    "apyRewardBorrow": 2.55204
+  },
+  {
+    "timestamp": "2024-03-28T23:01:51.349Z",
+    "totalSupplyUsd": 731427,
+    "totalBorrowUsd": 368977,
+    "debtCeilingUsd": null,
+    "apyBase": 3.61961,
+    "apyReward": 1.25536,
+    "apyBaseBorrow": 9.56692,
+    "apyRewardBorrow": 2.48851
+  },
+  {
+    "timestamp": "2024-03-29T23:03:43.261Z",
+    "totalSupplyUsd": 777108,
+    "totalBorrowUsd": 297901,
+    "debtCeilingUsd": null,
+    "apyBase": 2.22825,
+    "apyReward": 1.16909,
+    "apyBaseBorrow": 7.75018,
+    "apyRewardBorrow": 3.0497
+  },
+  {
+    "timestamp": "2024-03-30T23:01:44.132Z",
+    "totalSupplyUsd": 771042,
+    "totalBorrowUsd": 210344,
+    "debtCeilingUsd": null,
+    "apyBase": 1.24646,
+    "apyReward": 1.1413,
+    "apyBaseBorrow": 6.09208,
+    "apyRewardBorrow": 4.18358
+  },
+  {
+    "timestamp": "2024-03-31T23:01:35.156Z",
+    "totalSupplyUsd": 743990,
+    "totalBorrowUsd": 198382,
+    "debtCeilingUsd": null,
+    "apyBase": 1.19984,
+    "apyReward": 1.34301,
+    "apyBaseBorrow": 5.99969,
+    "apyRewardBorrow": 5.03669
+  },
+  {
+    "timestamp": "2024-04-01T23:02:52.952Z",
+    "totalSupplyUsd": 730429,
+    "totalBorrowUsd": 188515,
+    "debtCeilingUsd": null,
+    "apyBase": 1.13649,
+    "apyReward": 1.29221,
+    "apyBaseBorrow": 5.87132,
+    "apyRewardBorrow": 5.00686
+  },
+  {
+    "timestamp": "2024-04-02T23:01:56.135Z",
+    "totalSupplyUsd": 677116,
+    "totalBorrowUsd": 264560,
+    "debtCeilingUsd": null,
+    "apyBase": 2.30349,
+    "apyReward": 1.2853,
+    "apyBaseBorrow": 7.86075,
+    "apyRewardBorrow": 3.2896
+  },
+  {
+    "timestamp": "2024-04-03T23:01:40.204Z",
+    "totalSupplyUsd": 652419,
+    "totalBorrowUsd": 275882,
+    "debtCeilingUsd": null,
+    "apyBase": 2.64592,
+    "apyReward": 1.33832,
+    "apyBaseBorrow": 8.34291,
+    "apyRewardBorrow": 3.16493
+  },
+  {
+    "timestamp": "2024-04-04T23:02:41.704Z",
+    "totalSupplyUsd": 697138,
+    "totalBorrowUsd": 278283,
+    "debtCeilingUsd": null,
+    "apyBase": 2.39138,
+    "apyReward": 1.24511,
+    "apyBaseBorrow": 7.98768,
+    "apyRewardBorrow": 3.11919
+  },
+  {
+    "timestamp": "2024-04-05T23:01:54.987Z",
+    "totalSupplyUsd": 696989,
+    "totalBorrowUsd": 279180,
+    "debtCeilingUsd": null,
+    "apyBase": 2.4058,
+    "apyReward": 1.2061,
+    "apyBaseBorrow": 8.00828,
+    "apyRewardBorrow": 3.0111
+  },
+  {
+    "timestamp": "2024-04-06T23:01:33.860Z",
+    "totalSupplyUsd": 699992,
+    "totalBorrowUsd": 280134,
+    "debtCeilingUsd": null,
+    "apyBase": 2.40206,
+    "apyReward": 1.20989,
+    "apyBaseBorrow": 8.00295,
+    "apyRewardBorrow": 3.02324
+  },
+  {
+    "timestamp": "2024-04-07T23:01:26.839Z",
+    "totalSupplyUsd": 702847,
+    "totalBorrowUsd": 280618,
+    "debtCeilingUsd": null,
+    "apyBase": 2.39222,
+    "apyReward": 1.28855,
+    "apyBaseBorrow": 7.98887,
+    "apyRewardBorrow": 3.22737
+  },
+  {
+    "timestamp": "2024-04-08T23:01:53.473Z",
+    "totalSupplyUsd": 717438,
+    "totalBorrowUsd": 291911,
+    "debtCeilingUsd": null,
+    "apyBase": 2.47277,
+    "apyReward": 1.29096,
+    "apyBaseBorrow": 8.1032,
+    "apyRewardBorrow": 3.17284
+  },
+  {
+    "timestamp": "2024-04-09T23:01:35.504Z",
+    "totalSupplyUsd": 673855,
+    "totalBorrowUsd": 289164,
+    "debtCeilingUsd": null,
+    "apyBase": 2.71529,
+    "apyReward": 1.35246,
+    "apyBaseBorrow": 8.43679,
+    "apyRewardBorrow": 3.1517
+  },
+  {
+    "timestamp": "2024-04-10T23:02:02.378Z",
+    "totalSupplyUsd": 689188,
+    "totalBorrowUsd": 290278,
+    "debtCeilingUsd": null,
+    "apyBase": 2.62753,
+    "apyReward": 1.23465,
+    "apyBaseBorrow": 8.31783,
+    "apyRewardBorrow": 2.93135
+  },
+  {
+    "timestamp": "2024-04-11T23:01:44.426Z",
+    "totalSupplyUsd": 678472,
+    "totalBorrowUsd": 284953,
+    "debtCeilingUsd": null,
+    "apyBase": 2.61441,
+    "apyReward": 1.29282,
+    "apyBaseBorrow": 8.29987,
+    "apyRewardBorrow": 3.0782
+  },
+  {
+    "timestamp": "2024-04-12T23:06:38.358Z",
+    "totalSupplyUsd": 712771,
+    "totalBorrowUsd": 282541,
+    "debtCeilingUsd": null,
+    "apyBase": 2.36232,
+    "apyReward": 1.07298,
+    "apyBaseBorrow": 7.94597,
+    "apyRewardBorrow": 2.70682
+  },
+  {
+    "timestamp": "2024-04-13T23:02:35.881Z",
+    "totalSupplyUsd": 739693,
+    "totalBorrowUsd": 329161,
+    "debtCeilingUsd": null,
+    "apyBase": 2.89524,
+    "apyReward": 0.75328,
+    "apyBaseBorrow": 8.67495,
+    "apyRewardBorrow": 1.69278
+  },
+  {
+    "timestamp": "2024-04-14T23:01:37.964Z",
+    "totalSupplyUsd": 745882,
+    "totalBorrowUsd": 329959,
+    "debtCeilingUsd": null,
+    "apyBase": 2.86513,
+    "apyReward": 0.73403,
+    "apyBaseBorrow": 8.63562,
+    "apyRewardBorrow": 1.6593
+  },
+  {
+    "timestamp": "2024-04-15T23:01:31.496Z",
+    "totalSupplyUsd": 741528,
+    "totalBorrowUsd": 297193,
+    "debtCeilingUsd": null,
+    "apyBase": 2.40824,
+    "apyReward": 0.73065,
+    "apyBaseBorrow": 8.01177,
+    "apyRewardBorrow": 1.82305
+  },
+  {
+    "timestamp": "2024-04-16T23:01:51.782Z",
+    "totalSupplyUsd": 730678,
+    "totalBorrowUsd": 286977,
+    "debtCeilingUsd": null,
+    "apyBase": 2.32451,
+    "apyReward": 0.75243,
+    "apyBaseBorrow": 7.89131,
+    "apyRewardBorrow": 1.91577
+  },
+  {
+    "timestamp": "2024-04-17T23:01:58.758Z",
+    "totalSupplyUsd": 689360,
+    "totalBorrowUsd": 284480,
+    "debtCeilingUsd": null,
+    "apyBase": 2.53487,
+    "apyReward": 0.7967,
+    "apyBaseBorrow": 8.19009,
+    "apyRewardBorrow": 1.93058
+  },
+  {
+    "timestamp": "2024-04-18T23:01:51.194Z",
+    "totalSupplyUsd": 633361,
+    "totalBorrowUsd": 291071,
+    "debtCeilingUsd": null,
+    "apyBase": 3.06536,
+    "apyReward": 0.90946,
+    "apyBaseBorrow": 8.89349,
+    "apyRewardBorrow": 1.97895
+  },
+  {
+    "timestamp": "2024-04-19T23:01:53.966Z",
+    "totalSupplyUsd": 630697,
+    "totalBorrowUsd": 287577,
+    "debtCeilingUsd": null,
+    "apyBase": 3.0229,
+    "apyReward": 0.92958,
+    "apyBaseBorrow": 8.83951,
+    "apyRewardBorrow": 2.03869
+  },
+  {
+    "timestamp": "2024-04-20T23:01:56.783Z",
+    "totalSupplyUsd": 638395,
+    "totalBorrowUsd": 270136,
+    "debtCeilingUsd": null,
+    "apyBase": 2.64909,
+    "apyReward": 0.95857,
+    "apyBaseBorrow": 8.34723,
+    "apyRewardBorrow": 2.26532
+  },
+  {
+    "timestamp": "2024-04-21T23:01:31.926Z",
+    "totalSupplyUsd": 642830,
+    "totalBorrowUsd": 272278,
+    "debtCeilingUsd": null,
+    "apyBase": 2.65364,
+    "apyReward": 0.94397,
+    "apyBaseBorrow": 8.35343,
+    "apyRewardBorrow": 2.22865
+  },
+  {
+    "timestamp": "2024-04-22T23:01:34.225Z",
+    "totalSupplyUsd": 655398,
+    "totalBorrowUsd": 277348,
+    "debtCeilingUsd": null,
+    "apyBase": 2.64939,
+    "apyReward": 0.96329,
+    "apyBaseBorrow": 8.34764,
+    "apyRewardBorrow": 2.27633
+  },
+  {
+    "timestamp": "2024-04-23T23:01:43.767Z",
+    "totalSupplyUsd": 692391,
+    "totalBorrowUsd": 278888,
+    "debtCeilingUsd": null,
+    "apyBase": 2.42938,
+    "apyReward": 0.9077,
+    "apyBaseBorrow": 8.04184,
+    "apyRewardBorrow": 2.25354
+  },
+  {
+    "timestamp": "2024-04-24T23:02:05.379Z",
+    "totalSupplyUsd": 688254,
+    "totalBorrowUsd": 277247,
+    "debtCeilingUsd": null,
+    "apyBase": 2.42977,
+    "apyReward": 0.88084,
+    "apyBaseBorrow": 8.0424,
+    "apyRewardBorrow": 2.18665
+  },
+  {
+    "timestamp": "2024-04-25T23:01:38.615Z",
+    "totalSupplyUsd": 696166,
+    "totalBorrowUsd": 261718,
+    "debtCeilingUsd": null,
+    "apyBase": 2.15391,
+    "apyReward": 0.87493,
+    "apyBaseBorrow": 7.63913,
+    "apyRewardBorrow": 2.32729
+  },
+  {
+    "timestamp": "2024-04-26T23:02:52.075Z",
+    "totalSupplyUsd": 715915,
+    "totalBorrowUsd": 268662,
+    "debtCeilingUsd": null,
+    "apyBase": 2.14723,
+    "apyReward": 0.81176,
+    "apyBaseBorrow": 7.62907,
+    "apyRewardBorrow": 2.16312
+  },
+  {
+    "timestamp": "2024-04-27T23:08:03.519Z",
+    "totalSupplyUsd": 691291,
+    "totalBorrowUsd": 256991,
+    "debtCeilingUsd": null,
+    "apyBase": 2.1124,
+    "apyReward": 0.8415,
+    "apyBaseBorrow": 7.57632,
+    "apyRewardBorrow": 2.26358
+  },
+  {
+    "timestamp": "2024-04-28T23:02:21.135Z",
+    "totalSupplyUsd": 696713,
+    "totalBorrowUsd": 153426,
+    "debtCeilingUsd": null,
+    "apyBase": 0.87588,
+    "apyReward": 0.83986,
+    "apyBaseBorrow": 5.30321,
+    "apyRewardBorrow": 3.81383
+  },
+  {
+    "timestamp": "2024-04-29T23:01:38.792Z",
+    "totalSupplyUsd": 683172,
+    "totalBorrowUsd": 151254,
+    "debtCeilingUsd": null,
+    "apyBase": 0.88355,
+    "apyReward": 0.85734,
+    "apyBaseBorrow": 5.321,
+    "apyRewardBorrow": 3.87236
+  },
+  {
+    "timestamp": "2024-04-30T23:01:41.665Z",
+    "totalSupplyUsd": 637462,
+    "totalBorrowUsd": 150466,
+    "debtCeilingUsd": null,
+    "apyBase": 0.98084,
+    "apyReward": 0.8553,
+    "apyBaseBorrow": 5.54058,
+    "apyRewardBorrow": 3.62354
+  },
+  {
+    "timestamp": "2024-05-01T23:01:35.732Z",
+    "totalSupplyUsd": 641819,
+    "totalBorrowUsd": 186013,
+    "debtCeilingUsd": null,
+    "apyBase": 1.37969,
+    "apyReward": 0.78285,
+    "apyBaseBorrow": 6.34731,
+    "apyRewardBorrow": 2.70114
+  },
+  {
+    "timestamp": "2024-05-02T23:01:41.815Z",
+    "totalSupplyUsd": 662897,
+    "totalBorrowUsd": 193269,
+    "debtCeilingUsd": null,
+    "apyBase": 1.39361,
+    "apyReward": 0.7829,
+    "apyBaseBorrow": 6.37329,
+    "apyRewardBorrow": 2.68529
+  },
+  {
+    "timestamp": "2024-05-03T23:01:31.148Z",
+    "totalSupplyUsd": 678794,
+    "totalBorrowUsd": 196407,
+    "debtCeilingUsd": null,
+    "apyBase": 1.37589,
+    "apyReward": 0.8175,
+    "apyBaseBorrow": 6.34021,
+    "apyRewardBorrow": 2.82532
+  },
+  {
+    "timestamp": "2024-05-04T23:01:42.083Z",
+    "totalSupplyUsd": 676393,
+    "totalBorrowUsd": 217604,
+    "debtCeilingUsd": null,
+    "apyBase": 1.64693,
+    "apyReward": 0.82293,
+    "apyBaseBorrow": 6.82568,
+    "apyRewardBorrow": 2.55798
+  },
+  {
+    "timestamp": "2024-05-05T23:02:15.165Z",
+    "totalSupplyUsd": 676847,
+    "totalBorrowUsd": 230317,
+    "debtCeilingUsd": null,
+    "apyBase": 1.81306,
+    "apyReward": 0.82406,
+    "apyBaseBorrow": 7.10419,
+    "apyRewardBorrow": 2.42173
+  },
+  {
+    "timestamp": "2024-05-06T23:02:05.740Z",
+    "totalSupplyUsd": 670056,
+    "totalBorrowUsd": 227354,
+    "debtCeilingUsd": null,
+    "apyBase": 1.80416,
+    "apyReward": 0.82986,
+    "apyBaseBorrow": 7.08959,
+    "apyRewardBorrow": 2.44576
+  },
+  {
+    "timestamp": "2024-05-07T23:01:27.908Z",
+    "totalSupplyUsd": 660698,
+    "totalBorrowUsd": 224208,
+    "debtCeilingUsd": null,
+    "apyBase": 1.80456,
+    "apyReward": 0.83385,
+    "apyBaseBorrow": 7.09026,
+    "apyRewardBorrow": 2.45719
+  },
+  {
+    "timestamp": "2024-05-08T23:07:13.140Z",
+    "totalSupplyUsd": 665091,
+    "totalBorrowUsd": 225878,
+    "debtCeilingUsd": null,
+    "apyBase": 1.80702,
+    "apyReward": 0.81977,
+    "apyBaseBorrow": 7.0943,
+    "apyRewardBorrow": 2.41377
+  },
+  {
+    "timestamp": "2024-05-09T23:01:48.651Z",
+    "totalSupplyUsd": 683033,
+    "totalBorrowUsd": 232005,
+    "debtCeilingUsd": null,
+    "apyBase": 1.80748,
+    "apyReward": 0.8141,
+    "apyBaseBorrow": 7.09504,
+    "apyRewardBorrow": 2.39673
+  },
+  {
+    "timestamp": "2024-05-10T23:01:53.210Z",
+    "totalSupplyUsd": 678264,
+    "totalBorrowUsd": 250062,
+    "debtCeilingUsd": null,
+    "apyBase": 2.08218,
+    "apyReward": 0.78787,
+    "apyBaseBorrow": 7.5302,
+    "apyRewardBorrow": 2.137
+  },
+  {
+    "timestamp": "2024-05-11T23:01:57.888Z",
+    "totalSupplyUsd": 682591,
+    "totalBorrowUsd": 249538,
+    "debtCeilingUsd": null,
+    "apyBase": 2.05187,
+    "apyReward": 0.78037,
+    "apyBaseBorrow": 7.48362,
+    "apyRewardBorrow": 2.13463
+  },
+  {
+    "timestamp": "2024-05-12T23:02:48.508Z",
+    "totalSupplyUsd": 722513,
+    "totalBorrowUsd": 250103,
+    "debtCeilingUsd": null,
+    "apyBase": 1.86726,
+    "apyReward": 0.73014,
+    "apyBaseBorrow": 7.19235,
+    "apyRewardBorrow": 2.10929
+  },
+  {
+    "timestamp": "2024-05-13T23:02:01.434Z",
+    "totalSupplyUsd": 717712,
+    "totalBorrowUsd": 245033,
+    "debtCeilingUsd": null,
+    "apyBase": 1.82341,
+    "apyReward": 0.72152,
+    "apyBaseBorrow": 7.12113,
+    "apyRewardBorrow": 2.11336
+  },
+  {
+    "timestamp": "2024-05-14T23:03:14.653Z",
+    "totalSupplyUsd": 730693,
+    "totalBorrowUsd": 245072,
+    "debtCeilingUsd": null,
+    "apyBase": 1.76862,
+    "apyReward": 0.70324,
+    "apyBaseBorrow": 7.03096,
+    "apyRewardBorrow": 2.09673
+  },
+  {
+    "timestamp": "2024-05-15T23:01:53.461Z",
+    "totalSupplyUsd": 748513,
+    "totalBorrowUsd": 251047,
+    "debtCeilingUsd": null,
+    "apyBase": 1.76859,
+    "apyReward": 0.71621,
+    "apyBaseBorrow": 7.03091,
+    "apyRewardBorrow": 2.13543
+  },
+  {
+    "timestamp": "2024-05-16T23:01:41.463Z",
+    "totalSupplyUsd": 695559,
+    "totalBorrowUsd": 258131,
+    "debtCeilingUsd": null,
+    "apyBase": 2.10607,
+    "apyReward": 0.76828,
+    "apyBaseBorrow": 7.5667,
+    "apyRewardBorrow": 2.0702
+  },
+  {
+    "timestamp": "2024-05-17T23:01:43.520Z",
+    "totalSupplyUsd": 696383,
+    "totalBorrowUsd": 259868,
+    "debtCeilingUsd": null,
+    "apyBase": 2.12636,
+    "apyReward": 0.77802,
+    "apyBaseBorrow": 7.59752,
+    "apyRewardBorrow": 2.08489
+  },
+  {
+    "timestamp": "2024-05-18T23:01:52.222Z",
+    "totalSupplyUsd": 697789,
+    "totalBorrowUsd": 266478,
+    "debtCeilingUsd": null,
+    "apyBase": 2.21352,
+    "apyReward": 0.76909,
+    "apyBaseBorrow": 7.72833,
+    "apyRewardBorrow": 2.01392
+  },
+  {
+    "timestamp": "2024-05-19T23:01:56.960Z",
+    "totalSupplyUsd": 684225,
+    "totalBorrowUsd": 278056,
+    "debtCeilingUsd": null,
+    "apyBase": 2.46746,
+    "apyReward": 0.76433,
+    "apyBaseBorrow": 8.09572,
+    "apyRewardBorrow": 1.88083
+  },
+  {
+    "timestamp": "2024-05-20T23:02:10.398Z",
+    "totalSupplyUsd": 659154,
+    "totalBorrowUsd": 267768,
+    "debtCeilingUsd": null,
+    "apyBase": 2.46585,
+    "apyReward": 0.84532,
+    "apyBaseBorrow": 8.09345,
+    "apyRewardBorrow": 2.08089
+  },
+  {
+    "timestamp": "2024-05-21T23:01:55.281Z",
+    "totalSupplyUsd": 664885,
+    "totalBorrowUsd": 270194,
+    "debtCeilingUsd": null,
+    "apyBase": 2.46741,
+    "apyReward": 0.8509,
+    "apyBaseBorrow": 8.09564,
+    "apyRewardBorrow": 2.09387
+  },
+  {
+    "timestamp": "2024-05-22T23:08:28.955Z",
+    "totalSupplyUsd": 638829,
+    "totalBorrowUsd": 261121,
+    "debtCeilingUsd": null,
+    "apyBase": 2.49272,
+    "apyReward": 0.86864,
+    "apyBaseBorrow": 8.13123,
+    "apyRewardBorrow": 2.12513
+  },
+  {
+    "timestamp": "2024-05-23T23:01:58.250Z",
+    "totalSupplyUsd": 628165,
+    "totalBorrowUsd": 262561,
+    "debtCeilingUsd": null,
+    "apyBase": 2.59243,
+    "apyReward": 0.86341,
+    "apyBaseBorrow": 8.26971,
+    "apyRewardBorrow": 2.06568
+  },
+  {
+    "timestamp": "2024-05-24T23:03:17.038Z",
+    "totalSupplyUsd": 625324,
+    "totalBorrowUsd": 262702,
+    "debtCeilingUsd": null,
+    "apyBase": 2.61566,
+    "apyReward": 0.86734,
+    "apyBaseBorrow": 8.30159,
+    "apyRewardBorrow": 2.06457
+  },
+  {
+    "timestamp": "2024-05-25T23:01:34.306Z",
+    "totalSupplyUsd": 622691,
+    "totalBorrowUsd": 276908,
+    "debtCeilingUsd": null,
+    "apyBase": 2.89177,
+    "apyReward": 0.89024,
+    "apyBaseBorrow": 8.67042,
+    "apyRewardBorrow": 2.00191
+  },
+  {
+    "timestamp": "2024-05-26T23:01:56.943Z",
+    "totalSupplyUsd": 620494,
+    "totalBorrowUsd": 277930,
+    "debtCeilingUsd": null,
+    "apyBase": 2.92896,
+    "apyReward": 0.89615,
+    "apyBaseBorrow": 8.71875,
+    "apyRewardBorrow": 2.0007
+  },
+  {
+    "timestamp": "2024-05-27T23:01:47.938Z",
+    "totalSupplyUsd": 621346,
+    "totalBorrowUsd": 278251,
+    "debtCeilingUsd": null,
+    "apyBase": 2.92784,
+    "apyReward": 0.94081,
+    "apyBaseBorrow": 8.7173,
+    "apyRewardBorrow": 2.10087
+  },
+  {
+    "timestamp": "2024-05-28T23:01:44.562Z",
+    "totalSupplyUsd": 624299,
+    "totalBorrowUsd": 279601,
+    "debtCeilingUsd": null,
+    "apyBase": 2.92835,
+    "apyReward": 0.94458,
+    "apyBaseBorrow": 8.71796,
+    "apyRewardBorrow": 2.10909
+  },
+  {
+    "timestamp": "2024-05-29T23:01:33.916Z",
+    "totalSupplyUsd": 600397,
+    "totalBorrowUsd": 268936,
+    "debtCeilingUsd": null,
+    "apyBase": 2.92911,
+    "apyReward": 0.96509,
+    "apyBaseBorrow": 8.71895,
+    "apyRewardBorrow": 2.15456
+  },
+  {
+    "timestamp": "2024-05-30T23:02:25.668Z",
+    "totalSupplyUsd": 615628,
+    "totalBorrowUsd": 293165,
+    "debtCeilingUsd": null,
+    "apyBase": 3.26547,
+    "apyReward": 0.93195,
+    "apyBaseBorrow": 9.14306,
+    "apyRewardBorrow": 1.95704
+  },
+  {
+    "timestamp": "2024-05-31T23:01:58.033Z",
+    "totalSupplyUsd": 604327,
+    "totalBorrowUsd": 299167,
+    "debtCeilingUsd": null,
+    "apyBase": 3.49956,
+    "apyReward": 0.95881,
+    "apyBaseBorrow": 9.42563,
+    "apyRewardBorrow": 1.93683
+  },
+  {
+    "timestamp": "2024-06-01T23:02:04.052Z",
+    "totalSupplyUsd": 600472,
+    "totalBorrowUsd": 297273,
+    "debtCeilingUsd": null,
+    "apyBase": 3.49986,
+    "apyReward": 0.96687,
+    "apyBaseBorrow": 9.42598,
+    "apyRewardBorrow": 1.95301
+  },
+  {
+    "timestamp": "2024-06-02T23:02:00.123Z",
+    "totalSupplyUsd": 607278,
+    "totalBorrowUsd": 283020,
+    "debtCeilingUsd": null,
+    "apyBase": 3.14257,
+    "apyReward": 0.90908,
+    "apyBaseBorrow": 8.9907,
+    "apyRewardBorrow": 1.95061
+  },
+  {
+    "timestamp": "2024-06-03T23:06:48.150Z",
+    "totalSupplyUsd": 620175,
+    "totalBorrowUsd": 295508,
+    "debtCeilingUsd": null,
+    "apyBase": 3.26899,
+    "apyReward": 0.92696,
+    "apyBaseBorrow": 9.14738,
+    "apyRewardBorrow": 1.94538
+  },
+  {
+    "timestamp": "2024-06-04T23:01:43.271Z",
+    "totalSupplyUsd": 635272,
+    "totalBorrowUsd": 325494,
+    "debtCeilingUsd": null,
+    "apyBase": 3.72193,
+    "apyReward": 0.98393,
+    "apyBaseBorrow": 9.68554,
+    "apyRewardBorrow": 1.92035
+  },
+  {
+    "timestamp": "2024-06-05T23:01:42.987Z",
+    "totalSupplyUsd": 630896,
+    "totalBorrowUsd": 323309,
+    "debtCeilingUsd": null,
+    "apyBase": 3.72313,
+    "apyReward": 1.02782,
+    "apyBaseBorrow": 9.68692,
+    "apyRewardBorrow": 2.00565
+  },
+  {
+    "timestamp": "2024-06-06T23:01:51.843Z",
+    "totalSupplyUsd": 669681,
+    "totalBorrowUsd": 325953,
+    "debtCeilingUsd": null,
+    "apyBase": 3.39527,
+    "apyReward": 0.99554,
+    "apyBaseBorrow": 9.30093,
+    "apyRewardBorrow": 2.04537
+  },
+  {
+    "timestamp": "2024-06-07T23:01:44.619Z",
+    "totalSupplyUsd": 655387,
+    "totalBorrowUsd": 319984,
+    "debtCeilingUsd": null,
+    "apyBase": 3.41408,
+    "apyReward": 0.91892,
+    "apyBaseBorrow": 9.32356,
+    "apyRewardBorrow": 1.88213
+  },
+  {
+    "timestamp": "2024-06-08T23:01:50.976Z",
+    "totalSupplyUsd": 641783,
+    "totalBorrowUsd": 333476,
+    "debtCeilingUsd": null,
+    "apyBase": 3.81684,
+    "apyReward": 0.94907,
+    "apyBaseBorrow": 9.79413,
+    "apyRewardBorrow": 1.8265
+  },
+  {
+    "timestamp": "2024-06-09T23:02:00.973Z",
+    "totalSupplyUsd": 650763,
+    "totalBorrowUsd": 286805,
+    "debtCeilingUsd": null,
+    "apyBase": 2.84623,
+    "apyReward": 0.89478,
+    "apyBaseBorrow": 8.61082,
+    "apyRewardBorrow": 2.03026
+  },
+  {
+    "timestamp": "2024-06-10T23:03:52.478Z",
+    "totalSupplyUsd": 658543,
+    "totalBorrowUsd": 289459,
+    "debtCeilingUsd": null,
+    "apyBase": 2.83281,
+    "apyReward": 0.80886,
+    "apyBaseBorrow": 8.59317,
+    "apyRewardBorrow": 1.84023
+  },
+  {
+    "timestamp": "2024-06-11T23:01:41.586Z",
+    "totalSupplyUsd": 645029,
+    "totalBorrowUsd": 285205,
+    "debtCeilingUsd": null,
+    "apyBase": 2.86265,
+    "apyReward": 0.7931,
+    "apyBaseBorrow": 8.63237,
+    "apyRewardBorrow": 1.7937
+  },
+  {
+    "timestamp": "2024-06-12T23:02:32.636Z",
+    "totalSupplyUsd": 632486,
+    "totalBorrowUsd": 286972,
+    "debtCeilingUsd": null,
+    "apyBase": 2.99654,
+    "apyReward": 0.80612,
+    "apyBaseBorrow": 8.80582,
+    "apyRewardBorrow": 1.77669
+  },
+  {
+    "timestamp": "2024-06-13T23:01:53.953Z",
+    "totalSupplyUsd": 629341,
+    "totalBorrowUsd": 285599,
+    "debtCeilingUsd": null,
+    "apyBase": 2.99754,
+    "apyReward": 0.74853,
+    "apyBaseBorrow": 8.80709,
+    "apyRewardBorrow": 1.64944
+  },
+  {
+    "timestamp": "2024-06-14T23:02:19.740Z",
+    "totalSupplyUsd": 625540,
+    "totalBorrowUsd": 283328,
+    "debtCeilingUsd": null,
+    "apyBase": 2.98731,
+    "apyReward": 0.73758,
+    "apyBaseBorrow": 8.79399,
+    "apyRewardBorrow": 1.62844
+  },
+  {
+    "timestamp": "2024-06-15T23:04:08.655Z",
+    "totalSupplyUsd": 619302,
+    "totalBorrowUsd": 281190,
+    "debtCeilingUsd": null,
+    "apyBase": 3.00032,
+    "apyReward": 0.72843,
+    "apyBaseBorrow": 8.81066,
+    "apyRewardBorrow": 1.60431
+  },
+  {
+    "timestamp": "2024-06-16T23:02:01.149Z",
+    "totalSupplyUsd": 627006,
+    "totalBorrowUsd": 317889,
+    "debtCeilingUsd": null,
+    "apyBase": 3.65223,
+    "apyReward": 0.74222,
+    "apyBaseBorrow": 9.60492,
+    "apyRewardBorrow": 1.46396
+  },
+  {
+    "timestamp": "2024-06-17T23:01:42.766Z",
+    "totalSupplyUsd": 615913,
+    "totalBorrowUsd": 314682,
+    "debtCeilingUsd": null,
+    "apyBase": 3.70306,
+    "apyReward": 0.68799,
+    "apyBaseBorrow": 9.66378,
+    "apyRewardBorrow": 1.34657
+  },
+  {
+    "timestamp": "2024-06-18T23:03:35.227Z",
+    "totalSupplyUsd": 608748,
+    "totalBorrowUsd": 320488,
+    "debtCeilingUsd": null,
+    "apyBase": 3.90788,
+    "apyReward": 0.64456,
+    "apyBaseBorrow": 9.89706,
+    "apyRewardBorrow": 1.2243
+  },
+  {
+    "timestamp": "2024-06-19T23:01:32.770Z",
+    "totalSupplyUsd": 610557,
+    "totalBorrowUsd": 330338,
+    "debtCeilingUsd": null,
+    "apyBase": 4.10475,
+    "apyReward": 0.62957,
+    "apyBaseBorrow": 10.11564,
+    "apyRewardBorrow": 1.16363
+  },
+  {
+    "timestamp": "2024-06-20T23:01:44.546Z",
+    "totalSupplyUsd": 607558,
+    "totalBorrowUsd": 328604,
+    "debtCeilingUsd": null,
+    "apyBase": 4.10226,
+    "apyReward": 0.63831,
+    "apyBaseBorrow": 10.11291,
+    "apyRewardBorrow": 1.18018
+  },
+  {
+    "timestamp": "2024-06-21T23:01:38.393Z",
+    "totalSupplyUsd": 618172,
+    "totalBorrowUsd": 336270,
+    "debtCeilingUsd": null,
+    "apyBase": 4.14492,
+    "apyReward": 0.59783,
+    "apyBaseBorrow": 10.15961,
+    "apyRewardBorrow": 1.09901
+  },
+  {
+    "timestamp": "2024-06-22T23:09:32.673Z",
+    "totalSupplyUsd": 638462,
+    "totalBorrowUsd": 343953,
+    "debtCeilingUsd": null,
+    "apyBase": 4.07305,
+    "apyReward": 0.5699,
+    "apyBaseBorrow": 10.08081,
+    "apyRewardBorrow": 1.05788
+  },
+  {
+    "timestamp": "2024-06-23T23:01:42.195Z",
+    "totalSupplyUsd": 634712,
+    "totalBorrowUsd": 339202,
+    "debtCeilingUsd": null,
+    "apyBase": 4.01466,
+    "apyReward": 0.54721,
+    "apyBaseBorrow": 10.01627,
+    "apyRewardBorrow": 1.02393
+  },
+  {
+    "timestamp": "2024-06-24T23:02:11.490Z",
+    "totalSupplyUsd": 637994,
+    "totalBorrowUsd": 348849,
+    "debtCeilingUsd": null,
+    "apyBase": 4.1837,
+    "apyReward": 0.55512,
+    "apyBaseBorrow": 10.20185,
+    "apyRewardBorrow": 1.01524
+  },
+  {
+    "timestamp": "2024-06-25T23:01:37.072Z",
+    "totalSupplyUsd": 645792,
+    "totalBorrowUsd": 353048,
+    "debtCeilingUsd": null,
+    "apyBase": 4.18233,
+    "apyReward": 0.55372,
+    "apyBaseBorrow": 10.20036,
+    "apyRewardBorrow": 1.01285
+  },
+  {
+    "timestamp": "2024-06-26T23:01:40.099Z",
+    "totalSupplyUsd": 656139,
+    "totalBorrowUsd": 352079,
+    "debtCeilingUsd": null,
+    "apyBase": 4.04411,
+    "apyReward": 0.53195,
+    "apyBaseBorrow": 10.04888,
+    "apyRewardBorrow": 0.99134
+  },
+  {
+    "timestamp": "2024-06-27T23:02:39.965Z",
+    "totalSupplyUsd": 658958,
+    "totalBorrowUsd": 352969,
+    "debtCeilingUsd": null,
+    "apyBase": 4.0313,
+    "apyReward": 0.53746,
+    "apyBaseBorrow": 10.03472,
+    "apyRewardBorrow": 1.00339
+  },
+  {
+    "timestamp": "2024-06-28T23:01:28.087Z",
+    "totalSupplyUsd": 655576,
+    "totalBorrowUsd": 356658,
+    "debtCeilingUsd": null,
+    "apyBase": 4.1458,
+    "apyReward": 0.52196,
+    "apyBaseBorrow": 10.16056,
+    "apyRewardBorrow": 0.95943
+  },
+  {
+    "timestamp": "2024-06-29T23:01:40.475Z",
+    "totalSupplyUsd": 667794,
+    "totalBorrowUsd": 358779,
+    "debtCeilingUsd": null,
+    "apyBase": 4.05318,
+    "apyReward": 0.49875,
+    "apyBaseBorrow": 10.0589,
+    "apyRewardBorrow": 0.92832
+  },
+  {
+    "timestamp": "2024-06-30T23:01:54.495Z",
+    "totalSupplyUsd": 663493,
+    "totalBorrowUsd": 363289,
+    "debtCeilingUsd": null,
+    "apyBase": 4.19405,
+    "apyReward": 0.53379,
+    "apyBaseBorrow": 10.21309,
+    "apyRewardBorrow": 0.97488
+  },
+  {
+    "timestamp": "2024-07-01T23:01:48.989Z",
+    "totalSupplyUsd": 668184,
+    "totalBorrowUsd": 366329,
+    "debtCeilingUsd": null,
+    "apyBase": 4.20381,
+    "apyReward": 0.52919,
+    "apyBaseBorrow": 10.22368,
+    "apyRewardBorrow": 0.96524
+  },
+  {
+    "timestamp": "2024-07-02T23:02:09.022Z",
+    "totalSupplyUsd": 672511,
+    "totalBorrowUsd": 371224,
+    "debtCeilingUsd": null,
+    "apyBase": 4.25588,
+    "apyReward": 0.52409,
+    "apyBaseBorrow": 10.27996,
+    "apyRewardBorrow": 0.94943
+  },
+  {
+    "timestamp": "2024-07-03T23:03:17.284Z",
+    "totalSupplyUsd": 690642,
+    "totalBorrowUsd": 371647,
+    "debtCeilingUsd": null,
+    "apyBase": 4.06485,
+    "apyReward": 0.49133,
+    "apyBaseBorrow": 10.07176,
+    "apyRewardBorrow": 0.91306
+  },
+  {
+    "timestamp": "2024-07-04T23:01:59.338Z",
+    "totalSupplyUsd": 681209,
+    "totalBorrowUsd": 370075,
+    "debtCeilingUsd": null,
+    "apyBase": 4.13514,
+    "apyReward": 0.45209,
+    "apyBaseBorrow": 10.14892,
+    "apyRewardBorrow": 0.83218
+  },
+  {
+    "timestamp": "2024-07-05T23:01:57.629Z",
+    "totalSupplyUsd": 673019,
+    "totalBorrowUsd": 381538,
+    "debtCeilingUsd": null,
+    "apyBase": 4.46589,
+    "apyReward": 0.44403,
+    "apyBaseBorrow": 10.50357,
+    "apyRewardBorrow": 0.78326
+  },
+  {
+    "timestamp": "2024-07-06T23:01:42.314Z",
+    "totalSupplyUsd": 688111,
+    "totalBorrowUsd": 372180,
+    "debtCeilingUsd": null,
+    "apyBase": 4.10242,
+    "apyReward": 0.48734,
+    "apyBaseBorrow": 10.11309,
+    "apyRewardBorrow": 0.90102
+  },
+  {
+    "timestamp": "2024-07-07T23:02:45.620Z",
+    "totalSupplyUsd": 664240,
+    "totalBorrowUsd": 359021,
+    "debtCeilingUsd": null,
+    "apyBase": 4.09731,
+    "apyReward": 0.47051,
+    "apyBaseBorrow": 10.10748,
+    "apyRewardBorrow": 0.87051
+  },
+  {
+    "timestamp": "2024-07-08T23:02:42.304Z",
+    "totalSupplyUsd": 670994,
+    "totalBorrowUsd": 385319,
+    "debtCeilingUsd": null,
+    "apyBase": 4.57123,
+    "apyReward": 0.47597,
+    "apyBaseBorrow": 10.61377,
+    "apyRewardBorrow": 0.82886
+  },
+  {
+    "timestamp": "2024-07-09T23:01:46.545Z",
+    "totalSupplyUsd": 689868,
+    "totalBorrowUsd": 389622,
+    "debtCeilingUsd": null,
+    "apyBase": 4.43562,
+    "apyReward": 0.49106,
+    "apyBaseBorrow": 10.47167,
+    "apyRewardBorrow": 0.86947
+  },
+  {
+    "timestamp": "2024-07-10T23:01:53.173Z",
+    "totalSupplyUsd": 688399,
+    "totalBorrowUsd": 388660,
+    "debtCeilingUsd": null,
+    "apyBase": 4.4329,
+    "apyReward": 0.49459,
+    "apyBaseBorrow": 10.46879,
+    "apyRewardBorrow": 0.87603
+  },
+  {
+    "timestamp": "2024-07-11T23:01:41.388Z",
+    "totalSupplyUsd": 706827,
+    "totalBorrowUsd": 387048,
+    "debtCeilingUsd": null,
+    "apyBase": 4.19469,
+    "apyReward": 0.47524,
+    "apyBaseBorrow": 10.21378,
+    "apyRewardBorrow": 0.86789
+  },
+  {
+    "timestamp": "2024-07-12T23:04:02.131Z",
+    "totalSupplyUsd": 719937,
+    "totalBorrowUsd": 390376,
+    "debtCeilingUsd": null,
+    "apyBase": 4.12108,
+    "apyReward": 0.47134,
+    "apyBaseBorrow": 10.13355,
+    "apyRewardBorrow": 0.86925
+  },
+  {
+    "timestamp": "2024-07-13T23:01:59.116Z",
+    "totalSupplyUsd": 747461,
+    "totalBorrowUsd": 410481,
+    "debtCeilingUsd": null,
+    "apyBase": 4.21659,
+    "apyReward": 0.46238,
+    "apyBaseBorrow": 10.23752,
+    "apyRewardBorrow": 0.84196
+  },
+  {
+    "timestamp": "2024-07-14T23:03:53.640Z",
+    "totalSupplyUsd": 735750,
+    "totalBorrowUsd": 417201,
+    "debtCeilingUsd": null,
+    "apyBase": 4.46785,
+    "apyReward": 0.49454,
+    "apyBaseBorrow": 10.50563,
+    "apyRewardBorrow": 0.87214
+  },
+  {
+    "timestamp": "2024-07-15T23:02:38.871Z",
+    "totalSupplyUsd": 815371,
+    "totalBorrowUsd": 462478,
+    "debtCeilingUsd": null,
+    "apyBase": 4.47009,
+    "apyReward": 0.46444,
+    "apyBaseBorrow": 10.50799,
+    "apyRewardBorrow": 0.81882
+  },
+  {
+    "timestamp": "2024-07-16T23:04:02.164Z",
+    "totalSupplyUsd": 784797,
+    "totalBorrowUsd": 458401,
+    "debtCeilingUsd": null,
+    "apyBase": 4.71437,
+    "apyReward": 0.48834,
+    "apyBaseBorrow": 10.76153,
+    "apyRewardBorrow": 0.83606
+  },
+  {
+    "timestamp": "2024-07-17T23:02:38.521Z",
+    "totalSupplyUsd": 762643,
+    "totalBorrowUsd": 445195,
+    "debtCeilingUsd": null,
+    "apyBase": 4.70926,
+    "apyReward": 0.53169,
+    "apyBaseBorrow": 10.75629,
+    "apyRewardBorrow": 0.91082
+  },
+  {
+    "timestamp": "2024-07-18T23:04:41.451Z",
+    "totalSupplyUsd": 724811,
+    "totalBorrowUsd": 410673,
+    "debtCeilingUsd": null,
+    "apyBase": 4.46146,
+    "apyReward": 0.5744,
+    "apyBaseBorrow": 10.49891,
+    "apyRewardBorrow": 1.01377
+  },
+  {
+    "timestamp": "2024-07-19T23:01:59.366Z",
+    "totalSupplyUsd": 716624,
+    "totalBorrowUsd": 399340,
+    "debtCeilingUsd": null,
+    "apyBase": 4.32933,
+    "apyReward": 0.58175,
+    "apyBaseBorrow": 10.35877,
+    "apyRewardBorrow": 1.04397
+  },
+  {
+    "timestamp": "2024-07-20T23:03:17.668Z",
+    "totalSupplyUsd": 707359,
+    "totalBorrowUsd": 388200,
+    "debtCeilingUsd": null,
+    "apyBase": 4.21153,
+    "apyReward": 0.6055,
+    "apyBaseBorrow": 10.23204,
+    "apyRewardBorrow": 1.10331
+  },
+  {
+    "timestamp": "2024-07-21T23:02:42.767Z",
+    "totalSupplyUsd": 750935,
+    "totalBorrowUsd": 412304,
+    "debtCeilingUsd": null,
+    "apyBase": 4.21501,
+    "apyReward": 0.5772,
+    "apyBaseBorrow": 10.23581,
+    "apyRewardBorrow": 1.05126
+  },
+  {
+    "timestamp": "2024-07-22T23:03:52.034Z",
+    "totalSupplyUsd": 734704,
+    "totalBorrowUsd": 403461,
+    "debtCeilingUsd": null,
+    "apyBase": 4.21631,
+    "apyReward": 0.55657,
+    "apyBaseBorrow": 10.23722,
+    "apyRewardBorrow": 1.01351
+  },
+  {
+    "timestamp": "2024-07-23T23:02:05.060Z",
+    "totalSupplyUsd": 705260,
+    "totalBorrowUsd": 387462,
+    "debtCeilingUsd": null,
+    "apyBase": 4.21966,
+    "apyReward": 0.57334,
+    "apyBaseBorrow": 10.24084,
+    "apyRewardBorrow": 1.04359
+  },
+  {
+    "timestamp": "2024-07-24T23:03:09.912Z",
+    "totalSupplyUsd": 710291,
+    "totalBorrowUsd": 392258,
+    "debtCeilingUsd": null,
+    "apyBase": 4.2594,
+    "apyReward": 0.55723,
+    "apyBaseBorrow": 10.28375,
+    "apyRewardBorrow": 1.00902
+  },
+  {
+    "timestamp": "2024-07-25T23:03:18.057Z",
+    "totalSupplyUsd": 712988,
+    "totalBorrowUsd": 393389,
+    "debtCeilingUsd": null,
+    "apyBase": 4.25239,
+    "apyReward": 0.55032,
+    "apyBaseBorrow": 10.2762,
+    "apyRewardBorrow": 0.99742
+  },
+  {
+    "timestamp": "2024-07-26T23:03:30.575Z",
+    "totalSupplyUsd": 721811,
+    "totalBorrowUsd": 409578,
+    "debtCeilingUsd": null,
+    "apyBase": 4.47341,
+    "apyReward": 0.57915,
+    "apyBaseBorrow": 10.51147,
+    "apyRewardBorrow": 1.02066
+  },
+  {
+    "timestamp": "2024-07-27T23:03:51.475Z",
+    "totalSupplyUsd": 724127,
+    "totalBorrowUsd": 389923,
+    "debtCeilingUsd": null,
+    "apyBase": 4.06968,
+    "apyReward": 0.59778,
+    "apyBaseBorrow": 10.07709,
+    "apyRewardBorrow": 1.11014
+  },
+  {
+    "timestamp": "2024-07-28T23:02:38.496Z",
+    "totalSupplyUsd": 731340,
+    "totalBorrowUsd": 398885,
+    "debtCeilingUsd": null,
+    "apyBase": 4.16477,
+    "apyReward": 0.57083,
+    "apyBaseBorrow": 10.18125,
+    "apyRewardBorrow": 1.04659
+  },
+  {
+    "timestamp": "2024-07-29T23:03:27.296Z",
+    "totalSupplyUsd": 729720,
+    "totalBorrowUsd": 391386,
+    "debtCeilingUsd": null,
+    "apyBase": 4.04084,
+    "apyReward": 0.5846,
+    "apyBaseBorrow": 10.04526,
+    "apyRewardBorrow": 1.08996
+  },
+  {
+    "timestamp": "2024-07-30T23:06:28.292Z",
+    "totalSupplyUsd": 724780,
+    "totalBorrowUsd": 393876,
+    "debtCeilingUsd": null,
+    "apyBase": 4.13763,
+    "apyReward": 0.57599,
+    "apyBaseBorrow": 10.15164,
+    "apyRewardBorrow": 1.0599
+  },
+  {
+    "timestamp": "2024-07-31T23:02:52.239Z",
+    "totalSupplyUsd": 721080,
+    "totalBorrowUsd": 392790,
+    "debtCeilingUsd": null,
+    "apyBase": 4.15524,
+    "apyReward": 0.60347,
+    "apyBaseBorrow": 10.17086,
+    "apyRewardBorrow": 1.10784
+  },
+  {
+    "timestamp": "2024-08-01T23:03:23.603Z",
+    "totalSupplyUsd": 687235,
+    "totalBorrowUsd": 429322,
+    "debtCeilingUsd": null,
+    "apyBase": 8.62699,
+    "apyReward": 0.61742,
+    "apyBaseBorrow": 18.41281,
+    "apyRewardBorrow": 0.98833
+  },
+  {
+    "timestamp": "2024-08-02T23:02:37.235Z",
+    "totalSupplyUsd": 650625,
+    "totalBorrowUsd": 353085,
+    "debtCeilingUsd": null,
+    "apyBase": 4.12724,
+    "apyReward": 0.60132,
+    "apyBaseBorrow": 10.14029,
+    "apyRewardBorrow": 1.10805
+  },
+  {
+    "timestamp": "2024-08-03T23:03:18.641Z",
+    "totalSupplyUsd": 660183,
+    "totalBorrowUsd": 352972,
+    "debtCeilingUsd": null,
+    "apyBase": 4.0179,
+    "apyReward": 0.53733,
+    "apyBaseBorrow": 10.01987,
+    "apyRewardBorrow": 1.00499
+  },
+  {
+    "timestamp": "2024-08-04T23:01:47.099Z",
+    "totalSupplyUsd": 663167,
+    "totalBorrowUsd": 372784,
+    "debtCeilingUsd": null,
+    "apyBase": 4.39804,
+    "apyReward": 0.50825,
+    "apyBaseBorrow": 10.43191,
+    "apyRewardBorrow": 0.90416
+  },
+  {
+    "timestamp": "2024-08-05T23:02:46.352Z",
+    "totalSupplyUsd": 638533,
+    "totalBorrowUsd": 382493,
+    "debtCeilingUsd": null,
+    "apyBase": 4.93528,
+    "apyReward": 0.4957,
+    "apyBaseBorrow": 10.98527,
+    "apyRewardBorrow": 0.82753
+  },
+  {
+    "timestamp": "2024-08-06T23:03:17.228Z",
+    "totalSupplyUsd": 639123,
+    "totalBorrowUsd": 380354,
+    "debtCeilingUsd": null,
+    "apyBase": 4.87704,
+    "apyReward": 0.5122,
+    "apyBaseBorrow": 10.92677,
+    "apyRewardBorrow": 0.86067
+  },
+  {
+    "timestamp": "2024-08-07T23:01:54.311Z",
+    "totalSupplyUsd": 647194,
+    "totalBorrowUsd": 380179,
+    "debtCeilingUsd": null,
+    "apyBase": 4.76317,
+    "apyReward": 0.50141,
+    "apyBaseBorrow": 10.8114,
+    "apyRewardBorrow": 0.85357
+  },
+  {
+    "timestamp": "2024-08-08T23:03:06.719Z",
+    "totalSupplyUsd": 661047,
+    "totalBorrowUsd": 377974,
+    "debtCeilingUsd": null,
+    "apyBase": 4.53568,
+    "apyReward": 0.56768,
+    "apyBaseBorrow": 10.57672,
+    "apyRewardBorrow": 0.99283
+  },
+  {
+    "timestamp": "2024-08-09T23:02:40.797Z",
+    "totalSupplyUsd": 664808,
+    "totalBorrowUsd": 380155,
+    "debtCeilingUsd": null,
+    "apyBase": 4.53632,
+    "apyReward": 0.54817,
+    "apyBaseBorrow": 10.5774,
+    "apyRewardBorrow": 0.95864
+  },
+  {
+    "timestamp": "2024-08-10T23:01:56.583Z",
+    "totalSupplyUsd": 675881,
+    "totalBorrowUsd": 393974,
+    "debtCeilingUsd": null,
+    "apyBase": 4.69685,
+    "apyReward": 0.54004,
+    "apyBaseBorrow": 10.74356,
+    "apyRewardBorrow": 0.92646
+  },
+  {
+    "timestamp": "2024-08-11T23:01:45.313Z",
+    "totalSupplyUsd": 665024,
+    "totalBorrowUsd": 415024,
+    "debtCeilingUsd": null,
+    "apyBase": 8.52893,
+    "apyReward": 0.52913,
+    "apyBaseBorrow": 18.22206,
+    "apyRewardBorrow": 0.84786
+  },
+  {
+    "timestamp": "2024-08-12T23:01:46.388Z",
+    "totalSupplyUsd": 657716,
+    "totalBorrowUsd": 390639,
+    "debtCeilingUsd": null,
+    "apyBase": 4.8594,
+    "apyReward": 0.53761,
+    "apyBaseBorrow": 10.90899,
+    "apyRewardBorrow": 0.90517
+  },
+  {
+    "timestamp": "2024-08-13T23:12:40.995Z",
+    "totalSupplyUsd": 671519,
+    "totalBorrowUsd": 382991,
+    "debtCeilingUsd": null,
+    "apyBase": 4.51494,
+    "apyReward": 0.5342,
+    "apyBaseBorrow": 10.55504,
+    "apyRewardBorrow": 0.93664
+  },
+  {
+    "timestamp": "2024-08-14T23:01:40.431Z",
+    "totalSupplyUsd": 686336,
+    "totalBorrowUsd": 389454,
+    "debtCeilingUsd": null,
+    "apyBase": 4.47353,
+    "apyReward": 0.52932,
+    "apyBaseBorrow": 10.5116,
+    "apyRewardBorrow": 0.93282
+  },
+  {
+    "timestamp": "2024-08-15T23:01:41.524Z",
+    "totalSupplyUsd": 665180,
+    "totalBorrowUsd": 395943,
+    "debtCeilingUsd": null,
+    "apyBase": 4.87888,
+    "apyReward": 0.53586,
+    "apyBaseBorrow": 10.92862,
+    "apyRewardBorrow": 0.90024
+  },
+  {
+    "timestamp": "2024-08-16T23:01:53.288Z",
+    "totalSupplyUsd": 687182,
+    "totalBorrowUsd": 403319,
+    "debtCeilingUsd": null,
+    "apyBase": 4.75569,
+    "apyReward": 0.51373,
+    "apyBaseBorrow": 10.80376,
+    "apyRewardBorrow": 0.8753
+  },
+  {
+    "timestamp": "2024-08-17T23:01:35.706Z",
+    "totalSupplyUsd": 699586,
+    "totalBorrowUsd": 407315,
+    "debtCeilingUsd": null,
+    "apyBase": 4.68689,
+    "apyReward": 0.55761,
+    "apyBaseBorrow": 10.73334,
+    "apyRewardBorrow": 0.95772
+  },
+  {
+    "timestamp": "2024-08-18T23:01:58.664Z",
+    "totalSupplyUsd": 696186,
+    "totalBorrowUsd": 400238,
+    "debtCeilingUsd": null,
+    "apyBase": 4.58062,
+    "apyReward": 0.57426,
+    "apyBaseBorrow": 10.62353,
+    "apyRewardBorrow": 0.99888
+  },
+  {
+    "timestamp": "2024-08-19T23:02:00.075Z",
+    "totalSupplyUsd": 735448,
+    "totalBorrowUsd": 413963,
+    "debtCeilingUsd": null,
+    "apyBase": 4.40859,
+    "apyReward": 0.53352,
+    "apyBaseBorrow": 10.44309,
+    "apyRewardBorrow": 0.94785
+  },
+  {
+    "timestamp": "2024-08-20T23:02:25.266Z",
+    "totalSupplyUsd": 815661,
+    "totalBorrowUsd": 459774,
+    "debtCeilingUsd": null,
+    "apyBase": 4.42008,
+    "apyReward": 0.50762,
+    "apyBaseBorrow": 10.45524,
+    "apyRewardBorrow": 0.90054
+  },
+  {
+    "timestamp": "2024-08-21T23:01:36.727Z",
+    "totalSupplyUsd": 813647,
+    "totalBorrowUsd": 403559,
+    "debtCeilingUsd": null,
+    "apyBase": 3.51153,
+    "apyReward": 0.49346,
+    "apyBaseBorrow": 9.43982,
+    "apyRewardBorrow": 0.9949
+  },
+  {
+    "timestamp": "2024-08-22T23:01:58.947Z",
+    "totalSupplyUsd": 808737,
+    "totalBorrowUsd": 399514,
+    "debtCeilingUsd": null,
+    "apyBase": 3.48638,
+    "apyReward": 0.53171,
+    "apyBaseBorrow": 9.40997,
+    "apyRewardBorrow": 1.07635
+  },
+  {
+    "timestamp": "2024-08-23T23:02:30.627Z",
+    "totalSupplyUsd": 792307,
+    "totalBorrowUsd": 402808,
+    "debtCeilingUsd": null,
+    "apyBase": 3.67037,
+    "apyReward": 0.58881,
+    "apyBaseBorrow": 9.62597,
+    "apyRewardBorrow": 1.15816
+  },
+  {
+    "timestamp": "2024-08-24T23:01:27.183Z",
+    "totalSupplyUsd": 802504,
+    "totalBorrowUsd": 407608,
+    "debtCeilingUsd": null,
+    "apyBase": 3.66419,
+    "apyReward": 0.58061,
+    "apyBaseBorrow": 9.6188,
+    "apyRewardBorrow": 1.14312
+  },
+  {
+    "timestamp": "2024-08-25T23:01:36.998Z",
+    "totalSupplyUsd": 800636,
+    "totalBorrowUsd": 419670,
+    "debtCeilingUsd": null,
+    "apyBase": 3.87725,
+    "apyReward": 0.54065,
+    "apyBaseBorrow": 9.86256,
+    "apyRewardBorrow": 1.03145
+  },
+  {
+    "timestamp": "2024-08-26T23:02:13.091Z",
+    "totalSupplyUsd": 798849,
+    "totalBorrowUsd": 414434,
+    "debtCeilingUsd": null,
+    "apyBase": 3.80603,
+    "apyReward": 0.52473,
+    "apyBaseBorrow": 9.78184,
+    "apyRewardBorrow": 1.01145
+  },
+  {
+    "timestamp": "2024-08-27T23:01:30.579Z",
+    "totalSupplyUsd": 789026,
+    "totalBorrowUsd": 429262,
+    "debtCeilingUsd": null,
+    "apyBase": 4.14584,
+    "apyReward": 0.49801,
+    "apyBaseBorrow": 10.16061,
+    "apyRewardBorrow": 0.9154
+  },
+  {
+    "timestamp": "2024-08-28T23:01:30.562Z",
+    "totalSupplyUsd": 770358,
+    "totalBorrowUsd": 424183,
+    "debtCeilingUsd": null,
+    "apyBase": 4.23688,
+    "apyReward": 0.49972,
+    "apyBaseBorrow": 10.25946,
+    "apyRewardBorrow": 0.90754
+  },
+  {
+    "timestamp": "2024-08-29T23:01:26.617Z",
+    "totalSupplyUsd": 781826,
+    "totalBorrowUsd": 429170,
+    "debtCeilingUsd": null,
+    "apyBase": 4.21333,
+    "apyReward": 0.48582,
+    "apyBaseBorrow": 10.23399,
+    "apyRewardBorrow": 0.88503
+  },
+  {
+    "timestamp": "2024-08-30T23:01:33.788Z",
+    "totalSupplyUsd": 918659,
+    "totalBorrowUsd": 427128,
+    "debtCeilingUsd": null,
+    "apyBase": 3.12941,
+    "apyReward": 0.41656,
+    "apyBaseBorrow": 8.97422,
+    "apyRewardBorrow": 0.89594
+  },
+  {
+    "timestamp": "2024-08-31T23:01:21.702Z",
+    "totalSupplyUsd": 911900,
+    "totalBorrowUsd": 439920,
+    "debtCeilingUsd": null,
+    "apyBase": 3.34185,
+    "apyReward": 0.4134,
+    "apyBaseBorrow": 9.23632,
+    "apyRewardBorrow": 0.85692
+  },
+  {
+    "timestamp": "2024-09-01T23:02:16.559Z",
+    "totalSupplyUsd": 903046,
+    "totalBorrowUsd": 520331,
+    "debtCeilingUsd": null,
+    "apyBase": 4.59931,
+    "apyReward": 0.39598,
+    "apyBaseBorrow": 10.64294,
+    "apyRewardBorrow": 0.68723
+  },
+  {
+    "timestamp": "2024-09-02T23:01:42.573Z",
+    "totalSupplyUsd": 897960,
+    "totalBorrowUsd": 518961,
+    "debtCeilingUsd": null,
+    "apyBase": 4.62447,
+    "apyReward": 0.41537,
+    "apyBaseBorrow": 10.66899,
+    "apyRewardBorrow": 0.71871
+  },
+  {
+    "timestamp": "2024-09-03T23:01:52.416Z",
+    "totalSupplyUsd": 879246,
+    "totalBorrowUsd": 505650,
+    "debtCeilingUsd": null,
+    "apyBase": 4.5834,
+    "apyReward": 0.41253,
+    "apyBaseBorrow": 10.62643,
+    "apyRewardBorrow": 0.71733
+  },
+  {
+    "timestamp": "2024-09-04T23:01:37.559Z",
+    "totalSupplyUsd": 868746,
+    "totalBorrowUsd": 499615,
+    "debtCeilingUsd": null,
+    "apyBase": 4.58346,
+    "apyReward": 0.41818,
+    "apyBaseBorrow": 10.62648,
+    "apyRewardBorrow": 0.72714
+  },
+  {
+    "timestamp": "2024-09-05T23:01:33.854Z",
+    "totalSupplyUsd": 863748,
+    "totalBorrowUsd": 460022,
+    "debtCeilingUsd": null,
+    "apyBase": 3.98994,
+    "apyReward": 0.40937,
+    "apyBaseBorrow": 9.98882,
+    "apyRewardBorrow": 0.76865
+  },
+  {
+    "timestamp": "2024-09-06T23:01:59.344Z",
+    "totalSupplyUsd": 844293,
+    "totalBorrowUsd": 439280,
+    "debtCeilingUsd": null,
+    "apyBase": 3.82587,
+    "apyReward": 0.40327,
+    "apyBaseBorrow": 9.80439,
+    "apyRewardBorrow": 0.77508
+  },
+  {
+    "timestamp": "2024-09-07T23:01:37.174Z",
+    "totalSupplyUsd": 870666,
+    "totalBorrowUsd": 444929,
+    "debtCeilingUsd": null,
+    "apyBase": 3.70439,
+    "apyReward": 0.40022,
+    "apyBaseBorrow": 9.66532,
+    "apyRewardBorrow": 0.78318
+  },
+  {
+    "timestamp": "2024-09-08T23:02:06.767Z",
+    "totalSupplyUsd": 882969,
+    "totalBorrowUsd": 446301,
+    "debtCeilingUsd": null,
+    "apyBase": 3.63238,
+    "apyReward": 0.40821,
+    "apyBaseBorrow": 9.58182,
+    "apyRewardBorrow": 0.80761
+  },
+  {
+    "timestamp": "2024-09-09T23:01:29.705Z",
+    "totalSupplyUsd": 896693,
+    "totalBorrowUsd": 424014,
+    "debtCeilingUsd": null,
+    "apyBase": 3.2248,
+    "apyReward": 0.42041,
+    "apyBaseBorrow": 9.09296,
+    "apyRewardBorrow": 0.88907
+  },
+  {
+    "timestamp": "2024-09-10T23:01:35.882Z",
+    "totalSupplyUsd": 887871,
+    "totalBorrowUsd": 416467,
+    "debtCeilingUsd": null,
+    "apyBase": 3.17881,
+    "apyReward": 0.42972,
+    "apyBaseBorrow": 9.03594,
+    "apyRewardBorrow": 0.91613
+  },
+  {
+    "timestamp": "2024-09-11T23:09:51.848Z",
+    "totalSupplyUsd": 893846,
+    "totalBorrowUsd": 399504,
+    "debtCeilingUsd": null,
+    "apyBase": 2.91777,
+    "apyReward": 0.42749,
+    "apyBaseBorrow": 8.70424,
+    "apyRewardBorrow": 0.95646
+  },
+  {
+    "timestamp": "2024-09-12T23:01:36.274Z",
+    "totalSupplyUsd": 877673,
+    "totalBorrowUsd": 392394,
+    "debtCeilingUsd": null,
+    "apyBase": 2.91933,
+    "apyReward": 0.45421,
+    "apyBaseBorrow": 8.70627,
+    "apyRewardBorrow": 1.01594
+  },
+  {
+    "timestamp": "2024-09-13T23:01:45.766Z",
+    "totalSupplyUsd": 866595,
+    "totalBorrowUsd": 386675,
+    "debtCeilingUsd": null,
+    "apyBase": 2.90911,
+    "apyReward": 0.4666,
+    "apyBaseBorrow": 8.693,
+    "apyRewardBorrow": 1.04572
+  },
+  {
+    "timestamp": "2024-09-14T23:02:28.680Z",
+    "totalSupplyUsd": 855576,
+    "totalBorrowUsd": 430504,
+    "debtCeilingUsd": null,
+    "apyBase": 3.60309,
+    "apyReward": 0.46794,
+    "apyBaseBorrow": 9.54762,
+    "apyRewardBorrow": 0.92998
+  },
+  {
+    "timestamp": "2024-09-15T23:01:30.148Z",
+    "totalSupplyUsd": 869541,
+    "totalBorrowUsd": 489179,
+    "debtCeilingUsd": null,
+    "apyBase": 4.40432,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.43856,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-16T23:02:02.205Z",
+    "totalSupplyUsd": 858935,
+    "totalBorrowUsd": 461038,
+    "debtCeilingUsd": null,
+    "apyBase": 4.04632,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.05132,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-17T23:01:55.681Z",
+    "totalSupplyUsd": 869730,
+    "totalBorrowUsd": 448714,
+    "debtCeilingUsd": null,
+    "apyBase": 3.76838,
+    "apyReward": 0,
+    "apyBaseBorrow": 9.73886,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-18T23:02:44.418Z",
+    "totalSupplyUsd": 872038,
+    "totalBorrowUsd": 470749,
+    "debtCeilingUsd": null,
+    "apyBase": 4.08812,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.09739,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-19T23:01:51.876Z",
+    "totalSupplyUsd": 883646,
+    "totalBorrowUsd": 452655,
+    "debtCeilingUsd": null,
+    "apyBase": 3.72048,
+    "apyReward": 0,
+    "apyBaseBorrow": 9.68387,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-20T23:01:38.585Z",
+    "totalSupplyUsd": 888073,
+    "totalBorrowUsd": 516539,
+    "debtCeilingUsd": null,
+    "apyBase": 4.67839,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.7246,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-21T23:02:53.128Z",
+    "totalSupplyUsd": 890708,
+    "totalBorrowUsd": 517790,
+    "debtCeilingUsd": null,
+    "apyBase": 4.67378,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.71985,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-22T23:02:04.795Z",
+    "totalSupplyUsd": 887243,
+    "totalBorrowUsd": 520354,
+    "debtCeilingUsd": null,
+    "apyBase": 4.74933,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.79727,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-23T23:01:46.904Z",
+    "totalSupplyUsd": 933570,
+    "totalBorrowUsd": 474021,
+    "debtCeilingUsd": null,
+    "apyBase": 3.662,
+    "apyReward": 0,
+    "apyBaseBorrow": 9.61626,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-24T23:01:49.163Z",
+    "totalSupplyUsd": 928223,
+    "totalBorrowUsd": 464345,
+    "debtCeilingUsd": null,
+    "apyBase": 3.56571,
+    "apyReward": 0,
+    "apyBaseBorrow": 9.50378,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-25T23:01:57.309Z",
+    "totalSupplyUsd": 912721,
+    "totalBorrowUsd": 458498,
+    "debtCeilingUsd": null,
+    "apyBase": 3.59242,
+    "apyReward": 0,
+    "apyBaseBorrow": 9.53512,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-26T23:02:11.344Z",
+    "totalSupplyUsd": 886799,
+    "totalBorrowUsd": 461336,
+    "debtCeilingUsd": null,
+    "apyBase": 3.82498,
+    "apyReward": 0,
+    "apyBaseBorrow": 9.80339,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-27T21:01:58.491Z",
+    "totalSupplyUsd": 893132,
+    "totalBorrowUsd": 453507,
+    "debtCeilingUsd": null,
+    "apyBase": 0,
+    "apyReward": 0,
+    "apyBaseBorrow": 9.61657,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-28T23:02:26.742Z",
+    "totalSupplyUsd": 889889,
+    "totalBorrowUsd": 322945,
+    "debtCeilingUsd": null,
+    "apyBase": 2.02598,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.44357,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-29T23:01:52.353Z",
+    "totalSupplyUsd": 904549,
+    "totalBorrowUsd": 338682,
+    "debtCeilingUsd": null,
+    "apyBase": 2.13878,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.61632,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-09-30T23:03:02.453Z",
+    "totalSupplyUsd": 902931,
+    "totalBorrowUsd": 343159,
+    "debtCeilingUsd": null,
+    "apyBase": 2.19501,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.70076,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-01T23:01:33.385Z",
+    "totalSupplyUsd": 903260,
+    "totalBorrowUsd": 341262,
+    "debtCeilingUsd": null,
+    "apyBase": 2.17256,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.66718,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-02T23:01:35.282Z",
+    "totalSupplyUsd": 909432,
+    "totalBorrowUsd": 344573,
+    "debtCeilingUsd": null,
+    "apyBase": 2.18334,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.68332,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-03T23:01:42.766Z",
+    "totalSupplyUsd": 922880,
+    "totalBorrowUsd": 350809,
+    "debtCeilingUsd": null,
+    "apyBase": 2.19574,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.70185,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-04T23:01:56.964Z",
+    "totalSupplyUsd": 925499,
+    "totalBorrowUsd": 385346,
+    "debtCeilingUsd": null,
+    "apyBase": 2.57486,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.24549,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-05T23:02:10.952Z",
+    "totalSupplyUsd": 908617,
+    "totalBorrowUsd": 380530,
+    "debtCeilingUsd": null,
+    "apyBase": 2.60139,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.28202,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-06T23:01:46.956Z",
+    "totalSupplyUsd": 912036,
+    "totalBorrowUsd": 299460,
+    "debtCeilingUsd": null,
+    "apyBase": 1.70536,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.92513,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-07T23:01:37.982Z",
+    "totalSupplyUsd": 921878,
+    "totalBorrowUsd": 380270,
+    "debtCeilingUsd": null,
+    "apyBase": 2.53296,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.18743,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-08T23:01:44.376Z",
+    "totalSupplyUsd": 986734,
+    "totalBorrowUsd": 308982,
+    "debtCeilingUsd": null,
+    "apyBase": 1.57281,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.69704,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-09T23:01:45.367Z",
+    "totalSupplyUsd": 946122,
+    "totalBorrowUsd": 310343,
+    "debtCeilingUsd": null,
+    "apyBase": 1.70246,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.92024,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-10T23:01:31.627Z",
+    "totalSupplyUsd": 943007,
+    "totalBorrowUsd": 309274,
+    "debtCeilingUsd": null,
+    "apyBase": 1.70202,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.91949,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-11T23:02:54.797Z",
+    "totalSupplyUsd": 945878,
+    "totalBorrowUsd": 310910,
+    "debtCeilingUsd": null,
+    "apyBase": 1.70854,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.9305,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-12T23:02:33.839Z",
+    "totalSupplyUsd": 958395,
+    "totalBorrowUsd": 314912,
+    "debtCeilingUsd": null,
+    "apyBase": 1.7075,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.92874,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-13T23:01:31.164Z",
+    "totalSupplyUsd": 962643,
+    "totalBorrowUsd": 314886,
+    "debtCeilingUsd": null,
+    "apyBase": 1.69439,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.90659,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-14T23:01:38.093Z",
+    "totalSupplyUsd": 945152,
+    "totalBorrowUsd": 310388,
+    "debtCeilingUsd": null,
+    "apyBase": 1.70588,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.92601,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-15T23:04:42.059Z",
+    "totalSupplyUsd": 941592,
+    "totalBorrowUsd": 339902,
+    "debtCeilingUsd": null,
+    "apyBase": 2.00748,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.41479,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-16T23:02:15.028Z",
+    "totalSupplyUsd": 945187,
+    "totalBorrowUsd": 341200,
+    "debtCeilingUsd": null,
+    "apyBase": 2.00748,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.41479,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-17T23:01:52.476Z",
+    "totalSupplyUsd": 942245,
+    "totalBorrowUsd": 340238,
+    "debtCeilingUsd": null,
+    "apyBase": 2.00851,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.41639,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-18T23:02:17.363Z",
+    "totalSupplyUsd": 940025,
+    "totalBorrowUsd": 339447,
+    "debtCeilingUsd": null,
+    "apyBase": 2.00862,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.41657,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-19T23:01:41.937Z",
+    "totalSupplyUsd": 930239,
+    "totalBorrowUsd": 358129,
+    "debtCeilingUsd": null,
+    "apyBase": 2.24489,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.77479,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-20T23:02:02.253Z",
+    "totalSupplyUsd": 926319,
+    "totalBorrowUsd": 356371,
+    "debtCeilingUsd": null,
+    "apyBase": 2.24216,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.77076,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-21T23:01:33.747Z",
+    "totalSupplyUsd": 936296,
+    "totalBorrowUsd": 337778,
+    "debtCeilingUsd": null,
+    "apyBase": 2.00531,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.4114,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-22T23:03:00.982Z",
+    "totalSupplyUsd": 946099,
+    "totalBorrowUsd": 352262,
+    "debtCeilingUsd": null,
+    "apyBase": 2.11808,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.58496,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-23T23:01:50.106Z",
+    "totalSupplyUsd": 945650,
+    "totalBorrowUsd": 255726,
+    "debtCeilingUsd": null,
+    "apyBase": 1.22834,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.05636,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-24T23:02:38.179Z",
+    "totalSupplyUsd": 976062,
+    "totalBorrowUsd": 263950,
+    "debtCeilingUsd": null,
+    "apyBase": 1.22834,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.05636,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-25T23:02:11.810Z",
+    "totalSupplyUsd": 975677,
+    "totalBorrowUsd": 362370,
+    "debtCeilingUsd": null,
+    "apyBase": 2.10894,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.57106,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-26T23:01:37.364Z",
+    "totalSupplyUsd": 974556,
+    "totalBorrowUsd": 362028,
+    "debtCeilingUsd": null,
+    "apyBase": 2.1097,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.57221,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-27T23:01:45.680Z",
+    "totalSupplyUsd": 982084,
+    "totalBorrowUsd": 364093,
+    "debtCeilingUsd": null,
+    "apyBase": 2.10235,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.56102,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-28T23:02:09.632Z",
+    "totalSupplyUsd": 978228,
+    "totalBorrowUsd": 362663,
+    "debtCeilingUsd": null,
+    "apyBase": 2.10235,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.56102,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-29T23:01:56.533Z",
+    "totalSupplyUsd": 980533,
+    "totalBorrowUsd": 264612,
+    "debtCeilingUsd": null,
+    "apyBase": 1.22411,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.04799,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-30T23:13:12.129Z",
+    "totalSupplyUsd": 1005710,
+    "totalBorrowUsd": 271787,
+    "debtCeilingUsd": null,
+    "apyBase": 1.22697,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.05365,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-10-31T23:02:38.557Z",
+    "totalSupplyUsd": 996752,
+    "totalBorrowUsd": 403447,
+    "debtCeilingUsd": null,
+    "apyBase": 2.45025,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.07142,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-01T23:03:36.052Z",
+    "totalSupplyUsd": 994373,
+    "totalBorrowUsd": 452593,
+    "debtCeilingUsd": null,
+    "apyBase": 3.01334,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.82731,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-02T23:02:42.544Z",
+    "totalSupplyUsd": 987395,
+    "totalBorrowUsd": 349703,
+    "debtCeilingUsd": null,
+    "apyBase": 1.94239,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.3125,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-03T23:01:47.051Z",
+    "totalSupplyUsd": 985485,
+    "totalBorrowUsd": 443766,
+    "debtCeilingUsd": null,
+    "apyBase": 2.95664,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.75453,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-04T23:12:12.256Z",
+    "totalSupplyUsd": 980002,
+    "totalBorrowUsd": 441374,
+    "debtCeilingUsd": null,
+    "apyBase": 2.95755,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.75571,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-05T23:01:50.156Z",
+    "totalSupplyUsd": 972464,
+    "totalBorrowUsd": 438834,
+    "debtCeilingUsd": null,
+    "apyBase": 2.96779,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.7689,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-06T23:01:38.056Z",
+    "totalSupplyUsd": 980664,
+    "totalBorrowUsd": 427795,
+    "debtCeilingUsd": null,
+    "apyBase": 2.79519,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.54346,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-07T23:01:41.009Z",
+    "totalSupplyUsd": 964824,
+    "totalBorrowUsd": 511207,
+    "debtCeilingUsd": null,
+    "apyBase": 3.95304,
+    "apyReward": 0,
+    "apyBaseBorrow": 9.94767,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-08T23:01:53.141Z",
+    "totalSupplyUsd": 966688,
+    "totalBorrowUsd": 511899,
+    "debtCeilingUsd": null,
+    "apyBase": 3.94894,
+    "apyReward": 0,
+    "apyBaseBorrow": 9.94309,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-09T23:01:36.440Z",
+    "totalSupplyUsd": 965930,
+    "totalBorrowUsd": 512692,
+    "debtCeilingUsd": null,
+    "apyBase": 3.96554,
+    "apyReward": 0,
+    "apyBaseBorrow": 9.96163,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-10T23:01:43.415Z",
+    "totalSupplyUsd": 991954,
+    "totalBorrowUsd": 427116,
+    "debtCeilingUsd": null,
+    "apyBase": 2.73162,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.45871,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-11T23:02:14.671Z",
+    "totalSupplyUsd": 1006041,
+    "totalBorrowUsd": 433250,
+    "debtCeilingUsd": null,
+    "apyBase": 2.73237,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.45972,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-12T23:03:12.999Z",
+    "totalSupplyUsd": 1123708,
+    "totalBorrowUsd": 476516,
+    "debtCeilingUsd": null,
+    "apyBase": 2.65911,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.36086,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-13T23:02:07.766Z",
+    "totalSupplyUsd": 1061993,
+    "totalBorrowUsd": 447754,
+    "debtCeilingUsd": null,
+    "apyBase": 2.63223,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.32425,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-14T23:01:46.384Z",
+    "totalSupplyUsd": 1127522,
+    "totalBorrowUsd": 448436,
+    "debtCeilingUsd": null,
+    "apyBase": 2.3761,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.96578,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-15T23:01:39.997Z",
+    "totalSupplyUsd": 1288164,
+    "totalBorrowUsd": 473091,
+    "debtCeilingUsd": null,
+    "apyBase": 2.06829,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.5089,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-16T23:01:42.924Z",
+    "totalSupplyUsd": 1381098,
+    "totalBorrowUsd": 525810,
+    "debtCeilingUsd": null,
+    "apyBase": 2.20173,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.71079,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-17T23:02:05.483Z",
+    "totalSupplyUsd": 1356758,
+    "totalBorrowUsd": 516785,
+    "debtCeilingUsd": null,
+    "apyBase": 2.20353,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.71346,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-18T23:01:37.734Z",
+    "totalSupplyUsd": 1387680,
+    "totalBorrowUsd": 528244,
+    "debtCeilingUsd": null,
+    "apyBase": 2.20121,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.71001,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-19T23:01:38.241Z",
+    "totalSupplyUsd": 1212958,
+    "totalBorrowUsd": 523724,
+    "debtCeilingUsd": null,
+    "apyBase": 2.74499,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.47661,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-20T23:01:50.182Z",
+    "totalSupplyUsd": 1178324,
+    "totalBorrowUsd": 512619,
+    "debtCeilingUsd": null,
+    "apyBase": 2.78175,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.52562,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-21T23:03:18.821Z",
+    "totalSupplyUsd": 1200839,
+    "totalBorrowUsd": 493398,
+    "debtCeilingUsd": null,
+    "apyBase": 2.51555,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.16317,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-22T23:01:51.512Z",
+    "totalSupplyUsd": 1209776,
+    "totalBorrowUsd": 497752,
+    "debtCeilingUsd": null,
+    "apyBase": 2.52161,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.17163,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-23T23:01:24.723Z",
+    "totalSupplyUsd": 1270368,
+    "totalBorrowUsd": 546319,
+    "debtCeilingUsd": null,
+    "apyBase": 2.72566,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.45072,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-24T23:01:38.223Z",
+    "totalSupplyUsd": 1243952,
+    "totalBorrowUsd": 534546,
+    "debtCeilingUsd": null,
+    "apyBase": 2.72195,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.44574,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-25T23:02:14.656Z",
+    "totalSupplyUsd": 1191153,
+    "totalBorrowUsd": 512598,
+    "debtCeilingUsd": null,
+    "apyBase": 2.7289,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.45507,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-26T23:02:49.585Z",
+    "totalSupplyUsd": 1151334,
+    "totalBorrowUsd": 471977,
+    "debtCeilingUsd": null,
+    "apyBase": 2.50547,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.14909,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-27T23:01:35.689Z",
+    "totalSupplyUsd": 1213349,
+    "totalBorrowUsd": 516430,
+    "debtCeilingUsd": null,
+    "apyBase": 2.67644,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.38436,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-28T23:02:41.293Z",
+    "totalSupplyUsd": 1218822,
+    "totalBorrowUsd": 518822,
+    "debtCeilingUsd": null,
+    "apyBase": 2.677,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.38512,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-29T23:02:46.159Z",
+    "totalSupplyUsd": 1230277,
+    "totalBorrowUsd": 523702,
+    "debtCeilingUsd": null,
+    "apyBase": 2.67704,
+    "apyReward": 0,
+    "apyBaseBorrow": 8.38517,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-11-30T23:02:37.828Z",
+    "totalSupplyUsd": 1242603,
+    "totalBorrowUsd": 427068,
+    "debtCeilingUsd": null,
+    "apyBase": 1.8444,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.15532,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-01T23:01:24.235Z",
+    "totalSupplyUsd": 1246399,
+    "totalBorrowUsd": 427836,
+    "debtCeilingUsd": null,
+    "apyBase": 1.84042,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.14886,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-02T23:01:34.412Z",
+    "totalSupplyUsd": 1304318,
+    "totalBorrowUsd": 446401,
+    "debtCeilingUsd": null,
+    "apyBase": 1.83113,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.13373,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-03T22:01:41.963Z",
+    "totalSupplyUsd": 1831457,
+    "totalBorrowUsd": 704256,
+    "debtCeilingUsd": null,
+    "apyBase": 2.24029,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.768,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-04T23:02:46.069Z",
+    "totalSupplyUsd": 1751819,
+    "totalBorrowUsd": 505069,
+    "debtCeilingUsd": null,
+    "apyBase": 1.36761,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.32467,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-05T23:01:36.450Z",
+    "totalSupplyUsd": 1672732,
+    "totalBorrowUsd": 483134,
+    "debtCeilingUsd": null,
+    "apyBase": 1.37175,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.33244,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-06T23:01:33.597Z",
+    "totalSupplyUsd": 1683044,
+    "totalBorrowUsd": 437417,
+    "debtCeilingUsd": null,
+    "apyBase": 1.14974,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.89845,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-07T23:01:35.903Z",
+    "totalSupplyUsd": 1678429,
+    "totalBorrowUsd": 370097,
+    "debtCeilingUsd": null,
+    "apyBase": 0.87774,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.30754,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-08T23:01:32.213Z",
+    "totalSupplyUsd": 1650069,
+    "totalBorrowUsd": 366778,
+    "debtCeilingUsd": null,
+    "apyBase": 0.88927,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.3342,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-09T23:09:21.210Z",
+    "totalSupplyUsd": 1494612,
+    "totalBorrowUsd": 323925,
+    "debtCeilingUsd": null,
+    "apyBase": 0.85352,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.25093,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-10T23:01:33.949Z",
+    "totalSupplyUsd": 1420228,
+    "totalBorrowUsd": 318643,
+    "debtCeilingUsd": null,
+    "apyBase": 0.90284,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.36541,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-11T23:01:38.414Z",
+    "totalSupplyUsd": 1519357,
+    "totalBorrowUsd": 340868,
+    "debtCeilingUsd": null,
+    "apyBase": 0.90277,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.36526,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-12T23:02:10.638Z",
+    "totalSupplyUsd": 1616718,
+    "totalBorrowUsd": 361802,
+    "debtCeilingUsd": null,
+    "apyBase": 0.89909,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.35682,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-13T23:01:27.995Z",
+    "totalSupplyUsd": 1564198,
+    "totalBorrowUsd": 355033,
+    "debtCeilingUsd": null,
+    "apyBase": 0.92003,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.40461,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-14T23:01:32.853Z",
+    "totalSupplyUsd": 1564839,
+    "totalBorrowUsd": 341547,
+    "debtCeilingUsd": null,
+    "apyBase": 0.86333,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.27395,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-15T23:01:40.108Z",
+    "totalSupplyUsd": 1599150,
+    "totalBorrowUsd": 354954,
+    "debtCeilingUsd": null,
+    "apyBase": 0.88721,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.32947,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-16T23:01:43.792Z",
+    "totalSupplyUsd": 1647370,
+    "totalBorrowUsd": 363988,
+    "debtCeilingUsd": null,
+    "apyBase": 0.88064,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.31426,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-17T23:02:57.271Z",
+    "totalSupplyUsd": 1610834,
+    "totalBorrowUsd": 355807,
+    "debtCeilingUsd": null,
+    "apyBase": 0.88021,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.31326,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-18T23:03:20.973Z",
+    "totalSupplyUsd": 1461056,
+    "totalBorrowUsd": 315146,
+    "debtCeilingUsd": null,
+    "apyBase": 0.84695,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.23546,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-19T23:02:44.776Z",
+    "totalSupplyUsd": 1451016,
+    "totalBorrowUsd": 170629,
+    "debtCeilingUsd": null,
+    "apyBase": 0.33195,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.76389,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-20T23:02:53.402Z",
+    "totalSupplyUsd": 1404630,
+    "totalBorrowUsd": 166165,
+    "debtCeilingUsd": null,
+    "apyBase": 0.33488,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.77447,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-21T23:02:51.499Z",
+    "totalSupplyUsd": 1397125,
+    "totalBorrowUsd": 165249,
+    "debtCeilingUsd": null,
+    "apyBase": 0.3348,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.77416,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-22T23:03:44.982Z",
+    "totalSupplyUsd": 1394346,
+    "totalBorrowUsd": 164945,
+    "debtCeilingUsd": null,
+    "apyBase": 0.33487,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.77443,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-23T23:04:49.639Z",
+    "totalSupplyUsd": 1434858,
+    "totalBorrowUsd": 169879,
+    "debtCeilingUsd": null,
+    "apyBase": 0.33529,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.77592,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-24T23:02:50.983Z",
+    "totalSupplyUsd": 1614849,
+    "totalBorrowUsd": 172705,
+    "debtCeilingUsd": null,
+    "apyBase": 0.2891,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.60422,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-25T23:06:26.467Z",
+    "totalSupplyUsd": 1624766,
+    "totalBorrowUsd": 173782,
+    "debtCeilingUsd": null,
+    "apyBase": 0.28914,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.60438,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-26T23:03:47.382Z",
+    "totalSupplyUsd": 1592906,
+    "totalBorrowUsd": 149906,
+    "debtCeilingUsd": null,
+    "apyBase": 0.2408,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.41163,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-27T23:02:24.474Z",
+    "totalSupplyUsd": 1658518,
+    "totalBorrowUsd": 152369,
+    "debtCeilingUsd": null,
+    "apyBase": 0.23276,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.37806,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-28T23:01:26.464Z",
+    "totalSupplyUsd": 1643049,
+    "totalBorrowUsd": 151142,
+    "debtCeilingUsd": null,
+    "apyBase": 0.23318,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.37983,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-29T23:02:26.024Z",
+    "totalSupplyUsd": 1654794,
+    "totalBorrowUsd": 152259,
+    "debtCeilingUsd": null,
+    "apyBase": 0.23326,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.38016,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-30T23:02:54.122Z",
+    "totalSupplyUsd": 1627528,
+    "totalBorrowUsd": 174883,
+    "debtCeilingUsd": null,
+    "apyBase": 0.29107,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.61179,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2024-12-31T23:02:34.362Z",
+    "totalSupplyUsd": 1630696,
+    "totalBorrowUsd": 172680,
+    "debtCeilingUsd": null,
+    "apyBase": 0.28499,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.5884,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-01T23:02:48.020Z",
+    "totalSupplyUsd": 1634914,
+    "totalBorrowUsd": 173125,
+    "debtCeilingUsd": null,
+    "apyBase": 0.28499,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.58838,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-02T23:02:52.943Z",
+    "totalSupplyUsd": 1698639,
+    "totalBorrowUsd": 179904,
+    "debtCeilingUsd": null,
+    "apyBase": 0.28506,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.58866,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-03T23:03:19.865Z",
+    "totalSupplyUsd": 1669979,
+    "totalBorrowUsd": 183798,
+    "debtCeilingUsd": null,
+    "apyBase": 0.30136,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.6509,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-04T23:02:47.317Z",
+    "totalSupplyUsd": 1676888,
+    "totalBorrowUsd": 184575,
+    "debtCeilingUsd": null,
+    "apyBase": 0.3014,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.65105,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-05T23:03:47.895Z",
+    "totalSupplyUsd": 1638682,
+    "totalBorrowUsd": 152763,
+    "debtCeilingUsd": null,
+    "apyBase": 0.2376,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.39835,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-06T23:04:03.896Z",
+    "totalSupplyUsd": 1733025,
+    "totalBorrowUsd": 156386,
+    "debtCeilingUsd": null,
+    "apyBase": 0.22697,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.35358,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-07T23:03:36.856Z",
+    "totalSupplyUsd": 1633302,
+    "totalBorrowUsd": 147669,
+    "debtCeilingUsd": null,
+    "apyBase": 0.22758,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.35617,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-08T23:02:58.612Z",
+    "totalSupplyUsd": 1595499,
+    "totalBorrowUsd": 144317,
+    "debtCeilingUsd": null,
+    "apyBase": 0.22772,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.35679,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-09T23:03:46.345Z",
+    "totalSupplyUsd": 1533559,
+    "totalBorrowUsd": 138699,
+    "debtCeilingUsd": null,
+    "apyBase": 0.22769,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.35664,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-10T23:02:53.450Z",
+    "totalSupplyUsd": 1568713,
+    "totalBorrowUsd": 141886,
+    "debtCeilingUsd": null,
+    "apyBase": 0.2277,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.35671,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-11T23:02:42.766Z",
+    "totalSupplyUsd": 1555507,
+    "totalBorrowUsd": 160091,
+    "debtCeilingUsd": null,
+    "apyBase": 0.27354,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.54379,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-12T23:05:04.085Z",
+    "totalSupplyUsd": 1509909,
+    "totalBorrowUsd": 156322,
+    "debtCeilingUsd": null,
+    "apyBase": 0.27588,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.55296,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-13T23:03:55.204Z",
+    "totalSupplyUsd": 1427991,
+    "totalBorrowUsd": 147907,
+    "debtCeilingUsd": null,
+    "apyBase": 0.27606,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.55365,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-14T23:04:33.404Z",
+    "totalSupplyUsd": 1416178,
+    "totalBorrowUsd": 155560,
+    "debtCeilingUsd": null,
+    "apyBase": 0.30051,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.64767,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-15T23:03:51.044Z",
+    "totalSupplyUsd": 1510494,
+    "totalBorrowUsd": 176229,
+    "debtCeilingUsd": null,
+    "apyBase": 0.32814,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.75004,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-16T23:05:22.059Z",
+    "totalSupplyUsd": 1515563,
+    "totalBorrowUsd": 179512,
+    "debtCeilingUsd": null,
+    "apyBase": 0.3355,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.77668,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-17T23:02:34.485Z",
+    "totalSupplyUsd": 1571927,
+    "totalBorrowUsd": 192059,
+    "debtCeilingUsd": null,
+    "apyBase": 0.35121,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.83271,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-18T23:02:47.274Z",
+    "totalSupplyUsd": 1519440,
+    "totalBorrowUsd": 185709,
+    "debtCeilingUsd": null,
+    "apyBase": 0.35139,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.83333,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-19T23:02:42.759Z",
+    "totalSupplyUsd": 1537055,
+    "totalBorrowUsd": 188083,
+    "debtCeilingUsd": null,
+    "apyBase": 0.352,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.83548,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-20T23:02:11.621Z",
+    "totalSupplyUsd": 1512942,
+    "totalBorrowUsd": 185111,
+    "debtCeilingUsd": null,
+    "apyBase": 0.35194,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.83528,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-21T23:01:27.781Z",
+    "totalSupplyUsd": 1531941,
+    "totalBorrowUsd": 187221,
+    "debtCeilingUsd": null,
+    "apyBase": 0.35134,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.83317,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-22T23:01:43.014Z",
+    "totalSupplyUsd": 1617695,
+    "totalBorrowUsd": 200381,
+    "debtCeilingUsd": null,
+    "apyBase": 0.35841,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.85802,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-23T23:01:39.031Z",
+    "totalSupplyUsd": 1581574,
+    "totalBorrowUsd": 208426,
+    "debtCeilingUsd": null,
+    "apyBase": 0.39305,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.97676,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-24T23:01:55.982Z",
+    "totalSupplyUsd": 1620477,
+    "totalBorrowUsd": 213392,
+    "debtCeilingUsd": null,
+    "apyBase": 0.39261,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.97527,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-25T23:01:36.842Z",
+    "totalSupplyUsd": 1598710,
+    "totalBorrowUsd": 212067,
+    "debtCeilingUsd": null,
+    "apyBase": 0.39693,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.98974,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-26T23:01:23.355Z",
+    "totalSupplyUsd": 1579982,
+    "totalBorrowUsd": 209604,
+    "debtCeilingUsd": null,
+    "apyBase": 0.39699,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.98993,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-27T23:01:36.786Z",
+    "totalSupplyUsd": 1559940,
+    "totalBorrowUsd": 206341,
+    "debtCeilingUsd": null,
+    "apyBase": 0.39525,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.98413,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-28T23:01:42.807Z",
+    "totalSupplyUsd": 1529514,
+    "totalBorrowUsd": 202287,
+    "debtCeilingUsd": null,
+    "apyBase": 0.39516,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.98384,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-29T23:01:32.114Z",
+    "totalSupplyUsd": 1517519,
+    "totalBorrowUsd": 200873,
+    "debtCeilingUsd": null,
+    "apyBase": 0.39567,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.98554,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-30T23:01:30.434Z",
+    "totalSupplyUsd": 1587226,
+    "totalBorrowUsd": 209431,
+    "debtCeilingUsd": null,
+    "apyBase": 0.39379,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.97921,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-01-31T23:01:42.888Z",
+    "totalSupplyUsd": 1599035,
+    "totalBorrowUsd": 211102,
+    "debtCeilingUsd": null,
+    "apyBase": 0.3941,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.98027,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-01T23:11:15.531Z",
+    "totalSupplyUsd": 1583001,
+    "totalBorrowUsd": 209294,
+    "debtCeilingUsd": null,
+    "apyBase": 0.39497,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.9832,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-02T23:02:04.324Z",
+    "totalSupplyUsd": 1448824,
+    "totalBorrowUsd": 191482,
+    "debtCeilingUsd": null,
+    "apyBase": 0.39475,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.98246,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-03T23:01:27.120Z",
+    "totalSupplyUsd": 1439608,
+    "totalBorrowUsd": 200413,
+    "debtCeilingUsd": null,
+    "apyBase": 0.42685,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.08821,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-04T23:01:40.011Z",
+    "totalSupplyUsd": 1437021,
+    "totalBorrowUsd": 200002,
+    "debtCeilingUsd": null,
+    "apyBase": 0.42669,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.08768,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-05T23:01:51.576Z",
+    "totalSupplyUsd": 1416191,
+    "totalBorrowUsd": 197015,
+    "debtCeilingUsd": null,
+    "apyBase": 0.4264,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.08674,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-06T23:01:33.869Z",
+    "totalSupplyUsd": 1465276,
+    "totalBorrowUsd": 231719,
+    "debtCeilingUsd": null,
+    "apyBase": 0.51855,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.3721,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-07T23:01:32.199Z",
+    "totalSupplyUsd": 1463838,
+    "totalBorrowUsd": 219992,
+    "debtCeilingUsd": null,
+    "apyBase": 0.47951,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.25427,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-08T23:01:37.927Z",
+    "totalSupplyUsd": 1485898,
+    "totalBorrowUsd": 199981,
+    "debtCeilingUsd": null,
+    "apyBase": 0.40565,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.01879,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-09T23:02:08.216Z",
+    "totalSupplyUsd": 1508379,
+    "totalBorrowUsd": 203000,
+    "debtCeilingUsd": null,
+    "apyBase": 0.40563,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.01872,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-10T23:01:30.120Z",
+    "totalSupplyUsd": 1551382,
+    "totalBorrowUsd": 208787,
+    "debtCeilingUsd": null,
+    "apyBase": 0.40563,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.01872,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-11T23:01:29.378Z",
+    "totalSupplyUsd": 1382820,
+    "totalBorrowUsd": 207200,
+    "debtCeilingUsd": null,
+    "apyBase": 0.47734,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.24759,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-12T23:01:35.317Z",
+    "totalSupplyUsd": 1400747,
+    "totalBorrowUsd": 208720,
+    "debtCeilingUsd": null,
+    "apyBase": 0.47329,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.23509,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-13T23:02:38.906Z",
+    "totalSupplyUsd": 1346978,
+    "totalBorrowUsd": 207800,
+    "debtCeilingUsd": null,
+    "apyBase": 0.49915,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.31406,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-14T23:01:37.947Z",
+    "totalSupplyUsd": 1336612,
+    "totalBorrowUsd": 320445,
+    "debtCeilingUsd": null,
+    "apyBase": 1.00624,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.59617,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-15T23:01:38.582Z",
+    "totalSupplyUsd": 1355078,
+    "totalBorrowUsd": 324893,
+    "debtCeilingUsd": null,
+    "apyBase": 1.00634,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.59639,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-16T23:01:34.325Z",
+    "totalSupplyUsd": 1395260,
+    "totalBorrowUsd": 334193,
+    "debtCeilingUsd": null,
+    "apyBase": 1.00469,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.59281,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-17T23:02:06.585Z",
+    "totalSupplyUsd": 1363687,
+    "totalBorrowUsd": 304345,
+    "debtCeilingUsd": null,
+    "apyBase": 0.89511,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.34767,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-18T23:02:40.072Z",
+    "totalSupplyUsd": 1335944,
+    "totalBorrowUsd": 296039,
+    "debtCeilingUsd": null,
+    "apyBase": 0.88482,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.32393,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-19T23:01:37.951Z",
+    "totalSupplyUsd": 1382907,
+    "totalBorrowUsd": 306496,
+    "debtCeilingUsd": null,
+    "apyBase": 0.88505,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.32447,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-20T23:02:38.218Z",
+    "totalSupplyUsd": 1387553,
+    "totalBorrowUsd": 305062,
+    "debtCeilingUsd": null,
+    "apyBase": 0.87357,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.29785,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-21T23:01:38.590Z",
+    "totalSupplyUsd": 1346452,
+    "totalBorrowUsd": 296214,
+    "debtCeilingUsd": null,
+    "apyBase": 0.87448,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.29994,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-22T23:01:36.987Z",
+    "totalSupplyUsd": 1335972,
+    "totalBorrowUsd": 178156,
+    "debtCeilingUsd": null,
+    "apyBase": 0.40009,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.0003,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-23T23:01:41.791Z",
+    "totalSupplyUsd": 1384949,
+    "totalBorrowUsd": 479477,
+    "debtCeilingUsd": null,
+    "apyBase": 1.86772,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.19309,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-24T23:01:47.789Z",
+    "totalSupplyUsd": 1386140,
+    "totalBorrowUsd": 478964,
+    "debtCeilingUsd": null,
+    "apyBase": 1.86152,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.18307,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-25T23:02:25.102Z",
+    "totalSupplyUsd": 1318037,
+    "totalBorrowUsd": 448124,
+    "debtCeilingUsd": null,
+    "apyBase": 1.81044,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.09991,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-26T23:03:17.367Z",
+    "totalSupplyUsd": 1277229,
+    "totalBorrowUsd": 423906,
+    "debtCeilingUsd": null,
+    "apyBase": 1.73708,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.97843,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-27T23:01:57.154Z",
+    "totalSupplyUsd": 1285963,
+    "totalBorrowUsd": 433098,
+    "debtCeilingUsd": null,
+    "apyBase": 1.78124,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.05184,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-02-28T23:01:43.847Z",
+    "totalSupplyUsd": 1317882,
+    "totalBorrowUsd": 442297,
+    "debtCeilingUsd": null,
+    "apyBase": 1.77057,
+    "apyReward": 0,
+    "apyBaseBorrow": 7.03418,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-01T23:03:48.405Z",
+    "totalSupplyUsd": 1322657,
+    "totalBorrowUsd": 438919,
+    "debtCeilingUsd": null,
+    "apyBase": 1.73664,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.97769,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-02T23:02:48.421Z",
+    "totalSupplyUsd": 1400760,
+    "totalBorrowUsd": 464131,
+    "debtCeilingUsd": null,
+    "apyBase": 1.73213,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.97014,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-03T23:02:49.411Z",
+    "totalSupplyUsd": 1365640,
+    "totalBorrowUsd": 432106,
+    "debtCeilingUsd": null,
+    "apyBase": 1.60094,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.74619,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-04T23:01:44.881Z",
+    "totalSupplyUsd": 1392928,
+    "totalBorrowUsd": 457291,
+    "debtCeilingUsd": null,
+    "apyBase": 1.70494,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.92442,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-05T23:01:53.411Z",
+    "totalSupplyUsd": 1406432,
+    "totalBorrowUsd": 461211,
+    "debtCeilingUsd": null,
+    "apyBase": 1.7017,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.91894,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-06T23:01:51.218Z",
+    "totalSupplyUsd": 1387958,
+    "totalBorrowUsd": 454213,
+    "debtCeilingUsd": null,
+    "apyBase": 1.69569,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.90879,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-07T23:01:47.508Z",
+    "totalSupplyUsd": 1397047,
+    "totalBorrowUsd": 457250,
+    "debtCeilingUsd": null,
+    "apyBase": 1.69609,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.90946,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-08T23:02:57.972Z",
+    "totalSupplyUsd": 1416034,
+    "totalBorrowUsd": 439361,
+    "debtCeilingUsd": null,
+    "apyBase": 1.54846,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.65413,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-09T23:01:45.642Z",
+    "totalSupplyUsd": 1360600,
+    "totalBorrowUsd": 422077,
+    "debtCeilingUsd": null,
+    "apyBase": 1.54794,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.65321,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-10T23:01:36.245Z",
+    "totalSupplyUsd": 1333997,
+    "totalBorrowUsd": 411978,
+    "debtCeilingUsd": null,
+    "apyBase": 1.53622,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.63244,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-11T23:01:41.006Z",
+    "totalSupplyUsd": 1307874,
+    "totalBorrowUsd": 403941,
+    "debtCeilingUsd": null,
+    "apyBase": 1.53642,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.6328,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-12T23:17:46.790Z",
+    "totalSupplyUsd": 1292049,
+    "totalBorrowUsd": 768502,
+    "debtCeilingUsd": null,
+    "apyBase": 4.8722,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.9219,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-13T23:03:41.306Z",
+    "totalSupplyUsd": 1338680,
+    "totalBorrowUsd": 388839,
+    "debtCeilingUsd": null,
+    "apyBase": 1.38486,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.35697,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-14T23:01:47.737Z",
+    "totalSupplyUsd": 1333953,
+    "totalBorrowUsd": 763698,
+    "debtCeilingUsd": null,
+    "apyBase": 4.54612,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.58762,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-15T23:02:18.921Z",
+    "totalSupplyUsd": 1335228,
+    "totalBorrowUsd": 764523,
+    "debtCeilingUsd": null,
+    "apyBase": 4.54714,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.58868,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-16T23:01:46.730Z",
+    "totalSupplyUsd": 1284848,
+    "totalBorrowUsd": 767720,
+    "debtCeilingUsd": null,
+    "apyBase": 4.91284,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.96277,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-17T23:01:54.202Z",
+    "totalSupplyUsd": 1323744,
+    "totalBorrowUsd": 381954,
+    "debtCeilingUsd": null,
+    "apyBase": 1.36944,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.32811,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-18T23:02:49.296Z",
+    "totalSupplyUsd": 1399011,
+    "totalBorrowUsd": 403744,
+    "debtCeilingUsd": null,
+    "apyBase": 1.36985,
+    "apyReward": 0,
+    "apyBaseBorrow": 6.32888,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-19T23:01:35.597Z",
+    "totalSupplyUsd": 1329524,
+    "totalBorrowUsd": 744699,
+    "debtCeilingUsd": null,
+    "apyBase": 4.36975,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.40187,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-20T23:01:40.323Z",
+    "totalSupplyUsd": 1369011,
+    "totalBorrowUsd": 766817,
+    "debtCeilingUsd": null,
+    "apyBase": 4.36976,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.40187,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-21T23:02:56.923Z",
+    "totalSupplyUsd": 1375216,
+    "totalBorrowUsd": 770292,
+    "debtCeilingUsd": null,
+    "apyBase": 4.36976,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.40187,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-22T23:01:55.460Z",
+    "totalSupplyUsd": 1387954,
+    "totalBorrowUsd": 772330,
+    "debtCeilingUsd": null,
+    "apyBase": 4.31811,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.34678,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-23T23:03:42.177Z",
+    "totalSupplyUsd": 1343505,
+    "totalBorrowUsd": 747246,
+    "debtCeilingUsd": null,
+    "apyBase": 4.31446,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.34287,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-24T23:02:44.396Z",
+    "totalSupplyUsd": 1348258,
+    "totalBorrowUsd": 749995,
+    "debtCeilingUsd": null,
+    "apyBase": 4.31556,
+    "apyReward": 0,
+    "apyBaseBorrow": 10.34404,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-25T23:01:42.367Z",
+    "totalSupplyUsd": 1326034,
+    "totalBorrowUsd": 686100,
+    "debtCeilingUsd": null,
+    "apyBase": 3.78786,
+    "apyReward": 0,
+    "apyBaseBorrow": 9.76111,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-26T23:01:41.898Z",
+    "totalSupplyUsd": 1339313,
+    "totalBorrowUsd": 674596,
+    "debtCeilingUsd": null,
+    "apyBase": 3.60968,
+    "apyReward": 0,
+    "apyBaseBorrow": 9.55533,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-27T23:01:39.487Z",
+    "totalSupplyUsd": 1314880,
+    "totalBorrowUsd": 336214,
+    "debtCeilingUsd": null,
+    "apyBase": 1.1191,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.83549,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-28T23:02:44.769Z",
+    "totalSupplyUsd": 1308948,
+    "totalBorrowUsd": 686564,
+    "debtCeilingUsd": null,
+    "apyBase": 3.88184,
+    "apyReward": 0,
+    "apyBaseBorrow": 9.86774,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-29T23:01:54.744Z",
+    "totalSupplyUsd": 1307596,
+    "totalBorrowUsd": 687185,
+    "debtCeilingUsd": null,
+    "apyBase": 3.89539,
+    "apyReward": 0,
+    "apyBaseBorrow": 9.883,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-30T23:07:09.665Z",
+    "totalSupplyUsd": 1295460,
+    "totalBorrowUsd": 330837,
+    "debtCeilingUsd": null,
+    "apyBase": 1.1168,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.83073,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-03-31T23:02:16.307Z",
+    "totalSupplyUsd": 1328057,
+    "totalBorrowUsd": 339198,
+    "debtCeilingUsd": null,
+    "apyBase": 1.117,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.83114,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-01T23:01:44.446Z",
+    "totalSupplyUsd": 1321317,
+    "totalBorrowUsd": 337477,
+    "debtCeilingUsd": null,
+    "apyBase": 1.117,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.83114,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-02T23:03:34.267Z",
+    "totalSupplyUsd": 1307839,
+    "totalBorrowUsd": 323622,
+    "debtCeilingUsd": null,
+    "apyBase": 1.06001,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.71171,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-03T23:02:54.408Z",
+    "totalSupplyUsd": 1313772,
+    "totalBorrowUsd": 324852,
+    "debtCeilingUsd": null,
+    "apyBase": 1.05873,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.709,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-04T23:02:21.250Z",
+    "totalSupplyUsd": 1333932,
+    "totalBorrowUsd": 329660,
+    "debtCeilingUsd": null,
+    "apyBase": 1.0578,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.70701,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-05T23:01:28.385Z",
+    "totalSupplyUsd": 1325477,
+    "totalBorrowUsd": 327602,
+    "debtCeilingUsd": null,
+    "apyBase": 1.05796,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.70737,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-06T23:01:39.980Z",
+    "totalSupplyUsd": 1296799,
+    "totalBorrowUsd": 320944,
+    "debtCeilingUsd": null,
+    "apyBase": 1.0603,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.71233,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-07T23:02:06.302Z",
+    "totalSupplyUsd": 1198235,
+    "totalBorrowUsd": 292945,
+    "debtCeilingUsd": null,
+    "apyBase": 1.03914,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.66721,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-08T23:02:28.715Z",
+    "totalSupplyUsd": 1207780,
+    "totalBorrowUsd": 294680,
+    "debtCeilingUsd": null,
+    "apyBase": 1.03567,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.65977,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-09T23:02:36.286Z",
+    "totalSupplyUsd": 1227226,
+    "totalBorrowUsd": 300209,
+    "debtCeilingUsd": null,
+    "apyBase": 1.04014,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.66936,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-10T23:01:57.977Z",
+    "totalSupplyUsd": 1214655,
+    "totalBorrowUsd": 289180,
+    "debtCeilingUsd": null,
+    "apyBase": 0.99476,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.57113,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-11T23:02:27.897Z",
+    "totalSupplyUsd": 1245887,
+    "totalBorrowUsd": 291932,
+    "debtCeilingUsd": null,
+    "apyBase": 0.96915,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.51475,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-12T23:01:31.553Z",
+    "totalSupplyUsd": 1267616,
+    "totalBorrowUsd": 302032,
+    "debtCeilingUsd": null,
+    "apyBase": 0.99608,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.57402,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-13T23:02:17.630Z",
+    "totalSupplyUsd": 1287406,
+    "totalBorrowUsd": 305588,
+    "debtCeilingUsd": null,
+    "apyBase": 0.98991,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.56051,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-14T23:01:28.968Z",
+    "totalSupplyUsd": 1290813,
+    "totalBorrowUsd": 306425,
+    "debtCeilingUsd": null,
+    "apyBase": 0.99006,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.56084,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-15T23:01:38.619Z",
+    "totalSupplyUsd": 1279262,
+    "totalBorrowUsd": 306834,
+    "debtCeilingUsd": null,
+    "apyBase": 1.00698,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.59778,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-16T23:02:04.546Z",
+    "totalSupplyUsd": 1284243,
+    "totalBorrowUsd": 310074,
+    "debtCeilingUsd": null,
+    "apyBase": 1.018,
+    "apyReward": 0,
+    "apyBaseBorrow": 5.62168,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-17T23:02:22.422Z",
+    "totalSupplyUsd": 1275483,
+    "totalBorrowUsd": 250842,
+    "debtCeilingUsd": null,
+    "apyBase": 0.73011,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.94996,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-18T23:01:57.953Z",
+    "totalSupplyUsd": 1238973,
+    "totalBorrowUsd": 243661,
+    "debtCeilingUsd": null,
+    "apyBase": 0.73011,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.94996,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-19T23:01:37.505Z",
+    "totalSupplyUsd": 1235842,
+    "totalBorrowUsd": 243046,
+    "debtCeilingUsd": null,
+    "apyBase": 0.73011,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.94996,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-20T23:01:46.335Z",
+    "totalSupplyUsd": 1257793,
+    "totalBorrowUsd": 247363,
+    "debtCeilingUsd": null,
+    "apyBase": 0.73011,
+    "apyReward": 0,
+    "apyBaseBorrow": 4.94996,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-21T23:01:50.940Z",
+    "totalSupplyUsd": 1251246,
+    "totalBorrowUsd": 145986,
+    "debtCeilingUsd": null,
+    "apyBase": 0.32815,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.75009,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-22T23:01:35.654Z",
+    "totalSupplyUsd": 1259580,
+    "totalBorrowUsd": 146958,
+    "debtCeilingUsd": null,
+    "apyBase": 0.32815,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.75009,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-23T23:01:38.823Z",
+    "totalSupplyUsd": 1258087,
+    "totalBorrowUsd": 151241,
+    "debtCeilingUsd": null,
+    "apyBase": 0.3429,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.80322,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-24T23:02:47.517Z",
+    "totalSupplyUsd": 1264989,
+    "totalBorrowUsd": 147623,
+    "debtCeilingUsd": null,
+    "apyBase": 0.32826,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.75049,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-25T23:03:09.931Z",
+    "totalSupplyUsd": 1239154,
+    "totalBorrowUsd": 145295,
+    "debtCeilingUsd": null,
+    "apyBase": 0.33055,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.7588,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-26T23:01:35.787Z",
+    "totalSupplyUsd": 1289388,
+    "totalBorrowUsd": 151118,
+    "debtCeilingUsd": null,
+    "apyBase": 0.33033,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.75802,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-27T23:01:44.681Z",
+    "totalSupplyUsd": 1269160,
+    "totalBorrowUsd": 148766,
+    "debtCeilingUsd": null,
+    "apyBase": 0.33039,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.75824,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-28T23:08:55.905Z",
+    "totalSupplyUsd": 1204989,
+    "totalBorrowUsd": 149246,
+    "debtCeilingUsd": null,
+    "apyBase": 0.35837,
+    "apyReward": 0,
+    "apyBaseBorrow": 3.85785,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-29T23:02:41.382Z",
+    "totalSupplyUsd": 1195049,
+    "totalBorrowUsd": 148044,
+    "debtCeilingUsd": null,
+    "apyBase": 0.17924,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.92911,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-04-30T23:01:35.909Z",
+    "totalSupplyUsd": 1194104,
+    "totalBorrowUsd": 147994,
+    "debtCeilingUsd": null,
+    "apyBase": 0.17936,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.92953,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-01T23:01:45.965Z",
+    "totalSupplyUsd": 1190505,
+    "totalBorrowUsd": 147561,
+    "debtCeilingUsd": null,
+    "apyBase": 0.17938,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.92961,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-02T23:02:09.045Z",
+    "totalSupplyUsd": 1197011,
+    "totalBorrowUsd": 149133,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18075,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.93441,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-03T23:01:46.623Z",
+    "totalSupplyUsd": 1193594,
+    "totalBorrowUsd": 148707,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18075,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.93441,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-04T23:01:36.510Z",
+    "totalSupplyUsd": 1201011,
+    "totalBorrowUsd": 149649,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18078,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.93452,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-05T23:01:54.307Z",
+    "totalSupplyUsd": 1209990,
+    "totalBorrowUsd": 156600,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19129,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97067,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-06T23:01:52.418Z",
+    "totalSupplyUsd": 1194782,
+    "totalBorrowUsd": 154631,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19129,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97067,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-07T23:01:43.426Z",
+    "totalSupplyUsd": 1204688,
+    "totalBorrowUsd": 155913,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19129,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97067,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-08T23:01:34.773Z",
+    "totalSupplyUsd": 1248617,
+    "totalBorrowUsd": 161516,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19114,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97017,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-09T23:01:45.777Z",
+    "totalSupplyUsd": 1275285,
+    "totalBorrowUsd": 173671,
+    "debtCeilingUsd": null,
+    "apyBase": 0.20646,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.02137,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-10T23:02:27.870Z",
+    "totalSupplyUsd": 1268743,
+    "totalBorrowUsd": 172800,
+    "debtCeilingUsd": null,
+    "apyBase": 0.20649,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.02149,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-11T23:01:48.175Z",
+    "totalSupplyUsd": 1282636,
+    "totalBorrowUsd": 174708,
+    "debtCeilingUsd": null,
+    "apyBase": 0.20652,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.02158,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-12T23:01:38.677Z",
+    "totalSupplyUsd": 1334571,
+    "totalBorrowUsd": 181942,
+    "debtCeilingUsd": null,
+    "apyBase": 0.20679,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.02247,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-13T23:01:44.267Z",
+    "totalSupplyUsd": 1322530,
+    "totalBorrowUsd": 180557,
+    "debtCeilingUsd": null,
+    "apyBase": 0.20724,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.02393,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-14T23:01:28.834Z",
+    "totalSupplyUsd": 1336915,
+    "totalBorrowUsd": 185865,
+    "debtCeilingUsd": null,
+    "apyBase": 0.21299,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.04269,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-15T23:01:44.444Z",
+    "totalSupplyUsd": 1326417,
+    "totalBorrowUsd": 178484,
+    "debtCeilingUsd": null,
+    "apyBase": 0.20277,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.00921,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-16T23:01:28.913Z",
+    "totalSupplyUsd": 1320837,
+    "totalBorrowUsd": 178831,
+    "debtCeilingUsd": null,
+    "apyBase": 0.20466,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.01544,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-17T23:01:42.050Z",
+    "totalSupplyUsd": 1311780,
+    "totalBorrowUsd": 178280,
+    "debtCeilingUsd": null,
+    "apyBase": 0.20583,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.0193,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-18T23:08:21.863Z",
+    "totalSupplyUsd": 1294207,
+    "totalBorrowUsd": 174727,
+    "debtCeilingUsd": null,
+    "apyBase": 0.20378,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.01255,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-19T23:01:31.024Z",
+    "totalSupplyUsd": 1300324,
+    "totalBorrowUsd": 175572,
+    "debtCeilingUsd": null,
+    "apyBase": 0.20381,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.01266,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-20T23:01:35.150Z",
+    "totalSupplyUsd": 1320999,
+    "totalBorrowUsd": 178389,
+    "debtCeilingUsd": null,
+    "apyBase": 0.20386,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.01281,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-21T23:01:34.015Z",
+    "totalSupplyUsd": 1299873,
+    "totalBorrowUsd": 175536,
+    "debtCeilingUsd": null,
+    "apyBase": 0.20386,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.01281,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-22T23:01:43.558Z",
+    "totalSupplyUsd": 1330211,
+    "totalBorrowUsd": 172968,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19263,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97523,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-23T23:01:40.574Z",
+    "totalSupplyUsd": 1311063,
+    "totalBorrowUsd": 170532,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19272,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97554,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-24T23:01:53.081Z",
+    "totalSupplyUsd": 1311592,
+    "totalBorrowUsd": 170609,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19273,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97558,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-25T23:01:36.561Z",
+    "totalSupplyUsd": 1311177,
+    "totalBorrowUsd": 170544,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19272,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97552,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-26T23:01:39.010Z",
+    "totalSupplyUsd": 1325754,
+    "totalBorrowUsd": 172484,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19279,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97577,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-27T23:01:59.153Z",
+    "totalSupplyUsd": 1341135,
+    "totalBorrowUsd": 174506,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19282,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97588,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-28T23:01:32.394Z",
+    "totalSupplyUsd": 1328276,
+    "totalBorrowUsd": 172832,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19282,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97588,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-29T23:01:58.634Z",
+    "totalSupplyUsd": 1332609,
+    "totalBorrowUsd": 173396,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19282,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97588,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-30T23:01:38.054Z",
+    "totalSupplyUsd": 1312509,
+    "totalBorrowUsd": 170836,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19292,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.9762,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-05-31T23:01:49.455Z",
+    "totalSupplyUsd": 1291018,
+    "totalBorrowUsd": 163297,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18486,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.94865,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-01T23:01:40.990Z",
+    "totalSupplyUsd": 1301948,
+    "totalBorrowUsd": 171055,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19563,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.98538,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-02T23:02:01.818Z",
+    "totalSupplyUsd": 1298240,
+    "totalBorrowUsd": 164240,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18491,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.94882,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-03T23:01:34.183Z",
+    "totalSupplyUsd": 1311506,
+    "totalBorrowUsd": 166287,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18552,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.95093,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-04T23:01:37.414Z",
+    "totalSupplyUsd": 1329979,
+    "totalBorrowUsd": 166907,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18271,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.94122,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-05T23:01:48.739Z",
+    "totalSupplyUsd": 1310759,
+    "totalBorrowUsd": 169922,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19176,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97227,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-06T23:01:34.312Z",
+    "totalSupplyUsd": 1357974,
+    "totalBorrowUsd": 187335,
+    "debtCeilingUsd": null,
+    "apyBase": 0.21051,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.03464,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-07T23:01:39.554Z",
+    "totalSupplyUsd": 1392546,
+    "totalBorrowUsd": 198980,
+    "debtCeilingUsd": null,
+    "apyBase": 0.22202,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.07167,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-08T23:02:18.722Z",
+    "totalSupplyUsd": 1382555,
+    "totalBorrowUsd": 204818,
+    "debtCeilingUsd": null,
+    "apyBase": 0.23456,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.11108,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-09T23:02:29.751Z",
+    "totalSupplyUsd": 1401898,
+    "totalBorrowUsd": 175807,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18252,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.94055,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-10T23:01:38.383Z",
+    "totalSupplyUsd": 1425518,
+    "totalBorrowUsd": 178776,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18253,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.94058,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-11T23:01:40.941Z",
+    "totalSupplyUsd": 1362798,
+    "totalBorrowUsd": 170876,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18247,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.94039,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-12T23:01:34.341Z",
+    "totalSupplyUsd": 1332688,
+    "totalBorrowUsd": 167140,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18254,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.94062,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-13T23:01:38.457Z",
+    "totalSupplyUsd": 1325653,
+    "totalBorrowUsd": 165992,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18211,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.93912,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-14T23:01:46.148Z",
+    "totalSupplyUsd": 1319939,
+    "totalBorrowUsd": 165277,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18211,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.93912,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-15T23:01:24.403Z",
+    "totalSupplyUsd": 1329391,
+    "totalBorrowUsd": 166771,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18261,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.94087,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-16T23:01:45.297Z",
+    "totalSupplyUsd": 1363044,
+    "totalBorrowUsd": 171011,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18264,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.94097,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-17T23:01:33.333Z",
+    "totalSupplyUsd": 1355852,
+    "totalBorrowUsd": 169181,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18116,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.93584,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-18T23:03:39.217Z",
+    "totalSupplyUsd": 1335473,
+    "totalBorrowUsd": 166655,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18119,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.93593,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-19T23:01:31.245Z",
+    "totalSupplyUsd": 1342035,
+    "totalBorrowUsd": 167474,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18119,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.93593,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-20T23:01:38.984Z",
+    "totalSupplyUsd": 1344057,
+    "totalBorrowUsd": 167417,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18069,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.93421,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-21T23:01:33.327Z",
+    "totalSupplyUsd": 1348324,
+    "totalBorrowUsd": 167827,
+    "debtCeilingUsd": null,
+    "apyBase": 0.1805,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.93353,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-22T23:01:39.641Z",
+    "totalSupplyUsd": 1261000,
+    "totalBorrowUsd": 159704,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18521,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.94987,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-23T23:01:32.413Z",
+    "totalSupplyUsd": 1323337,
+    "totalBorrowUsd": 167247,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18463,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.94787,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-24T23:01:44.197Z",
+    "totalSupplyUsd": 1321867,
+    "totalBorrowUsd": 167268,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18497,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.94905,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-25T23:01:39.942Z",
+    "totalSupplyUsd": 1325691,
+    "totalBorrowUsd": 167808,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18506,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.94936,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-26T23:02:18.547Z",
+    "totalSupplyUsd": 1303842,
+    "totalBorrowUsd": 166750,
+    "debtCeilingUsd": null,
+    "apyBase": 0.18792,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.95918,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-27T23:09:07.950Z",
+    "totalSupplyUsd": 1311440,
+    "totalBorrowUsd": 171129,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19365,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97867,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-28T23:01:36.422Z",
+    "totalSupplyUsd": 1324138,
+    "totalBorrowUsd": 172803,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19367,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97877,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-29T23:02:00.263Z",
+    "totalSupplyUsd": 1325212,
+    "totalBorrowUsd": 172947,
+    "debtCeilingUsd": null,
+    "apyBase": 0.19368,
+    "apyReward": 0,
+    "apyBaseBorrow": 1.97879,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-06-30T23:03:03.117Z",
+    "totalSupplyUsd": 1343740,
+    "totalBorrowUsd": 175406,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09687,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98951,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-01T23:03:16.083Z",
+    "totalSupplyUsd": 1335781,
+    "totalBorrowUsd": 174194,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09673,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98902,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-02T23:01:58.361Z",
+    "totalSupplyUsd": 1359667,
+    "totalBorrowUsd": 177001,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09648,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98817,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-03T23:01:14.099Z",
+    "totalSupplyUsd": 1370310,
+    "totalBorrowUsd": 178860,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09686,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98947,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-04T23:02:04.572Z",
+    "totalSupplyUsd": 1366918,
+    "totalBorrowUsd": 178483,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09692,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98965,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-05T23:02:11.835Z",
+    "totalSupplyUsd": 1363455,
+    "totalBorrowUsd": 178041,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09692,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98968,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-06T23:03:09.247Z",
+    "totalSupplyUsd": 1368294,
+    "totalBorrowUsd": 178673,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09692,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98968,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-07T23:03:15.963Z",
+    "totalSupplyUsd": 1369894,
+    "totalBorrowUsd": 178847,
+    "debtCeilingUsd": null,
+    "apyBase": 0.0969,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98958,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-08T23:02:08.250Z",
+    "totalSupplyUsd": 1381150,
+    "totalBorrowUsd": 180316,
+    "debtCeilingUsd": null,
+    "apyBase": 0.0969,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98958,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-09T23:03:08.798Z",
+    "totalSupplyUsd": 1402081,
+    "totalBorrowUsd": 183089,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09693,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98969,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-10T23:13:17.374Z",
+    "totalSupplyUsd": 1405070,
+    "totalBorrowUsd": 183124,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09665,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98874,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-11T23:01:52.502Z",
+    "totalSupplyUsd": 1479036,
+    "totalBorrowUsd": 188677,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09361,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.97838,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-12T23:07:19.386Z",
+    "totalSupplyUsd": 1484998,
+    "totalBorrowUsd": 188152,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09266,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.97513,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-13T23:02:16.459Z",
+    "totalSupplyUsd": 1499041,
+    "totalBorrowUsd": 189932,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09266,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.97513,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-14T23:02:00.804Z",
+    "totalSupplyUsd": 1484021,
+    "totalBorrowUsd": 188658,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09313,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.97672,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-15T23:02:15.354Z",
+    "totalSupplyUsd": 1475790,
+    "totalBorrowUsd": 187637,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09314,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.97679,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-16T23:05:45.589Z",
+    "totalSupplyUsd": 1504228,
+    "totalBorrowUsd": 191425,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09327,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.97722,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-17T23:02:19.954Z",
+    "totalSupplyUsd": 1526890,
+    "totalBorrowUsd": 196634,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09494,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98293,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-18T23:03:03.126Z",
+    "totalSupplyUsd": 1563509,
+    "totalBorrowUsd": 202126,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09548,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98479,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-19T23:04:19.678Z",
+    "totalSupplyUsd": 1550494,
+    "totalBorrowUsd": 200445,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09548,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98479,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-20T23:03:09.976Z",
+    "totalSupplyUsd": 1536714,
+    "totalBorrowUsd": 198664,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09548,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.98479,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-21T23:02:12.975Z",
+    "totalSupplyUsd": 1529990,
+    "totalBorrowUsd": 201831,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09841,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.99469,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-22T23:01:56.600Z",
+    "totalSupplyUsd": 1512476,
+    "totalBorrowUsd": 199546,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09843,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.99475,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-23T23:04:14.205Z",
+    "totalSupplyUsd": 1478754,
+    "totalBorrowUsd": 195234,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09853,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.9951,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-24T23:06:15.357Z",
+    "totalSupplyUsd": 1526614,
+    "totalBorrowUsd": 201408,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09843,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.99474,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-25T23:02:06.080Z",
+    "totalSupplyUsd": 1526126,
+    "totalBorrowUsd": 201476,
+    "debtCeilingUsd": null,
+    "apyBase": 0.09852,
+    "apyReward": 0,
+    "apyBaseBorrow": 0.99507,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-26T23:02:20.451Z",
+    "totalSupplyUsd": 1546032,
+    "totalBorrowUsd": 652931,
+    "debtCeilingUsd": null,
+    "apyBase": 0.66001,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.08373,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-27T23:05:07.484Z",
+    "totalSupplyUsd": 1547423,
+    "totalBorrowUsd": 653978,
+    "debtCeilingUsd": null,
+    "apyBase": 0.66083,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.08484,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-28T23:03:14.476Z",
+    "totalSupplyUsd": 1549878,
+    "totalBorrowUsd": 655139,
+    "debtCeilingUsd": null,
+    "apyBase": 0.66105,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.08514,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-29T23:15:54.133Z",
+    "totalSupplyUsd": 1615690,
+    "totalBorrowUsd": 682165,
+    "debtCeilingUsd": null,
+    "apyBase": 0.6597,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.0833,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-30T23:02:16.170Z",
+    "totalSupplyUsd": 1580360,
+    "totalBorrowUsd": 667462,
+    "debtCeilingUsd": null,
+    "apyBase": 0.66007,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.0838,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-07-31T23:05:05.163Z",
+    "totalSupplyUsd": 1571078,
+    "totalBorrowUsd": 663710,
+    "debtCeilingUsd": null,
+    "apyBase": 0.66036,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.08421,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-08-01T23:02:02.211Z",
+    "totalSupplyUsd": 1566725,
+    "totalBorrowUsd": 661679,
+    "debtCeilingUsd": null,
+    "apyBase": 0.66003,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.08375,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-08-02T23:01:48.141Z",
+    "totalSupplyUsd": 1552410,
+    "totalBorrowUsd": 655456,
+    "debtCeilingUsd": null,
+    "apyBase": 0.65971,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.08332,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-08-03T23:03:19.574Z",
+    "totalSupplyUsd": 1570830,
+    "totalBorrowUsd": 663183,
+    "debtCeilingUsd": null,
+    "apyBase": 0.65962,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.0832,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-08-04T23:02:56.660Z",
+    "totalSupplyUsd": 1608224,
+    "totalBorrowUsd": 678281,
+    "debtCeilingUsd": null,
+    "apyBase": 0.65845,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.08159,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-08-05T23:34:07.949Z",
+    "totalSupplyUsd": 1597281,
+    "totalBorrowUsd": 674741,
+    "debtCeilingUsd": null,
+    "apyBase": 0.6603,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.08412,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-08-06T23:03:06.718Z",
+    "totalSupplyUsd": 1623795,
+    "totalBorrowUsd": 685777,
+    "debtCeilingUsd": null,
+    "apyBase": 0.66002,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.08374,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-08-07T23:03:10.690Z",
+    "totalSupplyUsd": 1639876,
+    "totalBorrowUsd": 696517,
+    "debtCeilingUsd": null,
+    "apyBase": 0.66666,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.09277,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-08-08T23:03:02.115Z",
+    "totalSupplyUsd": 1630517,
+    "totalBorrowUsd": 692423,
+    "debtCeilingUsd": null,
+    "apyBase": 0.66646,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.09249,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-08-09T23:02:16.622Z",
+    "totalSupplyUsd": 1612330,
+    "totalBorrowUsd": 685383,
+    "debtCeilingUsd": null,
+    "apyBase": 0.66763,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.09408,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-08-10T23:06:15.206Z",
+    "totalSupplyUsd": 1634711,
+    "totalBorrowUsd": 694754,
+    "debtCeilingUsd": null,
+    "apyBase": 0.66739,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.09375,
+    "apyRewardBorrow": 0
+  },
+  {
+    "timestamp": "2025-08-11T20:02:21.179Z",
+    "totalSupplyUsd": 1653751,
+    "totalBorrowUsd": 702860,
+    "debtCeilingUsd": null,
+    "apyBase": 0.66741,
+    "apyReward": 0,
+    "apyBaseBorrow": 2.09379,
+    "apyRewardBorrow": 0
+  }
+]

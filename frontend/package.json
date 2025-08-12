@@ -1,0 +1,33 @@
+{
+  "name": "venus-optimizer-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "author": "Eden Solutions <ask@eden-solutions.pro> (https://eden-solutions.pro)",
+  "homepage": "https://eden-solutions.pro",
+  "bugs": {
+    "email": "ask@eden-solutions.pro",
+    "url": "https://eden-solutions.pro"
+  },
+  "scripts": {
+    "dev": "cross-env SASS_SILENCE_DEPRECATIONS=legacy-js-api vite",
+    "build": "cross-env SASS_SILENCE_DEPRECATIONS=legacy-js-api tsc -b && vite build",
+    "preview": "cross-env SASS_SILENCE_DEPRECATIONS=legacy-js-api vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "chart.js": "^4.4.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.3",
+    "sass": "^1.77.8",
+    "sass-embedded": "^1.79.4",
+    "cross-env": "^7.0.3"
+  }
+}
+
