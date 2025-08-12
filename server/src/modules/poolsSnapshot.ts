@@ -48,6 +48,12 @@ export type PoolsSnapshot = {
     vTokenAddress: string;
     underlyingAddress?: string;
     blocksPerYear: number;
+    // Live metrics at snapshot time
+    supplyApyPercent?: number;
+    borrowApyPercent?: number;
+    totalSupplyUnderlying?: number;
+    totalBorrowsUnderlying?: number;
+    supplyRatePerBlock?: number;
     /** Type fonctionnel du token sous-jacent: stable, wrapped, ou token générique */
     type?: 'stable' | 'wrapped' | 'token';
     avgSupplyApy1m?: number;
@@ -116,6 +122,11 @@ export async function runPoolsSnapshot(options?: PoolsSnapshotOptions): Promise<
       vTokenAddress: m.vTokenAddress,
       underlyingAddress: m.underlyingAddress,
       blocksPerYear: m.blocksPerYear,
+      supplyApyPercent: m.supplyApyPercent,
+      borrowApyPercent: m.borrowApyPercent,
+      totalSupplyUnderlying: m.totalSupplyUnderlying,
+      totalBorrowsUnderlying: m.totalBorrowsUnderlying,
+      supplyRatePerBlock: m.supplyRatePerBlock,
       type: (m as any).type,
     })),
   };
@@ -324,6 +335,11 @@ export async function runPoolsSnapshot(options?: PoolsSnapshotOptions): Promise<
       vTokenAddress: m.vTokenAddress,
       underlyingAddress: m.underlyingAddress,
       blocksPerYear: m.blocksPerYear,
+      supplyApyPercent: m.supplyApyPercent,
+      borrowApyPercent: m.borrowApyPercent,
+      totalSupplyUnderlying: m.totalSupplyUnderlying,
+      totalBorrowsUnderlying: m.totalBorrowsUnderlying,
+      supplyRatePerBlock: m.supplyRatePerBlock,
       type: (m as any).type,
       avgSupplyApy1m: avg1m,
       avgSupplyApy3m: avg3m,
