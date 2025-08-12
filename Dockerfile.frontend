@@ -13,10 +13,16 @@ RUN npm run build -w frontend
 FROM node:20-alpine
 WORKDIR /app
 
-# Only need built assets + vite for preview
+# Copy workspace manifests so -w frontend works at runtime
+COPY package.json package-lock.json ./
+COPY frontend/package.json frontend/package.json
+COPY frontend/vite.config.ts frontend/vite.config.ts
+
+# Install frontend deps (including dev) needed for vite preview
+RUN npm ci -w frontend
+
+# Bring built assets from builder stage
 COPY --from=build /app/frontend/dist /app/frontend/dist
-COPY --from=build /app/frontend/package.json /app/frontend/package.json
-RUN npm install -w frontend --omit=dev --ignore-scripts --no-audit --no-fund || true
 
 EXPOSE 5173
 CMD ["npm", "run", "preview", "-w", "frontend", "--", "--host", "0.0.0.0", "--strictPort", "true"]
